@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b45f00d8da0ccd7b",
+            "id": "fd70f56eba9dc2a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IMINOM 2 - wykład.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IMINOM 2 - wykład.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IMINOM 2 - wykład.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IMINOM 2 - wykład.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -138,17 +130,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b45f00d8da0ccd7b",
+  "active": "fd70f56eba9dc2a1",
   "lastOpenFiles": [
-    "Materiały węglowe.md",
-    "Kompozyty.md",
-    "en.wikipedia.org/wiki/composite_bow.md",
-    "K2/K2.md",
-    "Metody badań materiałów.md",
-    "test.md",
-    "Nanokompozyty.md",
-    "K2/Pasted image 20221019203308.png",
-    "Nanomateriały.md",
-    "EPAP.md"
+    "Metody badań materiałów/21.10.22.md",
+    "Metody badań materiałów/Metody badań materiałów.md",
+    "Metody badań materiałów/07.10.22.md",
+    "Metody badań materiałów/14.10.22.md",
+    "Recykling materiałów.md",
+    "Podstawy technologii chemicznej.md",
+    "IMINOM 2 - wykład.md",
+    "IMINOM 2 - seminarium.md",
+    "7 październik 22.md",
+    "Nanokompozyty.md"
   ]
 }
