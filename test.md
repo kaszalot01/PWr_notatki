@@ -1,1 +1,0 @@
-Litwo ojczyzno moja

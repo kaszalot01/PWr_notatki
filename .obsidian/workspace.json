@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nanokompozyty.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "87f4b1a790c026f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
+                "file": "IMINOM 2 - wykład.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
-    "collapsed": true
+    "width": 322.5
   },
   "right": {
     "id": "cb573b74486533c6",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "IMINOM 2 - wykład.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "IMINOM 2 - wykład.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "IMINOM 2 - wykład.md"
               }
             }
           }
@@ -152,17 +138,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "87f4b1a790c026f1",
+  "active": "b45f00d8da0ccd7b",
   "lastOpenFiles": [
-    "Nanokompozyty.md",
+    "Materiały węglowe.md",
+    "Kompozyty.md",
+    "en.wikipedia.org/wiki/composite_bow.md",
+    "K2/K2.md",
+    "Metody badań materiałów.md",
     "test.md",
+    "Nanokompozyty.md",
     "K2/Pasted image 20221019203308.png",
     "Nanomateriały.md",
-    "en.wikipedia.org/wiki/composite_bow.md",
-    "EPAP.md",
-    "Recykling materiałów.md",
-    "Podstawy technologii chemicznej.md",
-    "Optyka materiałów.md",
-    "Metody badań materiałów.md"
+    "EPAP.md"
   ]
 }

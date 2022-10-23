@@ -86,3 +86,17 @@ Połowa masy Boeinga 787 to kompozyty.
 > *Sęk* - kabaret dudek
 
 ` rysunek drzewa ` - sęk jest potężny; największy na gałąź moment działa przy pniu ale tam właśnie gałąź jest najgrubsza a włókna w sęku zachowują się odpowiednio
+
+## 18.10.22
+
+  
+
+Bionika  - naśladowanie natury w rowiązaniach technicznych
+
+  
+
+Sufit żebrowy z klejonego drewna, bambusowa rama rowerowa
+
+  
+
+suszenie/sezonowanie, odkształcenia, pękanie

@@ -215,3 +215,101 @@ Dla pomiarów rezystancji powierzchniowej - pierścień jest elektrodą napięci
 `Rysunek obu układów w zeszycie do kompozytów`
 
 Trzeba przykłądać takie napięcie żeby natężenie pola było w zakresie $0.1-1kV/mm$
+
+## 21.10.20
+
+### O laboratorium
+
+dr hab. Wojcieszak (?) - 4 ostatnie terminy labów W12
+6 pierwszych dr Marcin Lewandowski
+Pierwsze laby 09.11.
+
+Program laboratorium (W5):
+
+1. Badanie rezystywności dielektryków
+2. Wyznaczanie przenikalności elektrycznej
+3. Pomiary współczynnika strat dielektrycznych
+4. Pomiary właściwości mechanicznych i cieplnych materiałów
+5. Badanie efektu Halla
+
+Żeby zaliczyć laby trzeba zaliczyć wszystkie ćwiczenia
+
+Materiały:
+1. Wykład
+2. **Skrypt pod red. J. Rutkowskiego "Podstawy inżynierii materiałowej Laboratorium" (w zasobach Dolnośląskiej Biblioteki Cyfrowej)**
+3. Zdzisław Celiński, "Materiałoznawstwo elektrotechniczne" 
+4. Materiały na MS Teams
+
+Wejściówki pisemne lub ustne
+Sprawozdania trzeba oddać na następne ćwiczenie, inaczej nie dopuszczają do następnego ćwiczenie.
+
+Sprawozdanie
+1. Cel i zakres pracy
+2. Opis sposobu wykonania ćwiczenia (W tym numery norm!)
+3. Schematy układów pomiarowych
+4. Spis przyrządów
+5. Warunki środowiskowe (temperatura, wilgotność, ciśnienie)
+6. Wyniki pomiarów w tabelach wykresy
+7. Przykłady obliczeń (jednostki!)
+8. Podstawowy rachunek błędów
+9. Interpretacja wyników pomiarów, porównanie z danymi katalogowymi
+10. Protokół z pomiarów, podpisany przez prowadzącego zajęcia
+
+>to do: skrypt "csv->tabela latex"
+
+1 sprawozdanie na grupę
+
+|Numer grupy laboratoryjnej |Numer n-tego ćwiczenia|
+|-|-|
+|1|n|
+|2|n+1|
+|3|n+2|
+
+Pół oceny za część W5 (gdzie pół połowy jest za wejściówki, drugie pół za sprawozdania) i pół za część W12
+
+### Wykład
+
+#### Z ostatniego wykładu
+
+Do pomiaru rezystancji skrośnej i powierzchniowej stosuje się układ trójelektrodowy.
+
+Zadaniem pierścienia ochronnego jest:
+- ujednorodnienie pola elektrycznego
+- wyeliminowanie prądów powierzchniowych gdy mierzymy rezystancję skrośną
+- vice versa jw.
+
+Natężenie pola elektrycznego przy pomiarach - $0.1-1\frac{kV}{mm}$
+
+#### Pomiar rezystancji dielektryków - w której chwili mierzymy?
+
+W chwili przyłożenia napięcia prąd ma dwie składowe - prąd upływu i polaryzacji. 
+
+`Wykres zależnośći prądu płynącego przez dielektryk od czasu - w zeszycie od lab. komp.`
+
+Zasada kciuka dla pomiaru rezystancji powierzchniowej dielektryków stałych- odczekać 60[s] przed pomiarem (dla materiałów tradycyjnych, powszechnie stosowanych)
+
+Zasada kciuka dla pomiaru rezystancji skrośnej d.s. - odczekać 60[s], jeśli nie będzie stabilny wykonujemy dynamiczną charakterystykę (pomiary po 1, 2, 3, 5, 10, 25, 50, 100 minutach)
+
+Dla dielektryków ciekłych - odczekiwać 5 [min] (skrośna, powierzchniowej się nie mierzy)
+
+W nowoczesnych materiałach prąd przejściowy może płynąc przez dziesiątki lat
+
+`Porównanie pomairów w układach dwu- i trój-elektrodowych - krótko wisiały, Franek ma zdjęcia`
+
+#### Metody pomiaru rezystancji
+
+Niezbędny pomiar rezystancji w zakresie $10^6$ do $10^{18} [\Omega]$.
+Metody:
+1. techniczne
+2. mostkowe
+3. porównawcze
+4. ładowania kondensatora
+5. elektrometryczne
+
+|metody| pomiar rezystacnji|
+|-|-|
+|1,2,3| $<10^{13}$|
+|4,5|$>10^{13}$|
+
+Metoda techniczna - metoda woltomierz-amperomierz, porównanie napięcia doprowadzonego do elektrod i prądu płynącego między nimi ($R_x=\frac{U_x}{I_x}=\frac{U_x}{\alpha\cdot p  \cdot C_i}$ ), gdzie $\alpha [dz]$ - wychylenie galwanometru, $C_i [\frac{A}{dz}]$ - stała prądowa,  $p$ - przekładnia bocznika, `schemat w zeszycie`.
+Metoda ładowania kondensatora - pomiar napięcia $U_c$ na kondensatorze wzorcowym $C_N$, ładowanym prądem płynącym przez badaną rezystancję, oraz czasu $t$, po upływie którego na pojemności $C_N$ pojawi się napięcie $U_c$, `schemat w zeszycie`
