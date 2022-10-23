@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "28362593653723bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "9175c0764d6c3d18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b45f00d8da0ccd7b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "6e3944943c56c75a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "K2/Pasted image 20221019203308.png"
+              }
+            }
+          },
+          {
+            "id": "631abb68b5e90330",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nanokompozyty.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44377c74df76762d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6f1d5eedf3bab64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a5a5dfc92d050a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e495b9a17cfa6da6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b964403f8075c4e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "cb573b74486533c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a43f43a350e3ebb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4ac5a9a12a6715b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Nanokompozyty.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "76ad88c9abf4ea1f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Nanokompozyty.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c220607c82cc9210",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "989d5daf9621b105",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Nanokompozyty.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "631abb68b5e90330",
+  "lastOpenFiles": [
+    "Nanomateriały.md",
+    "en.wikipedia.org/wiki/composite_bow.md",
+    "EPAP.md",
+    "Recykling materiałów.md",
+    "Podstawy technologii chemicznej.md",
+    "Optyka materiałów.md",
+    "Nanokompozyty.md",
+    "Metody badań materiałów.md",
+    "Materiały węglowe.md",
+    "Kompozyty - laboratorium.md"
+  ]
+}
