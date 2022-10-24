@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "9175c0764d6c3d18",
+        "id": "e794d119edd4372c",
         "type": "tabs",
         "children": [
           {
-            "id": "fd70f56eba9dc2a1",
+            "id": "30758a87b3a2c68c",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -81,8 +81,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -125,22 +125,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fd70f56eba9dc2a1",
+  "active": "1a5a5dfc92d050a8",
   "lastOpenFiles": [
-    "Metody badań materiałów/21.10.22.md",
-    "Metody badań materiałów/Metody badań materiałów.md",
-    "Metody badań materiałów/07.10.22.md",
-    "Metody badań materiałów/14.10.22.md",
-    "Recykling materiałów.md",
-    "Podstawy technologii chemicznej.md",
-    "IMINOM 2 - wykład.md",
-    "IMINOM 2 - seminarium.md",
-    "7 październik 22.md",
-    "Nanokompozyty.md"
+    "2022-10-24.md",
+    "1 Poniedziałek/4 Recykling materiałów/0 Recykling materiałów.md",
+    "1 Poniedziałek/4 Recykling materiałów/RM 17.10.22.md",
+    "2 Wtorek/1 Podstawy technologii chemicznej/0 Podstawy technologii chemicznej.md",
+    "2 Wtorek/1 Podstawy technologii chemicznej/PTCH 11.10.22.md",
+    "2 Wtorek/1 Podstawy technologii chemicznej/PTCH 04.10.22.md",
+    "1 Poniedziałek/1 Optyka materiałów/OM 24.10.22.md",
+    "1 Poniedziałek/1 Optyka materiałów/0 Optyka materiałów.md",
+    "1 Poniedziałek/1 Optyka materiałów/OM 17.10.22.md",
+    "2 Wtorek/2 Nanomateriały/0 Nanomateriały.md"
   ]
 }

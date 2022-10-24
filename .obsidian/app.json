@@ -1,5 +1,5 @@
 {
-  "livePreview": false,
+  "livePreview": true,
   "defaultViewMode": "preview",
   "pdfExportSettings": {
     "includeName": false,
@@ -8,5 +8,11 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "spellcheck": true,
+  "promptDelete": false,
+  "showLineNumber": true,
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "./",
+  "alwaysUpdateLinks": true
 }

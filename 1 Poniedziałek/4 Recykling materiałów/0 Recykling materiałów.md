@@ -1,0 +1,13 @@
+Dr hab. inż. Konrad Szustakiewicz, prof. PWr
+
+H6, p.12 lub L2, p. 1.16.1
+
+Konsultacje TBD (pon przed wykładem)
+
+coś jojczy że nie zawsze odczytuje mejle bo spam
+
+> Recykling materiałów jest to temat mało ciekawy
+
+Zaliczenie - 30.01.23 - test 20 pytań po 1 punkt, pytania zamknięte, jedna odpowiedź, pytania "półotwarte" - uzupełnij 1 słowem, zdaniem, podaj definicje, 11 punktów na 3, 19 na 5.
+
+[[RM 17.10.22]] 
