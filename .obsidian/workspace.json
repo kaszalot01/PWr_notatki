@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Piątek/3 Kompozyty - laboratorium/K3.md",
-                "mode": "preview",
+                "file": "5 Piątek/3 Kompozyty - laboratorium/0 Kompozyty - laboratorium.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 Piątek/3 Kompozyty - laboratorium/K3.md",
+                "file": "5 Piątek/3 Kompozyty - laboratorium/0 Kompozyty - laboratorium.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 Piątek/3 Kompozyty - laboratorium/K3.md",
+                "file": "5 Piątek/3 Kompozyty - laboratorium/0 Kompozyty - laboratorium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Piątek/3 Kompozyty - laboratorium/K3.md"
+                "file": "5 Piątek/3 Kompozyty - laboratorium/0 Kompozyty - laboratorium.md"
               }
             }
           }
@@ -140,9 +140,9 @@
   },
   "active": "f8c9360e961960bf",
   "lastOpenFiles": [
+    "5 Piątek/3 Kompozyty - laboratorium/K3.md",
     "5 Piątek/3 Kompozyty - laboratorium/K2.md",
     "3 Środa/3 Inżynieria chemiczna - projekt/0 Inżynieria chemiczna - projekt.md",
-    "5 Piątek/3 Kompozyty - laboratorium/K3.md",
     "5 Piątek/3 Kompozyty - laboratorium/0 Kompozyty - laboratorium.md",
     "2 Wtorek/5 Kompozyty - wykład/KOMP 25.10.22.md",
     "1 Poniedziałek/1 Optyka materiałów/OM 17.10.22.md",

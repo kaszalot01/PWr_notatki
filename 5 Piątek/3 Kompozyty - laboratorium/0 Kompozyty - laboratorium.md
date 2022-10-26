@@ -22,7 +22,8 @@
 [dostępny w bibliotece](https://primo.bg.pwr.edu.pl/primo_library/libweb/action/display.do?tabs=detailsTab&ct=display&fn=search&doc=48TUR_TUR01000092385&indx=2&recIds=48TUR_TUR01000092385&recIdxs=1&elementId=1&renderMode=poppedOut&displayMode=full&frbrVersion=&frbg=&&vl(1UI0)=contains&dscnt=0&scp.scps=scope%3A%2848TUR_TUR03%29%2Cscope%3A%2848TUR_baztech%29%2Cscope%3A%2848TUR_TUR01%29%2Cscope%3A%2848TUR_dlibra%29%2Cscope%3A%2848TUR_ejournals%29%2Cprimo_central_multiple_fe&tb=t&vid=48TUR_VIEW&mode=Basic&srt=rank&tab=all_tab&dum=true&vl(freeText0)=Chemia%20polimer%C3%B3w%20T%202&dstmp=1665247123787)
 * *Chemia i technologia żywic epoksydowych*, P. Czub et al. (laby 5)
 [dostępny w bibliotece](https://primo.bg.pwr.edu.pl/primo_library/libweb/action/display.do?tabs=detailsTab&ct=display&fn=search&doc=48TUR_TUR01000106246&indx=1&recIds=48TUR_TUR01000106246&recIdxs=0&elementId=0&renderMode=poppedOut&displayMode=full&frbrVersion=&frbg=&&vl(1UI0)=contains&dscnt=0&scp.scps=scope%3A%2848TUR_TUR03%29%2Cscope%3A%2848TUR_baztech%29%2Cscope%3A%2848TUR_TUR01%29%2Cscope%3A%2848TUR_dlibra%29%2Cscope%3A%2848TUR_ejournals%29%2Cprimo_central_multiple_fe&tb=t&vid=48TUR_VIEW&mode=Basic&srt=rank&tab=all_tab&dum=true&vl(freeText0)=Chemia%20i%20technologia%20%C5%BCywic%20epoksydowych&dstmp=1665247026654)
-
+- *Metody badań i ocena własności tworzyw sztucznych*, T. Broniewski et al. (laby 3)
+[dostępny online (Chemiczni Masoni)](https://drive.google.com/file/d/19MvCGHGrlcKNLjOhcn8MJvUwWOKCR_9M/view?usp=sharing)
 ## Ćwiczenie K1
 [[K1]]
 ## Ćwiczenie K2
