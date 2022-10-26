@@ -1,27 +1,22 @@
 {
   "main": {
-    "id": "28362593653723bf",
+    "id": "3310022f5670370c",
     "type": "split",
     "children": [
       {
-        "id": "68988ad116f49a8f",
+        "id": "1a35175062b2ff3a",
         "type": "tabs",
         "children": [
           {
-            "id": "f8c9360e961960bf",
+            "id": "c77847cc16262126",
             "type": "leaf",
             "state": {
-<<<<<<< HEAD
-              "type": "graph",
-              "state": {}
-=======
               "type": "markdown",
               "state": {
-                "file": "5 Piątek/3 Kompozyty - laboratorium/0 Kompozyty - laboratorium.md",
+                "file": "5 Piątek/3 Kompozyty - laboratorium/K3.md",
                 "mode": "source",
                 "source": false
               }
->>>>>>> 4b530f1e04400090454b9fe518b3466a49ec9fb4
             }
           }
         ]
@@ -30,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "44377c74df76762d",
+    "id": "bde1d0f5e51b2316",
     "type": "split",
     "children": [
       {
-        "id": "f6f1d5eedf3bab64",
+        "id": "584807d12a4b442b",
         "type": "tabs",
         "children": [
           {
-            "id": "1a5a5dfc92d050a8",
+            "id": "06900611ae0b1b77",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +43,7 @@
             }
           },
           {
-            "id": "e495b9a17cfa6da6",
+            "id": "b52ce0860bc08a8c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +58,7 @@
             }
           },
           {
-            "id": "0b964403f8075c4e",
+            "id": "3b24bf505a850da5",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -74,28 +69,25 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 300
   },
   "right": {
-    "id": "cb573b74486533c6",
+    "id": "c2ba2b438649d8ee",
     "type": "split",
     "children": [
       {
-        "id": "9a43f43a350e3ebb",
+        "id": "4f8c5911efda4e42",
         "type": "tabs",
         "children": [
           {
-            "id": "e4ac5a9a12a6715b",
+            "id": "d9237d180837e669",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "5 Piątek/3 Kompozyty - laboratorium/0 Kompozyty - laboratorium.md",
->>>>>>> 4b530f1e04400090454b9fe518b3466a49ec9fb4
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "5 Piątek/3 Kompozyty - laboratorium/K3.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -105,22 +97,19 @@
             }
           },
           {
-            "id": "76ad88c9abf4ea1f",
+            "id": "be056c0374db78ac",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "5 Piątek/3 Kompozyty - laboratorium/0 Kompozyty - laboratorium.md",
->>>>>>> 4b530f1e04400090454b9fe518b3466a49ec9fb4
+                "file": "5 Piątek/3 Kompozyty - laboratorium/K3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c220607c82cc9210",
+            "id": "c95983bba4c00240",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,52 +120,25 @@
             }
           },
           {
-            "id": "989d5daf9621b105",
+            "id": "f62e5d78ebb9df8a",
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< HEAD
-              "state": {}
-=======
               "state": {
-                "file": "5 Piątek/3 Kompozyty - laboratorium/0 Kompozyty - laboratorium.md"
+                "file": "5 Piątek/3 Kompozyty - laboratorium/K3.md"
               }
->>>>>>> 4b530f1e04400090454b9fe518b3466a49ec9fb4
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f8c9360e961960bf",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "3 Środa/3 Inżynieria chemiczna - projekt/ICP 26.10.22.md",
-    "3 Środa/3 Inżynieria chemiczna - projekt/0 Inżynieria chemiczna - projekt.md",
-    "2 Wtorek/5 Kompozyty - wykład/KOMP 25.10.22.md",
-    "2 Wtorek/5 Kompozyty - wykład/KOMP 04.10.22.md",
-    "2 Wtorek/5 Kompozyty - wykład/KOMP 11.10.22.md",
-    "2 Wtorek/5 Kompozyty - wykład/KOMP 17.10.22 za 08.11.22.md",
-    "2 Wtorek/5 Kompozyty - wykład/KOMP 18.10.22.md",
-    "2 Wtorek/5 Kompozyty - wykład/0 Kompozyty - wykład.md",
-    "2 Wtorek/1 Podstawy technologii chemicznej/PTCH 11.10.22.md",
-    "2 Wtorek/1 Podstawy technologii chemicznej/0 Podstawy technologii chemicznej.md"
-=======
-    "5 Piątek/3 Kompozyty - laboratorium/K3.md",
-    "5 Piątek/3 Kompozyty - laboratorium/K2.md",
-    "3 Środa/3 Inżynieria chemiczna - projekt/0 Inżynieria chemiczna - projekt.md",
-    "5 Piątek/3 Kompozyty - laboratorium/0 Kompozyty - laboratorium.md",
-    "2 Wtorek/5 Kompozyty - wykład/KOMP 25.10.22.md",
-    "1 Poniedziałek/1 Optyka materiałów/OM 17.10.22.md",
-    "1 Poniedziałek/1 Optyka materiałów/OM 24.10.22.md",
-    "2 Wtorek/5 Kompozyty - wykład/KOMP 04.10.22.md",
-    "2 Wtorek/5 Kompozyty - wykład/KOMP 11.10.22.md",
-    "2 Wtorek/5 Kompozyty - wykład/KOMP 17.10.22 za 08.11.22.md"
->>>>>>> 4b530f1e04400090454b9fe518b3466a49ec9fb4
-  ]
+  "active": "c77847cc16262126",
+  "lastOpenFiles": []
 }
