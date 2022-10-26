@@ -11,8 +11,17 @@
             "id": "f8c9360e961960bf",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "graph",
               "state": {}
+=======
+              "type": "markdown",
+              "state": {
+                "file": "5 Piątek/3 Kompozyty - laboratorium/0 Kompozyty - laboratorium.md",
+                "mode": "source",
+                "source": false
+              }
+>>>>>>> 4b530f1e04400090454b9fe518b3466a49ec9fb4
             }
           }
         ]
@@ -81,6 +90,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "5 Piątek/3 Kompozyty - laboratorium/0 Kompozyty - laboratorium.md",
+>>>>>>> 4b530f1e04400090454b9fe518b3466a49ec9fb4
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "5 Piątek/3 Kompozyty - laboratorium/0 Kompozyty - laboratorium.md",
+>>>>>>> 4b530f1e04400090454b9fe518b3466a49ec9fb4
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +135,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {}
+=======
+              "state": {
+                "file": "5 Piątek/3 Kompozyty - laboratorium/0 Kompozyty - laboratorium.md"
+              }
+>>>>>>> 4b530f1e04400090454b9fe518b3466a49ec9fb4
             }
           }
         ]
@@ -132,6 +155,7 @@
   },
   "active": "f8c9360e961960bf",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "3 Środa/3 Inżynieria chemiczna - projekt/ICP 26.10.22.md",
     "3 Środa/3 Inżynieria chemiczna - projekt/0 Inżynieria chemiczna - projekt.md",
     "2 Wtorek/5 Kompozyty - wykład/KOMP 25.10.22.md",
@@ -142,5 +166,17 @@
     "2 Wtorek/5 Kompozyty - wykład/0 Kompozyty - wykład.md",
     "2 Wtorek/1 Podstawy technologii chemicznej/PTCH 11.10.22.md",
     "2 Wtorek/1 Podstawy technologii chemicznej/0 Podstawy technologii chemicznej.md"
+=======
+    "5 Piątek/3 Kompozyty - laboratorium/K3.md",
+    "5 Piątek/3 Kompozyty - laboratorium/K2.md",
+    "3 Środa/3 Inżynieria chemiczna - projekt/0 Inżynieria chemiczna - projekt.md",
+    "5 Piątek/3 Kompozyty - laboratorium/0 Kompozyty - laboratorium.md",
+    "2 Wtorek/5 Kompozyty - wykład/KOMP 25.10.22.md",
+    "1 Poniedziałek/1 Optyka materiałów/OM 17.10.22.md",
+    "1 Poniedziałek/1 Optyka materiałów/OM 24.10.22.md",
+    "2 Wtorek/5 Kompozyty - wykład/KOMP 04.10.22.md",
+    "2 Wtorek/5 Kompozyty - wykład/KOMP 11.10.22.md",
+    "2 Wtorek/5 Kompozyty - wykład/KOMP 17.10.22 za 08.11.22.md"
+>>>>>>> 4b530f1e04400090454b9fe518b3466a49ec9fb4
   ]
 }
