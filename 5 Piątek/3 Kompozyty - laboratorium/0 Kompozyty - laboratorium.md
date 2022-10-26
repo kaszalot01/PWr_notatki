@@ -28,22 +28,7 @@
 ## Ćwiczenie K2
 [[K2]]
 ## Ćwiczenie K3
-
-### Instrukcja
-
-[Instrukcja](https://drive.google.com/file/d/1zQQ2cr3J3AGj9wmj5ig3sggbXhkFyMLF/view?usp=sharing)
-
-### Zagadnienia
-
-* Udarność
-* Twardość
-* Wytrzymałość na rozciąganie
-* wzmocnienie różnokierunkowe
-
-### Opracowanie
-
-TDTD
-
+[[K3]]
 ## Ćwiczenie K4
 
 ### Instrukcja
