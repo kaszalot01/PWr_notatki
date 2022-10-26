@@ -11,3 +11,4 @@ coś jojczy że nie zawsze odczytuje mejle bo spam
 Zaliczenie - 30.01.23 - test 20 pytań po 1 punkt, pytania zamknięte, jedna odpowiedź, pytania "półotwarte" - uzupełnij 1 słowem, zdaniem, podaj definicje, 11 punktów na 3, 19 na 5.
 
 [[RM 17.10.22]] 
+[[RM 24.10.22]]

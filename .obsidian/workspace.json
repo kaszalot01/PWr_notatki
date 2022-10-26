@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e794d119edd4372c",
+        "id": "68988ad116f49a8f",
         "type": "tabs",
         "children": [
           {
-            "id": "30758a87b3a2c68c",
+            "id": "f8c9360e961960bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2 Wtorek/5 Kompozyty - wykład/KOMP 25.10.22.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2 Wtorek/5 Kompozyty - wykład/KOMP 25.10.22.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2 Wtorek/5 Kompozyty - wykład/KOMP 25.10.22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,30 +124,31 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2 Wtorek/5 Kompozyty - wykład/KOMP 25.10.22.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1a5a5dfc92d050a8",
+  "active": "f8c9360e961960bf",
   "lastOpenFiles": [
-    "2022-10-24.md",
-    "1 Poniedziałek/4 Recykling materiałów/0 Recykling materiałów.md",
-    "1 Poniedziałek/4 Recykling materiałów/RM 17.10.22.md",
-    "2 Wtorek/1 Podstawy technologii chemicznej/0 Podstawy technologii chemicznej.md",
+    "2 Wtorek/5 Kompozyty - wykład/KOMP 04.10.22.md",
+    "2 Wtorek/5 Kompozyty - wykład/KOMP 11.10.22.md",
+    "2 Wtorek/5 Kompozyty - wykład/KOMP 17.10.22 za 08.11.22.md",
+    "2 Wtorek/5 Kompozyty - wykład/KOMP 18.10.22.md",
+    "2 Wtorek/5 Kompozyty - wykład/KOMP 25.10.22.md",
+    "2 Wtorek/5 Kompozyty - wykład/0 Kompozyty - wykład.md",
     "2 Wtorek/1 Podstawy technologii chemicznej/PTCH 11.10.22.md",
+    "2 Wtorek/1 Podstawy technologii chemicznej/0 Podstawy technologii chemicznej.md",
     "2 Wtorek/1 Podstawy technologii chemicznej/PTCH 04.10.22.md",
-    "1 Poniedziałek/1 Optyka materiałów/OM 24.10.22.md",
-    "1 Poniedziałek/1 Optyka materiałów/0 Optyka materiałów.md",
-    "1 Poniedziałek/1 Optyka materiałów/OM 17.10.22.md",
-    "2 Wtorek/2 Nanomateriały/0 Nanomateriały.md"
+    "2 Wtorek/4 Materiały węglowe/MW 25.10.22.md"
   ]
 }

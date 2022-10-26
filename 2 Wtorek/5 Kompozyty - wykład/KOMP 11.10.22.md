@@ -12,7 +12,7 @@ insert - (wtopka, wstawka) element metalowy wstawiony w przedmiot w miejscu gdzi
 
 `pytanie na kolokwium - proszę zaprojektować korbowód`
 
-`pytanie na kolowkium - proszę zaprojektować proteze Pistoriusa`
+`pytanie na kolowkium - proszę zaprojektować protezę Pistoriusa`
 
 korbowód - płyta z otworami na obu końcach - na formie z wypustkami owijać włókna wokół i w ósemkę - nie robić otworów
 
