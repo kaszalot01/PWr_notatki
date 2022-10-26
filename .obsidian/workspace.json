@@ -11,12 +11,8 @@
             "id": "f8c9360e961960bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Wtorek/5 Kompozyty - wykład/KOMP 25.10.22.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Wtorek/5 Kompozyty - wykład/KOMP 25.10.22.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Wtorek/5 Kompozyty - wykład/KOMP 25.10.22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2 Wtorek/5 Kompozyty - wykład/KOMP 25.10.22.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -140,15 +132,15 @@
   },
   "active": "f8c9360e961960bf",
   "lastOpenFiles": [
+    "3 Środa/3 Inżynieria chemiczna - projekt/ICP 26.10.22.md",
+    "3 Środa/3 Inżynieria chemiczna - projekt/0 Inżynieria chemiczna - projekt.md",
+    "2 Wtorek/5 Kompozyty - wykład/KOMP 25.10.22.md",
     "2 Wtorek/5 Kompozyty - wykład/KOMP 04.10.22.md",
     "2 Wtorek/5 Kompozyty - wykład/KOMP 11.10.22.md",
     "2 Wtorek/5 Kompozyty - wykład/KOMP 17.10.22 za 08.11.22.md",
     "2 Wtorek/5 Kompozyty - wykład/KOMP 18.10.22.md",
-    "2 Wtorek/5 Kompozyty - wykład/KOMP 25.10.22.md",
     "2 Wtorek/5 Kompozyty - wykład/0 Kompozyty - wykład.md",
     "2 Wtorek/1 Podstawy technologii chemicznej/PTCH 11.10.22.md",
-    "2 Wtorek/1 Podstawy technologii chemicznej/0 Podstawy technologii chemicznej.md",
-    "2 Wtorek/1 Podstawy technologii chemicznej/PTCH 04.10.22.md",
-    "2 Wtorek/4 Materiały węglowe/MW 25.10.22.md"
+    "2 Wtorek/1 Podstawy technologii chemicznej/0 Podstawy technologii chemicznej.md"
   ]
 }

@@ -7,7 +7,7 @@ Można chodzić na dowolną grupę:
 
 Listy zadań na eportalu. Elementy projektowania w postaci zadań.
 Zaliczenie: kolokwium z zadaniami (jest poprawa).
-Obecność obowiązkowa. Dozwolona 1 nieodrobiana nieobecność.
+Obecność obowiązkowa. Dozwolona 1 nieodrobiona nieobecność.
 
 Podział zagadnień inżynierii chemicznej:
 
@@ -16,6 +16,8 @@ Podział zagadnień inżynierii chemicznej:
 * wymiana masy
 
 Plus = 0.5 punktu do kolokwium
-Kolowkium jest na 15 puntów
+Kolokwium jest na 15 punktów
 Trzeba bezwzględnie zdobyć 7.5 na kolosie
 Plusy liczą się tylko do pierwszego terminu
+
+[[ICP 26.10.22]]
