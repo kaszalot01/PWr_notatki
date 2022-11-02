@@ -41,4 +41,4 @@ Metody:
 |4,5|$>10^{13}$|
 
 Metoda techniczna - metoda woltomierz-amperomierz, porównanie napięcia doprowadzonego do elektrod i prądu płynącego między nimi ($R_x=\frac{U_x}{I_x}=\frac{U_x}{\alpha\cdot p  \cdot C_i}$ ), gdzie $\alpha [dz]$ - wychylenie galwanometru, $C_i [\frac{A}{dz}]$ - stała prądowa,  $p$ - przekładnia bocznika, `schemat w zeszycie`.
-Metoda ładowania kondensatora - pomiar napięcia $U_c$ na kondensatorze wzorcowym $C_N$, ładowanym prądem płynącym przez badaną rezystancję, oraz czasu $t$, po upływie którego na pojemności $C_N$ pojawi się napięcie $U_c$, `schemat w zeszycie`
+Metoda ładowania kondensatora - pomiar napięcia $U_c$ na kondensatorze wzorcowym $C_N$, ładowanym prądem płynącym przez badaną rezystancję, oraz czasu $t$, po upływie którego na pojemności $C_N$ pojawi się napięcie $U_c$, rezystancja dana jest wzorem $R_x=\frac{U\cdot t }{C_n \cdot U_c}$ , gdzie U to napięcie doprowadzone do próbki`schemat w zeszycie`

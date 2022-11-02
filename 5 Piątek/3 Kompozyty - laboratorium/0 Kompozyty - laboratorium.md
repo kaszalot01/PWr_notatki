@@ -1,8 +1,8 @@
 >Ja, Jan Pytel, przysięgam w obliczu Boga całemu kierunkowi, iż zdobytej przeze mnie wiedzy przed nikim nie zataję, lecz dumnie jej dla zaliczenia przez wszystkich studentów labów z kompozytów użyczać będę. Tak mi Panie Boże dopomóż i niewinna męka starszych studentów.
 
 ## Harmonogram
-[link do harmonogramu](https://docs.google.com/document/d/1WmF3xwGMI7GNQjyykVq3xwWLQV9ZXG56/edit?usp=sharing&ouid=108855530762561516232&rtpof=true&sd=true)
 
+[link do harmonogramu](https://docs.google.com/document/d/1WmF3xwGMI7GNQjyykVq3xwWLQV9ZXG56/edit?usp=sharing&ouid=108855530762561516232&rtpof=true&sd=true)
 
 ## Literatura:
 
@@ -24,14 +24,39 @@
 [dostępny w bibliotece](https://primo.bg.pwr.edu.pl/primo_library/libweb/action/display.do?tabs=detailsTab&ct=display&fn=search&doc=48TUR_TUR01000106246&indx=1&recIds=48TUR_TUR01000106246&recIdxs=0&elementId=0&renderMode=poppedOut&displayMode=full&frbrVersion=&frbg=&&vl(1UI0)=contains&dscnt=0&scp.scps=scope%3A%2848TUR_TUR03%29%2Cscope%3A%2848TUR_baztech%29%2Cscope%3A%2848TUR_TUR01%29%2Cscope%3A%2848TUR_dlibra%29%2Cscope%3A%2848TUR_ejournals%29%2Cprimo_central_multiple_fe&tb=t&vid=48TUR_VIEW&mode=Basic&srt=rank&tab=all_tab&dum=true&vl(freeText0)=Chemia%20i%20technologia%20%C5%BCywic%20epoksydowych&dstmp=1665247026654)
 - *Metody badań i ocena własności tworzyw sztucznych*, T. Broniewski et al. (laby 3)
 [dostępny online (Chemiczni Masoni)](https://drive.google.com/file/d/19MvCGHGrlcKNLjOhcn8MJvUwWOKCR_9M/view?usp=sharing)
+
 ## Ćwiczenie K1
+
 [[K1]]
+
 ## Ćwiczenie K2
+
 [[K2]]
+
 ## Ćwiczenie K3
+
 [[K3]]
+
 ## Ćwiczenie K4
-[[K4]]
+
+### Instrukcja
+
+[Instrukcja](https://drive.google.com/file/d/1zgSHUHo18icaLfeqEEDb4pl71S-P2-Cv/view?usp=sharing)
+
+### Zagadnienia
+
+* Laminowanie
+    * ręczne natryskoe
+    * z zastosowaniem elastycznego worka
+* infuzja
+* napełniacze
+* włókna wzmacniające
+    * szklane
+    * preparacje powierzchniowe
+
+### Opracowanie
+TDTD
+
 ## Ćwiczenie K5
 
 ### Instrukcja

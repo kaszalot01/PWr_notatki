@@ -50,3 +50,4 @@ Obecność na wykładzie nie ma wpływu na ocenę
 
 [[NK 06.10.22]]
 [[NK 13.10.22]]
+[[NK 27.10.22]]
