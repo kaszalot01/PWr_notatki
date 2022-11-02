@@ -31,25 +31,7 @@
 ## Ćwiczenie K3
 [[K3]]
 ## Ćwiczenie K4
-
-### Instrukcja
-
-[Instrukcja](https://drive.google.com/file/d/1zgSHUHo18icaLfeqEEDb4pl71S-P2-Cv/view?usp=sharing)
-
-### Zagadnienia
-
-* Laminowanie
-    * ręczne natryskoe
-    * z zastosowaniem elastycznego worka
-* infuzja
-* napełniacze
-* włókna wzmacniające
-    * szklane
-    * preparacje powierzchniowe
-
-### Opracowanie
-TDTD
-
+[[K4]]
 ## Ćwiczenie K5
 
 ### Instrukcja
