@@ -108,3 +108,4 @@ Pół oceny za część W5 (gdzie pół połowy jest za wejściówki, drugie pó
 [[MBM 07.10.22]]
 [[MBM 14.10.22]]
 [[MBM 21.10.22]]
+[[MBM 28.10.22]]
