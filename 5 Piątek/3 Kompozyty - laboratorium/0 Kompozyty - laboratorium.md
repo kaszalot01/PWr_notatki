@@ -41,23 +41,7 @@
 [[K4]]
 
 ## Ćwiczenie K5
-
-### Instrukcja
-
-[Instrukcja](https://drive.google.com/file/d/19Gej9uxRmTdozi0fHriZ8mSSDPk6izTY/view?usp=sharing)
-
-### Zagadnienia
-
-* Mechanizm utwardzania żywic epoksydowych
-* Odlewanie
-* Formowanie negatywowe
-* uelastycznianie żywic epoksydowych
-* właściwości kompozycji epoksydowych
-* właściwości utwardzonej żywicy lanej
-
-### Opracowanie
-
-TDTD
+[[K5]]
 
 ## Ćwiczenie K6
 
