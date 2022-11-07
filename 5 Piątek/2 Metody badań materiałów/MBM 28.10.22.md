@@ -51,7 +51,7 @@ Rezystywność skrośna - podsumowanie
 - Rezystywność skrośna dielektryków maleje ze wzrostem temperatury w wyniku zwiększenia jonizacji. Szczególnie silny wpływ obserwuje się w cząstkach z wiązaniami jonowymi. np. szkło sodowe
 - rezystywność skrośna dielektryków ciekłych i stałych zależy silnie od stopnia zanieczyszczenia i zawilgocenia. Zanieczyszczenia tworzą dodatkowe źródło swobodnych jonów.
 - najwyższe wartości rezystywności skrośnej osiągają dielektryki niepolarne
-- ...
+- ... (przełączyła slajd)
 
 Rezystywność powierzchniowa - podsumowanie
 
@@ -59,7 +59,7 @@ Rezystywność powierzchniowa - podsumowanie
 - odnosi się tylko do dielektryków stałych
 - zależy bardzo silnie od ich budowy, stopnia zanieczyszczenia, od stopnia zawilgocenia ich powierzchni
 - największe wartości dla dielektryków, których powierzchnie nie ulegają zwilżeniu: parafina 10e16 Om, najmniejsze...
-- ...
+- ... (przełączyła slajd)
 
 ## Konduktywność półprzewodników
 

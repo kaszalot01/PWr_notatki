@@ -9,3 +9,4 @@ Zaliczenie:
 
 [[PTCH 04.10.22]]
 [[PTCH 11.10.22]]
+[[PTCH 25.10.22]]

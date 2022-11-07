@@ -80,6 +80,13 @@ Materiały:
 Wejściówki pisemne lub ustne
 Sprawozdania trzeba oddać na następne ćwiczenie, inaczej nie dopuszczają do następnego ćwiczenie.
 
+|Numer grupy| Strony w skrypcie|
+|-|-|
+|1|7-19|
+|2|19-29|
+|3|29-41|
+|4|69-87, 115-122|
+
 Sprawozdanie
 1. Cel i zakres pracy
 2. Opis sposobu wykonania ćwiczenia (W tym numery norm!)
@@ -109,3 +116,5 @@ Pół oceny za część W5 (gdzie pół połowy jest za wejściówki, drugie pó
 [[MBM 14.10.22]]
 [[MBM 21.10.22]]
 [[MBM 28.10.22]]
+[[MBM 04.11.22]]
+
