@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Poniedziałek/3 Inżynieria chemiczna - wykład/IC 07.11.22.md",
+                "file": "2 Wtorek/4 Materiały węglowe/MW 08.11.22.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Poniedziałek/3 Inżynieria chemiczna - wykład/IC 07.11.22.md",
+                "file": "2 Wtorek/4 Materiały węglowe/MW 08.11.22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Poniedziałek/3 Inżynieria chemiczna - wykład/IC 07.11.22.md",
+                "file": "2 Wtorek/4 Materiały węglowe/MW 08.11.22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Poniedziałek/3 Inżynieria chemiczna - wykład/IC 07.11.22.md"
+                "file": "2 Wtorek/4 Materiały węglowe/MW 08.11.22.md"
               }
             }
           }
@@ -151,15 +151,15 @@
   },
   "active": "665c06d93c1a6a5b",
   "lastOpenFiles": [
-    "1 Poniedziałek/3 Inżynieria chemiczna - wykład/IC 24.10.22.md",
-    "1 Poniedziałek/3 Inżynieria chemiczna - wykład/IC 07.11.22.md",
-    "1 Poniedziałek/3 Inżynieria chemiczna - wykład/IC 17.10.22.md",
-    "1 Poniedziałek/3 Inżynieria chemiczna - wykład/0 Inżynieria chemiczna - wykład.md",
-    "2 Wtorek/1 Podstawy technologii chemicznej/PTCH 25.10.22.md",
-    "2 Wtorek/1 Podstawy technologii chemicznej/PTCH 11.10.22.md",
-    "2 Wtorek/1 Podstawy technologii chemicznej/0 Podstawy technologii chemicznej.md",
-    "2 Wtorek/1 Podstawy technologii chemicznej/PTCH 04.10.22.md",
-    "5 Piątek/2 Metody badań materiałów/MBM 28.10.22.md",
-    "5 Piątek/2 Metody badań materiałów/MBM 04.11.22.md"
+    "2 Wtorek/4 Materiały węglowe/0 Materiały węglowe.md",
+    "2 Wtorek/4 Materiały węglowe/MW 08.11.22.md",
+    "2 Wtorek/4 Materiały węglowe/MW 25.10.22.md",
+    "2 Wtorek/3 IMINOM 2 - wykład/IMINOM 08.11.22.md",
+    "2 Wtorek/3 IMINOM 2 - wykład/IMINOM 18.10.22.md",
+    "2 Wtorek/5 Kompozyty - wykład/KOMP 11.10.22.md",
+    "2 Wtorek/5 Kompozyty - wykład/KOMP 04.10.22.md",
+    "5 Piątek/3 Kompozyty - laboratorium/K3.md",
+    "2 Wtorek/3 IMINOM 2 - wykład/0 IMINOM 2 - wykład.md",
+    "2 Wtorek/2 Nanomateriały/NM 08.11.22.md"
   ]
 }

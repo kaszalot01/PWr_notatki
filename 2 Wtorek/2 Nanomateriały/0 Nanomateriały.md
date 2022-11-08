@@ -30,3 +30,4 @@ Zaliczenie: test jednokrotnego wyboru (z punktami ujemnymi)
 [[NM 11.10.22]]
 [[NM 18.10.22]]
 [[NM 25.10.22]]
+[[NM 08.11.22]]
