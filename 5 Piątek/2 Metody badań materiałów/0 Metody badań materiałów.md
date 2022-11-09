@@ -1,3 +1,9 @@
+[[MBM 07.10.22]]
+[[MBM 14.10.22]]
+[[MBM 21.10.22]]
+[[MBM 28.10.22]]
+[[MBM 04.11.22]]
+
 Dr hab. Bożenia Łowkis
 Egzamin
 2 prowadzących:
@@ -42,7 +48,7 @@ Podstawowa:
 Laby:
 
 * Normy IEC
-* * *Podstawy inżynierii materiałowej, Laboratorium*, J. Rutkowski (do pobrania w Dol. Bib. Cyf.)
+* *Podstawy inżynierii materiałowej, Laboratorium*, J. Rutkowski (do pobrania w Dol. Bib. Cyf.)
 
 Do drugiej części wykładu:
 
@@ -80,6 +86,10 @@ Materiały:
 Wejściówki pisemne lub ustne
 Sprawozdania trzeba oddać na następne ćwiczenie, inaczej nie dopuszczają do następnego ćwiczenie.
 
+Grupy
+
+![[Pasted image 20221108203127.png]]
+
 |Numer grupy| Strony w skrypcie|
 |-|-|
 |1|7-19|
@@ -110,11 +120,3 @@ Sprawozdanie
 |3|n+2|
 
 Pół oceny za część W5 (gdzie pół połowy jest za wejściówki, drugie pół za sprawozdania) i pół za część W12
-
-
-[[MBM 07.10.22]]
-[[MBM 14.10.22]]
-[[MBM 21.10.22]]
-[[MBM 28.10.22]]
-[[MBM 04.11.22]]
-
