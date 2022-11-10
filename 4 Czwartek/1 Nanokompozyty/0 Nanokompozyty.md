@@ -1,3 +1,9 @@
+[[NK 06.10.22]]
+[[NK 13.10.22]]
+[[NK 27.10.22]]
+[[NK 10.11.22]]
+
+
 Dr hab. inż. Adam Kiersnowski, prof. PWr
 A-3, p.328, prawa baszta
 *"Będę Państwa przekonywał, że nanokompozyty nie istnieją"*
@@ -47,7 +53,3 @@ gdzie $N_u$ to liczba uzyskanych punktów a $N_{max}$ to maksymalna liczba punkt
 Dodatkowe punkty mogą zostać uzyskane za propozycje rozwiązań problemów przedstawionych na wykładzie
 
 Obecność na wykładzie nie ma wpływu na ocenę
-
-[[NK 06.10.22]]
-[[NK 13.10.22]]
-[[NK 27.10.22]]
