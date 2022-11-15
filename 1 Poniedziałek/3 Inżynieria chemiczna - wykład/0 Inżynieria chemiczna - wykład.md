@@ -7,7 +7,8 @@ Egzamin
 
 > Ja stosuje tak zwane żenujące żarty prowadzącego
 
-[[IC 10.10.22]]
-[[IC 17.10.22]]
-[[IC 24.10.22]]
-[[IC 07.11.22]]
+[[IC 22.10.10]]
+[[IC 22.10.17]]
+[[IC 22.10.24]]
+[[IC 22.11.07]]
+[[IC 22.11.14]]
