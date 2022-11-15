@@ -14,8 +14,8 @@ Konsultacje czw 11-13, F3 p. 127
 2/3 wykładu - jakieś nudy: węgle aktywne; 
 1/3 - nanomateriały: fulereny, nanorurki
 
-[[MW 04.10.22]]
-[[MW 11.10.22]]
-[[MW 18.10.22]]
-[[MW 25.10.22]]
-[[MW 08.11.22]]
+[[MW 22.10.04]]
+[[MW 22.10.11]]
+[[MW 22.10.18]]
+[[MW 22.10.25]]
+[[MW 22.11.08]]

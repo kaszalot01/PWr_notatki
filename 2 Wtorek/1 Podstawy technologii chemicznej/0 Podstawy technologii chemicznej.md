@@ -7,6 +7,6 @@ Zaliczenie:
 * kolokwium (1, zapowiedziane, listopad/grudzień)
 * projekt końcowy (samodzielny, styczeń)
 
-[[PTCH 04.10.22]]
-[[PTCH 11.10.22]]
-[[PTCH 25.10.22]]
+[[PTCH 22.10.04]]
+[[PTCH 22.10.11]]
+[[PTCH 22.10.25]]

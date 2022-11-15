@@ -17,10 +17,10 @@ Egzaminy:
 Pierwszy termin 09.02.23 (czw)
 Drugi termin 16.02.23 (czw)
 
-[[IMINOM 11.10.22]]
-[[IMINOM 18.10.22]]
-[[IMINOM 25.10.22]]
-[[IMINOM 08.11.22]]
+[[IMINOM 22.10.11]]
+[[IMINOM 22.10.18]]
+[[IMINOM 22.10.25]]
+[[IMINOM 22.11.08]]
 
 
  

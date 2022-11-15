@@ -27,7 +27,9 @@ Zaliczenie: test jednokrotnego wyboru (z punktami ujemnymi)
 
 > Jak sobie pomyślę jakim jestem inżynierem to boję się pójść do lekarza //odnośnie wydziału medycznego PWr
 
-[[NM 11.10.22]]
-[[NM 18.10.22]]
-[[NM 25.10.22]]
-[[NM 08.11.22]]
+[[NM 22.10.11]]
+[[NM 22.10.18]]
+[[NM 22.10.25]]
+[[NM 22.11.08]]
+[[NM 22.11.15]]
+
