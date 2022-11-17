@@ -20,4 +20,4 @@ Kolokwium jest na 15 punktów
 Trzeba bezwzględnie zdobyć 7.5 na kolosie
 Plusy liczą się tylko do pierwszego terminu
 
-[[ICP 26.10.22]]
+[[ICP 22.10.26]]
