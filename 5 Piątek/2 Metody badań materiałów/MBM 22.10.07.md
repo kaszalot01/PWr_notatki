@@ -65,7 +65,7 @@ Obok prądu przewodnictwa pojawia się też prąd polaryzacyjny, zwany prądem p
 
 Gęstość prądu w dielektryku
 
-$$ j= j_u + j_p \quad v_{ui} \wave E$$
+$$ j= j_u + j_p \quad v_{ui} \sim E$$
 $$ j_u = \sum_{i=1}^{m} n_i q_i v_{ui} \quad v_{ui}=u_iE $$
 $$ j_u = E \sum_{i=1}^{m} n_i q_i u_i \rightarrow j_u = \gamma E $$
 

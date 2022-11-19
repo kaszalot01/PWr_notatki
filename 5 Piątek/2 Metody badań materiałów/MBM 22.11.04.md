@@ -51,7 +51,7 @@ Makroskopowo, polaryzacja objawia się tym, że zwiększa się pojemność elekt
 Kondensator - element elektryczny (elektroniczny), zbudowany z dwóch przewodników (okładek) rozdzielonych dielektrykiem. Doprowadzenie napięcia do okładek kondensatora powoduje zgromadzenie się na nich ładunku elektrycznego. Zdolność kondensatora do gromadzenia ładunku określa **pojemność - C \[F]**.
 
 Dla kondensatora próżniowego:
-$$ Pole\ elektryczne - E_0=\frac{napięcie - U}{odległość\ między\ okładkami - l}$$
+$$ Pole\ elektryczne - E_0=\frac{U=napięcie}{l=odległość\ między\ okładkami}$$
 
 Dla kondensatora z dielektrykiem - w polu $E_0$ (panującym przed włożeniem dielektryka) dielektryk ulega polaryzacji. Na powierzchni dielektryka powstaje ładunek, który zrównoważyć musi dodatkowy ładunek na okładkach kondensatora.
 

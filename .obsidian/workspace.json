@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Piątek/3 Kompozyty - laboratorium/K4.md",
+                "file": "5 Piątek/1 IMINOM 2 - seminarium/0 IMINOM 2 - seminarium.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "c2ba2b438649d8ee",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 Piątek/3 Kompozyty - laboratorium/K4.md",
+                "file": "5 Piątek/1 IMINOM 2 - seminarium/0 IMINOM 2 - seminarium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 Piątek/3 Kompozyty - laboratorium/K4.md",
+                "file": "5 Piątek/1 IMINOM 2 - seminarium/0 IMINOM 2 - seminarium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Piątek/3 Kompozyty - laboratorium/K4.md"
+                "file": "5 Piątek/1 IMINOM 2 - seminarium/0 IMINOM 2 - seminarium.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "6d04578f3c0a214d",
   "lastOpenFiles": [
-    "5 Piątek/2 Metody badań materiałów/MBM 22.10.14.md",
-    "5 Piątek/2 Metody badań materiałów/0 Metody badań materiałów.md",
-    "5 Piątek/3 Kompozyty - laboratorium/K4.md",
-    "4 Czwartek/1 Nanokompozyty/NK 22.11.17.md",
-    "5 Piątek/2 Metody badań materiałów/MBM 22.10.28.md",
-    "5 Piątek/2 Metody badań materiałów/MBM 22.10.21.md",
+    "5 Piątek/2 Metody badań materiałów/MBM 22.11.18.md",
     "5 Piątek/2 Metody badań materiałów/MBM 22.10.07.md",
     "5 Piątek/2 Metody badań materiałów/MBM 22.11.04.md",
-    "2 Wtorek/4 Materiały węglowe/MW 22.10.25.md",
-    "2 Wtorek/4 Materiały węglowe/MW 22.10.18.md"
+    "5 Piątek/2 Metody badań materiałów/0 Metody badań materiałów.md",
+    "5 Piątek/2 Metody badań materiałów/Pasted image 20221108203127.png",
+    "5 Piątek/3 Kompozyty - laboratorium/K4.md",
+    "5 Piątek/3 Kompozyty - laboratorium/0 Kompozyty - laboratorium.md",
+    "5 Piątek/2 Metody badań materiałów/MBM 22.10.14.md",
+    "4 Czwartek/1 Nanokompozyty/NK 22.11.17.md",
+    "5 Piątek/2 Metody badań materiałów/MBM 22.10.28.md"
   ]
 }
