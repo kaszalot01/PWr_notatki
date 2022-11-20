@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4e754cb021f784fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Piątek/1 IMINOM 2 - seminarium/Do prezentacji.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c2ba2b438649d8ee",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 Piątek/1 IMINOM 2 - seminarium/0 IMINOM 2 - seminarium.md",
+                "file": "5 Piątek/1 IMINOM 2 - seminarium/Do prezentacji.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 Piątek/1 IMINOM 2 - seminarium/0 IMINOM 2 - seminarium.md",
+                "file": "5 Piątek/1 IMINOM 2 - seminarium/Do prezentacji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Piątek/1 IMINOM 2 - seminarium/0 IMINOM 2 - seminarium.md"
+                "file": "5 Piątek/1 IMINOM 2 - seminarium/Do prezentacji.md"
               }
             }
           }
@@ -136,8 +150,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6d04578f3c0a214d",
+  "active": "4e754cb021f784fd",
   "lastOpenFiles": [
+    "5 Piątek/1 IMINOM 2 - seminarium/0 IMINOM 2 - seminarium.md",
+    "5 Piątek/1 IMINOM 2 - seminarium/Do prezentacji.md",
     "5 Piątek/2 Metody badań materiałów/MBM 22.11.18.md",
     "5 Piątek/2 Metody badań materiałów/MBM 22.10.07.md",
     "5 Piątek/2 Metody badań materiałów/MBM 22.11.04.md",
@@ -145,8 +161,6 @@
     "5 Piątek/2 Metody badań materiałów/Pasted image 20221108203127.png",
     "5 Piątek/3 Kompozyty - laboratorium/K4.md",
     "5 Piątek/3 Kompozyty - laboratorium/0 Kompozyty - laboratorium.md",
-    "5 Piątek/2 Metody badań materiałów/MBM 22.10.14.md",
-    "4 Czwartek/1 Nanokompozyty/NK 22.11.17.md",
-    "5 Piątek/2 Metody badań materiałów/MBM 22.10.28.md"
+    "5 Piątek/2 Metody badań materiałów/MBM 22.10.14.md"
   ]
 }
