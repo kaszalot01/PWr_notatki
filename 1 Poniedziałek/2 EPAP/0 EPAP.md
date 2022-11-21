@@ -18,3 +18,5 @@ Projekt grupowy (3-4 osoby) - biznesplan w 4 zadaniach. Terminy (do 23.59)
 Zaliczenie od 8 pkt, bdb od 14.5 pkt
 
 > To nie znaczy, że trzeba mieć jakąkolwiek wiedzę
+
+[[EPAP 22.11.21]]
