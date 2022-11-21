@@ -1,0 +1,13 @@
+Porowate materiały polimerowe w ochronie środowiska i katalizie (nieorganiczne)
+
+Thin films of polymers are widely used for the separation of gases and for liquid-phase separations (dialysis). Because of the ease of property tuning, **polyphosphazenes** are of great interest for these types of applications, although only a few examples have yet been investigated.
+
+Inorganic Polymers p.128
+
+1.4 Types of Inorganic Polymers A glance at the Periodic Table or at an inorganic chemistry textbook will convince the reader that, of the 100 or so stable elements in the table, at least half have a chemistry that could allow their incorporation into macromolecular structures. This will undoubtedly come to pass in the years ahead. However, at the present time, most of the known inorganic polymer systems are based on relatively few elements that fall within the region of the Periodic Table known as the “Main Group” series. These elements occupy groups III (13 in the IUPAC nomenclature), IV (14), V (15), and VI (16) and include elements such as silicon, germanium, tin, phosphorus, and sulfur. Of these, polymers based on the elements silicon and phosphorus have received by far the most attention. This is the reason why silicon- and phosphorus-containing polymers are considered in the greatest detail in this book. Specifically, the greatest emphasis in the following chapters is placed on polyphosphazenes (1.9), polysiloxanes (1.10), and polysilanes (1.11). Chapters 6 and 7 introduce a wide variety of other polymers that contain elements such as phosphorus, germanium, sulfur, boron, aluminum, and tin, and a variety of transition metals. These polymers are expected to provide the basis for many of the new advances of the future. Chapter 8 6 INORGANIC POLYMERS deals with inorganic polymers that have been incorporated into composites, and Chapter 9 describes how inorganic polymers are used as precursors to ceramics.
+
+Inorganic Polymers p.6
+
+8.2.7 Porous Fillers Some fillers such as zeolites are sufficiently porous to accommodate monomers, which can then be polymerized. This threads the chains through the cavities, with unusually intimate interactions between the reinforcing phase and the host elastomeric matrix.96,105,106 Such an arrangement is illustrated in Figure 8.11. Unusually good reinforcement is generally obtained. Also, because of the constraints imposed by the cavity walls, these confined polymers frequently show no glass-transition temperatures or melting points.69,107 PDMS chains have also been threaded through cyclodextrins, to form pseudorotaxanes.108
+
+Inorganic Polymers p. 304 (real 319)
