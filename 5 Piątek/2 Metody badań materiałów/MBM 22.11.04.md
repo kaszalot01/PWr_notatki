@@ -81,5 +81,5 @@ Dla dielektryków dipolowych natomiast maleje - zwiększa się chaotyczny ruch d
 
 Przenikalność elektryczna względna zawsze maleje w zależności od częstotliwości
 
-`wykres zależność skłądowych względniej przenikalności elektrycznej od częstotliwości (takie schody, log(f) na iksach) - ktoś pewnie ma
+`wykres zależność składowych względniej przenikalności elektrycznej od częstotliwości (takie schody, log(f) na iksach) - ktoś pewnie ma
 

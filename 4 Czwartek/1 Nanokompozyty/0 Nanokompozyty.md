@@ -3,7 +3,7 @@
 [[NK 22.10.27]]
 [[NK 22.11.10]]
 [[NK 22.11.17]]
-
+[[NK 22.11.24]]
 
 Dr hab. inż. Adam Kiersnowski, prof. PWr
 A-3, p.328, prawa baszta
