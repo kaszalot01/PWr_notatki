@@ -5,7 +5,12 @@
 [[MBM 22.11.04]]
 [[MBM 22.11.18]]
 [[MBM 22.11.25]]
+[[MBM 22.12.02]]
 
+Terminy egzaminu:
+
+14.02.23 15:15-17:00
+21.02.23 ....
 
 Dr hab. Bożenia Łowkis
 Egzamin
@@ -123,3 +128,8 @@ Sprawozdanie
 |3|n+2|
 
 Pół oceny za część W5 (gdzie pół połowy jest za wejściówki, drugie pół za sprawozdania) i pół za część W12
+
+
+Zagadnienia na egzamin:
+
+- przewodnictwo elektryczne przewodników, połprzewodników, dielektryków. Wyjaśnić 

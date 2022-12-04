@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fb5e97a1c94dba28",
+        "id": "9a7ef132c01da0fb",
         "type": "tabs",
         "children": [
           {
-            "id": "6d04578f3c0a214d",
+            "id": "9eab28b2b5dea1ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Poniedziałek/4 Recykling materiałów/RM 22.11.28.md",
+                "file": "5 Piątek/2 Metody badań materiałów/0 Metody badań materiałów.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Poniedziałek/4 Recykling materiałów/RM 22.11.28.md",
+                "file": "5 Piątek/2 Metody badań materiałów/0 Metody badań materiałów.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Poniedziałek/4 Recykling materiałów/RM 22.11.28.md",
+                "file": "5 Piątek/2 Metody badań materiałów/0 Metody badań materiałów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Poniedziałek/4 Recykling materiałów/RM 22.11.28.md"
+                "file": "5 Piątek/2 Metody badań materiałów/0 Metody badań materiałów.md"
               }
             }
           }
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6d04578f3c0a214d",
+  "active": "9eab28b2b5dea1ef",
   "lastOpenFiles": [
-    "1 Poniedziałek/4 Recykling materiałów/0 Recykling materiałów.md",
-    "1 Poniedziałek/4 Recykling materiałów/RM 22.11.21.md",
-    "1 Poniedziałek/3 Inżynieria chemiczna - wykład/IC 22.11.28.md",
-    "1 Poniedziałek/3 Inżynieria chemiczna - wykład/0 Inżynieria chemiczna - wykład.md",
-    "1 Poniedziałek/1 Optyka materiałów/OM 22.11.28.md",
-    "1 Poniedziałek/1 Optyka materiałów/0 Optyka materiałów.md",
+    "5 Piątek/2 Metody badań materiałów/MBM 22.12.02.md",
     "5 Piątek/2 Metody badań materiałów/MBM 22.11.25.md",
     "5 Piątek/2 Metody badań materiałów/0 Metody badań materiałów.md",
+    "5 Piątek/2 Metody badań materiałów/MBM 22.11.04.md",
     "5 Piątek/2 Metody badań materiałów/MBM 22.11.18.md",
-    "2 Wtorek/4 Materiały węglowe/MW 22.11.22.md"
+    "5 Piątek/2 Metody badań materiałów/MBM 22.10.14.md",
+    "5 Piątek/2 Metody badań materiałów/MBM 22.10.07.md",
+    "2 Wtorek/5 Kompozyty - wykład/KOMP 22.11.22.md",
+    "2 Wtorek/5 Kompozyty - wykład/KOMP 22.11.29.md",
+    "2 Wtorek/5 Kompozyty - wykład/0 Kompozyty - wykład.md"
   ]
 }
