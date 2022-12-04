@@ -45,6 +45,9 @@
 
 ## Ćwiczenie K6
 
+[[K6]]
+
+
 ### Instrukcja
 
 [Instrukcja](https://drive.google.com/file/d/1Ilxsjpmyc8BaopESKmI1KrJC7uZsFhHR/view?usp=sharing)
