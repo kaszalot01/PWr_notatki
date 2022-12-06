@@ -47,9 +47,9 @@ Rodzaje recyklingu:
 
 > "koń jak jest spokojny to jego wartość rośnie dwa razy"
 
-Preprek - tworzywo z załadowaną odpowiednią ilością, bardzo wolno wiążącej żywicy. Trzymamy go w obniżonej temperaturze. 
+Prepreg - tworzywo z załadowaną odpowiednią ilością, bardzo wolno wiążącej żywicy. Trzymamy go w obniżonej temperaturze. 
 
-> "Autoklaw i preprek są jak marchewka i groszek - nierozłączne. "
+> "Autoklaw i prepreg są jak marchewka i groszek - nierozłączne. "
 
 Autoklaw - technika specjalistyczna, np. do konstrukcji lotniczych. `rysunek w zeszycie (Q - ciepło, p - ciśnienie)`
 

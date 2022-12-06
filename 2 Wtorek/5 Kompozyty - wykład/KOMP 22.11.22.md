@@ -56,5 +56,3 @@ preforma - samo wypełnienie bez żywicy używane w metodach RTM
 > uwaga trudne słowo - maszyna CNC
 
 Schemat pultruzji
-
-m,
