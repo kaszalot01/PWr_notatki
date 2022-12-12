@@ -15,14 +15,14 @@ Rozróżnia się dwa pojęcia: rezystywnośćskrośną i rezystywnośćpowierzch
 
 Definicje:
 
-* Rezystyancja skrośna - $R_{\nu}$ - stosunek napięcia stałego doprowadzonego do próbki za pomocą elektrod do ustalonej wartości nateżenia prądu płynacego między elektrodami na wsrkoś próbki bez uwzględnienia prądów powierzchniowych. Wyrażana jest w Omach $[\Omega]$
+* Rezystyancja skrośna - $R_{\nu}$ - stosunek napięcia stałego doprowadzonego do próbki za pomocą elektrod do ustalonej wartości nateżenia prądu płynacego między elektrodami na wskroś próbki bez uwzględnienia prądów powierzchniowych. Wyrażana jest w Omach $[\Omega]$
 * Rezystyancja powierzchniowa - $R_{s}$ -stosunek napięcia stałęgo doprowadzonego do próbki za pomoąć elektrod do natężenia prądu płynącego między elektrodami na powierzchni próbki bez uwzględnienia prądów skrośnych. 
-* Rezystywność skrośna - $\rho_{\nu}$ - [brzydka definicja] rezystancja skrośna odniesiona do wymiarów jednostkowych; [ładna definicja] stosunek natężenia stałego pola elektrycznego do gęstości ustalonego prądu płynacego między elektrodami na wsrkoś próbki bez uwzględnienia gęstości prądów powierzchniowych. Wyrażana jest w omach razy metr $\frac{V/m}{A/m^2} = \Omega m$
+* Rezystywność skrośna - $\rho_{\nu}$ - [brzydka definicja] rezystancja skrośna odniesiona do wymiarów jednostkowych; [ładna definicja] stosunek natężenia stałego pola elektrycznego do gęstości ustalonego prądu płynacego między elektrodami na wskroś próbki bez uwzględnienia gęstości prądów powierzchniowych. Wyrażana jest w omach razy metr $\frac{V/m}{A/m^2} = \Omega m$
 * Rezystywność powierzchniowa - $\rho_{s}=\frac{\rho_{\nu}}{d}, \rho_s=R_s \cdot \frac{b}{l}$, gdzie l - długość, b - szerokość przewodnika, d - grubość warstwy powierzchniowej
 
 Rezystnacje się mierzy, a rezystywności wyznacza - są stałymi materiałowymi
 
-> Moje pytanie - jak się mierzy rezystywność powierzchniową?
+> Moje pytanie - jak się mierzy rezystancję powierzchniową?
 
 `Szereg rezystywnośći materiałów` - w $[\Omega m]$
 
@@ -32,7 +32,7 @@ materiały półprzewodzące - german=0,46 ,krzem=640
 
 materiały dielektryczne - $10^{10}-10^{19}$ 
 
-Jony są większe (masa, objęctość) od elektronów dlatego prewodność dielektrykó jest dużo mniejsza od przewodników
+Jony są większe (masa, objęctość) od elektronów dlatego przewodność dielektryków jest dużo mniejsza od przewodników
 
 ### Elektrody
 

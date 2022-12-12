@@ -6,6 +6,8 @@
 [[MBM 22.11.18]]
 [[MBM 22.11.25]]
 [[MBM 22.12.02]]
+[[MBM 22.12.09]]
+
 
 Terminy egzaminu:
 
@@ -19,10 +21,19 @@ Egzamin
 1. 8 tygodni Łowkis
 2. 7 tygodni dr hab. Damian Wojcieszak
 
-Konsultacje
+Konsultacje Łowkis
 
 * śr 13.30-14.30, D1, p. 16
 * bozena.lowkis@pwr.edu.pl
+
+Konsultacje Wojcieszak
+
+- wtorek 11-13 C2 s. 406
+- czwartek 11-13 C2 s.406
+
+LABOTATORIUM WOJCIESZAK
+
+C2 s.102 !!!
 
 ## Cel wykładu i laboratorium
 
