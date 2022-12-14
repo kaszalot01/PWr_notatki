@@ -35,6 +35,8 @@ Zaliczenie: test jednokrotnego wyboru (z punktami ujemnymi)
 [[NM 22.11.22]]
 [[NM 22.11.29]]
 [[NM 22.12.06]]
+[[NM 22.12.13]]
+
 
 
 

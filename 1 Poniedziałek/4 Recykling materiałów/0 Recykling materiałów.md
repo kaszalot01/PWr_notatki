@@ -16,5 +16,7 @@ Zaliczenie - 30.01.23 - test 20 pytań po 1 punkt, pytania zamknięte, jedna odp
 [[RM 22.11.21]]
 [[RM 22.11.28]]
 [[RM 22.12.05]]
+[[RM 22.12.12]]
+
 
 
