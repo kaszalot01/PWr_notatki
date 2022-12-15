@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Piątek/2 Metody badań materiałów/MBM 22.12.14.md",
+                "file": "Rezerwat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d35d6a0d9659566a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Środa/2 SMBM/Widmo elektronowe.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 Piątek/2 Metody badań materiałów/MBM 22.12.14.md",
+                "file": "3 Środa/2 SMBM/Widmo elektronowe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 Piątek/2 Metody badań materiałów/MBM 22.12.14.md",
+                "file": "3 Środa/2 SMBM/Widmo elektronowe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Piątek/2 Metody badań materiałów/MBM 22.12.14.md"
+                "file": "3 Środa/2 SMBM/Widmo elektronowe.md"
               }
             }
           }
@@ -136,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9eab28b2b5dea1ef",
+  "active": "d35d6a0d9659566a",
   "lastOpenFiles": [
-    "5 Piątek/2 Metody badań materiałów/MBM 22.12.09.md",
+    "3 Środa/2 SMBM/0 SMBM.md",
+    "Rezerwat.md",
     "5 Piątek/2 Metody badań materiałów/MBM 22.12.14.md",
+    "5 Piątek/2 Metody badań materiałów/MBM 22.12.09.md",
     "5 Piątek/2 Metody badań materiałów/0 Metody badań materiałów.md",
     "2 Wtorek/5 Kompozyty - wykład/KOMP 22.12.13.md",
     "2 Wtorek/5 Kompozyty - wykład/KOMP 22.11.15.md",
     "2 Wtorek/5 Kompozyty - wykład/KOMP 22.11.22.md",
     "2 Wtorek/5 Kompozyty - wykład/KOMP 22.11.29.md",
-    "2 Wtorek/5 Kompozyty - wykład/KOMP 22.12.06.md",
-    "2 Wtorek/5 Kompozyty - wykład/KOMP 22.10.04.md",
-    "2 Wtorek/5 Kompozyty - wykład/KOMP 22.10.11.md"
+    "2 Wtorek/5 Kompozyty - wykład/KOMP 22.12.06.md"
   ]
 }
