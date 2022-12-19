@@ -94,10 +94,11 @@ Podsumowanie SEM:
 - działanie
 	- skanowanie linia po linii
 	- napięcie przyspieszające wpływa na penetracje wiązki i głębie ostrości - im większe napięcie tym głębiej zaglądamy
-	- en.working distance - odległośc między obiektywem a próbką - też coś tam wpływa na głębie ostrości ale mało
+	- en.working distance - odległość między obiektywem a próbką - też coś tam wpływa na głębie ostrości ale mało
 - przygotowanie próbek
 	- aluminiowe, ruchome uchwyty/stoliki 
 	- przytwierdzenie próbki musi przewodzić prąd (taśma węglowa, farba/taśma przewodząca), albo zaciski/imadełka
 	- próbki muszą być przewodzące lub pokryte czymś przewodzącym
-	- próbki biologiczne (mokre) zamraża się albo zalewa żywicą 
+	- próbki biologiczne (mokre) zamraża się albo zalewa żywicą
+	- przekroje - cięcie, zarysowanie i złamanie, szlifowanie
 	- morfologia - proszki, powłoki 
