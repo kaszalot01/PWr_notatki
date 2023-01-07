@@ -27,6 +27,9 @@ Zaliczenie: test jednokrotnego wyboru (z punktami ujemnymi)
 
 > Jak sobie pomyślę jakim jestem inżynierem to boję się pójść do lekarza //odnośnie wydziału medycznego PWr
 
+Kolokwium 24.01.23
+Poprawa 31.01.23
+
 [[NM 22.10.11]]
 [[NM 22.10.18]]
 [[NM 22.10.25]]
@@ -36,6 +39,8 @@ Zaliczenie: test jednokrotnego wyboru (z punktami ujemnymi)
 [[NM 22.11.29]]
 [[NM 22.12.06]]
 [[NM 22.12.13]]
+[[NM 22.12.20]]
+
 
 
 

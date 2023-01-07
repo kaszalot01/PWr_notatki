@@ -29,12 +29,11 @@ gliceryna + kwas sebacynowy -> poli(sebacynian gliceryny) PSG (elastomer, który
 
 Ponownie o PVAL (PVA) i PVAC (patrz [[IMINOM 22.10.25]]) 
 PVAL, co rzadkie wśród polimerów, rozpuszcza się w wodzie
-Inny polimer, który się rozpuszcza - poliglikol etylenowy PEG
+Inne polimery, który się rozpuszczają - poliglikol etylenowy PEG, poli(kwas glikolowy) PGA
 
 Mieszaniny polimerów naturalnych i syntetycznych - kiedyś stosowane, obecnie nie, bo są złe - powodują szybkie tworzenie się mikroplastiku
 
-PCL - polikaprolaktan (laktyn?)
-
+PCL - polikaprolakton
 
 Azotan celulozy - materiały wybuchowe
 

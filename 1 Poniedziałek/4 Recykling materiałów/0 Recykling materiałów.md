@@ -17,6 +17,9 @@ Zaliczenie - 30.01.23 - test 20 pytań po 1 punkt, pytania zamknięte, jedna odp
 [[RM 22.11.28]]
 [[RM 22.12.05]]
 [[RM 22.12.12]]
+[[RM 22.12.19]]
 
 
-
+![[Pasted image 20221219182056.png]]
+![[Pasted image 20221219182105.png]]
+P17 - nie
