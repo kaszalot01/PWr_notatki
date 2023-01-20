@@ -7,7 +7,7 @@ p. 127, bud. F3, grazyna.gryglewicz@pwr.edu.pl
 
 Konsultacje czw 11-13, F3 p. 127
 
-24.01.23 - pierwszy termin kolokwium (pytania otwarte, zamknięte wieloktrotengo wyboru)
+24.01.23 - pierwszy termin kolokwium (pytania otwarte, zamknięte wielokrotnego wyboru)
 
 31.01.23 - drugi termin
 
