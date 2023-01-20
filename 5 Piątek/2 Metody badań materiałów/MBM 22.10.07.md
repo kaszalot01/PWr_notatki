@@ -43,7 +43,7 @@ Do materiałów izolacynych (dielektryków) zaliczamy materiały o dużej przerw
 
 Przewodnictwo rzeczywistych izolatorów wiąże się z przewodnictwem typu jonowego, zawartością zanieczyszczeń oraz z nieregularnościami struktury krystalicznej
 
-W materiałach nośniki ładunku są w stałym losowym ruchu. Po wprowadzeniu materiału w pole elektryczne, ruch staję się uporządkowany i rozpoczyna się przepływ prądu - prądu przewodnictwa (prądu upływu [skrośny lub powierzchniowy]).
+W materiałach nośniki ładunku są w stałym losowym ruchu. Po wprowadzeniu materiału w pole elektryczne, ruch staję się uporządkowany i rozpoczyna się przepływ prądu - prądu przewodnictwa (prądu upływu \[skrośny lub powierzchniowy\]).
 
 W dielektryku w zasadzie nie ma swobodnych elektronów. Przewodzenie jest więc zawsze związane z ruchem jonów - charakter jonowy przewodnictwa. Jest ono zależne od:
 
@@ -54,7 +54,7 @@ W dielektryku w zasadzie nie ma swobodnych elektronów. Przewodzenie jest więc 
 wielkości te z kolei są zależne od warunków zewnętrznych:
 
 * natężenie pola elektrycznego
-* czynników dysocjującyh
+* czynników dysocjujących
 * czasu działania pola elektrycznego
 * liczby i rodzaju zanieczyszczeń
 
