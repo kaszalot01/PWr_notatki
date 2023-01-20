@@ -1,5 +1,7 @@
 prof. dr hab. inż. Marcin Nyk
 
+Zaliczenie 24.02.
+
 A2, p. 415
 
 Konsultacje:
@@ -40,6 +42,8 @@ Poprawa 31.01.23
 [[NM 22.12.06]]
 [[NM 22.12.13]]
 [[NM 22.12.20]]
+[[NM 23.01.10]]
+[[NM 23.01.17]]
 
 
 

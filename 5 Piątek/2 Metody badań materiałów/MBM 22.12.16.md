@@ -49,7 +49,7 @@ Budowa TEM:
 - dalszy układ optyczny - dostrajamy wiązkę 
 - ekran fluorescencyjny
 
-Przygotowanie próbek:
+Przygotowanie próbek TEM:
 
 - mechaniczne
 	- ultramikrotomia - cięcie diamentowym ostrzem

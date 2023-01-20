@@ -26,6 +26,10 @@ Drugi termin 16.02.23 (czw)
 [[IMINOM 22.12.06]]
 [[IMINOM 22.12.13]]
 [[IMINOM 22.12.20]]
+[[IMINOM 23.01.10]]
+[[IMINOM 23.01.17]]
+
+
 
 
 
