@@ -17,6 +17,11 @@ Egzaminy:
 Pierwszy termin 09.02.23 (czw)
 Drugi termin 16.02.23 (czw)
 
+6 pytań (4 Zielińska - 2 Korbut) opisowe
+każde po 5 punktów
+któreś z pytań 7-8 (część Korbut) będzie na pewno
+
+
 [[IMINOM 22.10.11]]
 [[IMINOM 22.10.18]]
 [[IMINOM 22.10.25]]
@@ -28,6 +33,7 @@ Drugi termin 16.02.23 (czw)
 [[IMINOM 22.12.20]]
 [[IMINOM 23.01.10]]
 [[IMINOM 23.01.17]]
+[[IMINOM 23.01.24]]
 
 
 
