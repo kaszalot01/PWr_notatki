@@ -2,4 +2,4 @@
 
 > *Sęk* - kabaret dudek
 
-` rysunek drzewa ` - sęk jest potężny; największy na gałąź moment działa przy pniu ale tam właśnie gałąź jest najgrubsza a włókna w sęku zachowują się odpowiednio
+` rysunek drzewa ` - sęk jest potężny; największy moment działa na gałąź przy pniu ale tam właśnie gałąź jest najgrubsza a włókna w sęku zachowują się odpowiednio

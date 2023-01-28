@@ -33,7 +33,7 @@ Metody wytwarzania włóknistych materiałów kompozytowych:
 - nawijanie z przeciąganiem (pulwinding)
 - wyplatanie
 - metody infuzyjne
-- RTM (resin transfer moulding)
+	- RTM (resin transfer moulding)
 - techniki autoklawowe (prepregi)
 - AFP (automated fiber placemnet \["czy coś takiego"\])
 
