@@ -362,6 +362,8 @@ Proces wytwarzania włókien syntetycznych
 			- tergal (płótna żaglowe)
 		- liny
 
+#### 8. Jak się umie 7 to nie trzeba 8
+
 #### 9. Włókna węglowe (otrzymywanie, właściwości, zastosowanie) 
 
 - otrzymywanie - kontrolowana piroliza poliakrylonitrylu (PAN) i innych polimerów organicznych
