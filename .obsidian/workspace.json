@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "7528e170f5890603",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "658a406ebe2bb582",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Wtorek/5 Kompozyty - wykład/KOMP 22.10.25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "c59db8f0bce6e46e",
         "type": "tabs",
         "children": [
@@ -31,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Wtorek/5 Kompozyty - wykład/Mały modelarz - na kolokwium z kompozytów.md",
+                "file": "2 Wtorek/3 IMINOM 2 - wykład/0 IMINOM 2 - wykład.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Wtorek/5 Kompozyty - wykład/Mały modelarz - na kolokwium z kompozytów.md",
+                "file": "2 Wtorek/3 IMINOM 2 - wykład/0 IMINOM 2 - wykład.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Wtorek/5 Kompozyty - wykład/Mały modelarz - na kolokwium z kompozytów.md",
+                "file": "2 Wtorek/3 IMINOM 2 - wykład/0 IMINOM 2 - wykład.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Wtorek/5 Kompozyty - wykład/Mały modelarz - na kolokwium z kompozytów.md"
+                "file": "2 Wtorek/3 IMINOM 2 - wykład/0 IMINOM 2 - wykład.md"
               }
             }
           }
@@ -167,15 +149,15 @@
   },
   "active": "02edeab4d6d322ce",
   "lastOpenFiles": [
-    "2 Wtorek/5 Kompozyty - wykład/KOMP 22.10.25.md",
-    "2 Wtorek/5 Kompozyty - wykład/KOMP 22.10.18.md",
-    "2 Wtorek/5 Kompozyty - wykład/KOMP 22.10.11.md",
-    "2 Wtorek/5 Kompozyty - wykład/KOMP 22.10.17 za 22.11.08.md",
-    "2 Wtorek/5 Kompozyty - wykład/KOMP 23.01.24.md",
-    "2 Wtorek/5 Kompozyty - wykład/KOMP 22.11.15.md",
-    "2 Wtorek/5 Kompozyty - wykład/Mały modelarz - na kolokwium z kompozytów.md",
-    "2 Wtorek/5 Kompozyty - wykład/KOMP 22.10.04.md",
-    "2 Wtorek/5 Kompozyty - wykład/KOMP 23.01.17.md",
-    "2 Wtorek/5 Kompozyty - wykład/KOMP 23.01.10.md"
+    "2 Wtorek/3 IMINOM 2 - wykład/IMINOM 22.10.18.md",
+    "2 Wtorek/3 IMINOM 2 - wykład/IMINOM 22.10.11.md",
+    "1 Poniedziałek/4 Recykling materiałów/0 Recykling materiałów.md",
+    "1 Poniedziałek/4 Recykling materiałów/RM 22.12.12.md",
+    "1 Poniedziałek/4 Recykling materiałów/RM 22.12.19.md",
+    "1 Poniedziałek/4 Recykling materiałów/RM 23.01.09.md",
+    "1 Poniedziałek/4 Recykling materiałów/RM 22.10.24.md",
+    "1 Poniedziałek/4 Recykling materiałów/RM 22.11.14.md",
+    "1 Poniedziałek/4 Recykling materiałów/RM 22.11.28.md",
+    "1 Poniedziałek/4 Recykling materiałów/RM 22.11.21.md"
   ]
 }
