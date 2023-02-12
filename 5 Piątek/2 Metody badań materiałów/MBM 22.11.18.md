@@ -69,7 +69,7 @@ Pomiary C i $tg\delta$
 
 1. Przygotowanie próbki do pomiarów
 	1. Wybór kształtu próbki
-		1. płaskorównoległe
+		1. płasko-równoległe
 		2. rurowe
 	2. Wybór elektrod
 		1. układ 2-elektrodowy

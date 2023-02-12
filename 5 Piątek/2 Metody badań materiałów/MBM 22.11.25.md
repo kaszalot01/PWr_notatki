@@ -1,6 +1,6 @@
 Spóźniłem się.
 
-Wspływ sposobu nakładania elektrod:
+Wpływ sposobu nakładania elektrod:
 największy uchyb jest spowodowany przez cienką warstwę powietrza między elektrodą a powierzchnią próbki, Jest on szczególnie duży, gdy badany materiał ma małą grubość lub gdy jego przenikalność elektryczna jest bardzo duża.
 
 - im większa szczelina, tym większy błąd pomiaru

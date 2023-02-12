@@ -13,17 +13,20 @@ Natężenie pola elektrycznego przy pomiarach - $0.1-1\frac{kV}{mm}$
 
 W chwili przyłożenia napięcia prąd ma dwie składowe - prąd upływu i polaryzacji. 
 
-`Wykres zależnośći prądu płynącego przez dielektryk od czasu - w zeszycie od lab. komp.`
+`Wykres zależnośći prądu płynącego przez dielektryk od czasu`
+![[Pasted image 20230211232827.png]]
 
-Zasada kciuka dla pomiaru rezystancji powierzchniowej dielektryków stałych- odczekać 60[s] przed pomiarem (dla materiałów tradycyjnych, powszechnie stosowanych)
+Zasada kciuka dla pomiaru rezystancji powierzchniowej dielektryków stałych- odczekać 60\[s\] przed pomiarem (dla materiałów tradycyjnych, powszechnie stosowanych)
 
-Zasada kciuka dla pomiaru rezystancji skrośnej d.s. - odczekać 60[s], jeśli nie będzie stabilny wykonujemy dynamiczną charakterystykę (pomiary po 1, 2, 3, 5, 10, 25, 50, 100 minutach)
+Zasada kciuka dla pomiaru rezystancji skrośnej d.s. - odczekać 60\[s\], jeśli nie będzie stabilny wykonujemy dynamiczną charakterystykę (pomiary po 1, 2, 3, 5, 10, 25, 50, 100 minutach)
 
-Dla dielektryków ciekłych - odczekiwać 5 [min] (skrośna, powierzchniowej się nie mierzy)
+Dla dielektryków ciekłych - odczekiwać 5 \[min\] (skrośna, powierzchniowej się nie mierzy)
 
 W nowoczesnych materiałach prąd przejściowy może płynąc przez dziesiątki lat
 
-`Porównanie pomairów w układach dwu- i trój-elektrodowych - krótko wisiały, Franek ma zdjęcia`
+`Porównanie pomairów w układach dwu- i trój-elektrodowych`
+
+![[Pasted image 20230212004536.png]]
 
 ### Metody pomiaru rezystancji
 
@@ -40,5 +43,10 @@ Metody:
 |1,2,3| $<10^{13}$|
 |4,5|$>10^{13}$|
 
-Metoda techniczna - metoda woltomierz-amperomierz, porównanie napięcia doprowadzonego do elektrod i prądu płynącego między nimi ($R_x=\frac{U_x}{I_x}=\frac{U_x}{\alpha\cdot p  \cdot C_i}$ ), gdzie $\alpha [dz]$ - wychylenie galwanometru, $C_i [\frac{A}{dz}]$ - stała prądowa,  $p$ - przekładnia bocznika, `schemat w zeszycie`.
-Metoda ładowania kondensatora - pomiar napięcia $U_c$ na kondensatorze wzorcowym $C_N$, ładowanym prądem płynącym przez badaną rezystancję, oraz czasu $t$, po upływie którego na pojemności $C_N$ pojawi się napięcie $U_c$, rezystancja dana jest wzorem $R_x=\frac{U\cdot t }{C_n \cdot U_c}$ , gdzie U to napięcie doprowadzone do próbki`schemat w zeszycie`
+Metoda techniczna - metoda woltomierz-amperomierz, porównanie napięcia doprowadzonego do elektrod i prądu płynącego między nimi ($R_x=\frac{U_x}{I_x}=\frac{U_x}{\alpha\cdot p  \cdot C_i}$ ), gdzie $\alpha [dz]$ - wychylenie galwanometru, $C_i [\frac{A}{dz}]$ - stała prądowa,  $p$ - przekładnia bocznika.
+
+![[Pasted image 20230212154756.png]]
+
+Metoda ładowania kondensatora - pomiar napięcia $U_c$ na kondensatorze wzorcowym $C_N$, ładowanym prądem płynącym przez badaną rezystancję, oraz czasu $t$, po upływie którego na pojemności $C_N$ pojawi się napięcie $U_c$, rezystancja dana jest wzorem $R_x=\frac{U\cdot t }{C_n \cdot U_c}$ , gdzie U to napięcie doprowadzone do próbki.
+
+![[Pasted image 20230212154829.png]]

@@ -15,7 +15,9 @@ Mechanizmy polaryzacji:
 - polaryzacja dipolowa (polaryzacja orientacji) - jeśli w nieobecności pola istnieją w ośrodku stałe momenty dipolowe ustawione w różnych przypadkowych kierunkach. Pole elektryczne powoduje ich obrót i uprządkowanie w kierunku pola.
 - polaryzacja makroskopowa - związana z ładunkiem przestrzennym. Ładunki swobodne w dielektryku przemieszczają się pod wpływem pola. Zatrzymują się na granicach ziaren lub nieprawidłowościach struktury.
 
-`rysunek różnych polaryzacji - Agnieszka Haręża ma zdjęcie`
+`rysunek różnych polaryzacji`
+
+![[Pasted image 20230212153949.png]]
 
 Polaryzacja elektronowa
 
@@ -81,5 +83,7 @@ Dla dielektryków dipolowych natomiast maleje - zwiększa się chaotyczny ruch d
 
 Przenikalność elektryczna względna zawsze maleje w zależności od częstotliwości
 
-`wykres zależność składowych względniej przenikalności elektrycznej od częstotliwości (takie schody, log(f) na iksach) - ktoś pewnie ma
+`wykres zależność składowych względniej przenikalności elektrycznej od częstotliwości
+
+![[Pasted image 20230212154031.png]]
 

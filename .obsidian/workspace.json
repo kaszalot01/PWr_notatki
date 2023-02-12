@@ -4,16 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "c59db8f0bce6e46e",
+        "id": "2dd08b36932bdd22",
         "type": "tabs",
         "children": [
           {
-            "id": "02edeab4d6d322ce",
+            "id": "7ee5fdbe5d7d1ab9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Piątek/2 Metody badań materiałów/MBM 23.02.02.md",
+                "file": "5 Piątek/2 Metody badań materiałów/MBM 22.11.04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f591f32396df501",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Piątek/2 Metody badań materiałów/MBM 22.11.04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "055bb3db7fcf314a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52724ea310e5f9d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Piątek/2 Metody badań materiałów/0  Opracowanie cz 1 z 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 Piątek/2 Metody badań materiałów/MBM 23.02.02.md",
+                "file": "5 Piątek/2 Metody badań materiałów/0  Opracowanie cz 1 z 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 Piątek/2 Metody badań materiałów/MBM 23.02.02.md",
+                "file": "5 Piątek/2 Metody badań materiałów/0  Opracowanie cz 1 z 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Piątek/2 Metody badań materiałów/MBM 23.02.02.md"
+                "file": "5 Piątek/2 Metody badań materiałów/0  Opracowanie cz 1 z 4.md"
               }
             }
           }
@@ -147,17 +178,17 @@
       "publish:Opublikuj zmiany": false
     }
   },
-  "active": "02edeab4d6d322ce",
+  "active": "52724ea310e5f9d4",
   "lastOpenFiles": [
     "5 Piątek/2 Metody badań materiałów/0 Metody badań materiałów.md",
-    "0 Opublikowane/Mały modelarz - na kolokwium z kompozytów.pdf",
-    "2 Wtorek/3 IMINOM 2 - wykład/0 IMINOM 2 - wykład.md",
-    "2 Wtorek/3 IMINOM 2 - wykład/IMINOM 22.10.11.md",
-    "2 Wtorek/3 IMINOM 2 - wykład/IMINOM 23.01.24.md",
-    "0 Opublikowane/IMINOM_opracowanie_zagadnien_cz1.pdf",
-    "4 Czwartek/1 Nanokompozyty/0 Opracowanie zagadnień (pierwsze 6 wykładów).md",
-    "4 Czwartek/1 Nanokompozyty/NK 22.10.27.md",
-    "4 Czwartek/1 Nanokompozyty/NK 22.11.10.md",
-    "4 Czwartek/1 Nanokompozyty/NK 22.11.17.md"
+    "5 Piątek/2 Metody badań materiałów/Część całości.md",
+    "5 Piątek/2 Metody badań materiałów/MBM 22.11.04.md",
+    "5 Piątek/2 Metody badań materiałów/MBM 22.10.28.md",
+    "5 Piątek/2 Metody badań materiałów/MBM 22.10.21.md",
+    "5 Piątek/2 Metody badań materiałów/MBM 22.10.14.md",
+    "5 Piątek/2 Metody badań materiałów/0  Opracowanie cz 1 z 4.md",
+    "5 Piątek/2 Metody badań materiałów/MBM 22.10.07.md",
+    "5 Piątek/2 Metody badań materiałów/MBM 22.11.18.md",
+    "5 Piątek/2 Metody badań materiałów/MBM 22.11.25.md"
   ]
 }

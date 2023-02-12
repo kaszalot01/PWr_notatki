@@ -1,11 +1,11 @@
 ## Wykład
 
 ### Parametry charakteryzujące materiały
-Współczynniki materiałowe - liczby charakteryzujące materiał nezależnie od wielkości i kształtu próbki.
+Współczynniki materiałowe - liczby charakteryzujące materiał niezależnie od wielkości i kształtu próbki.
 
-Właściwośc materiału - wielkość fizyczna, chemiczna lub umowna, która:
+Właściwość materiału - wielkość fizyczna, chemiczna lub umowna, która:
 
-* daję się wyznaczyć bezpośredniu lub pośrednio przez pomiar innych wielkości
+* daję się wyznaczyć bezpośrednio lub pośrednio przez pomiar innych wielkości
 * wyrażona w określonych jednostkach lub bezwymiarowa 
 * związana zależnościami znanymi lub wyznaczanymi eksperymentalnie z innymi właściwościami materiału
 
@@ -13,9 +13,9 @@ Wyróżniamy na przykład właściwości:
 * **fizyczne**
 * **chemiczne**
 * specjalne
-* techologiczne
+* technologiczne
 
-Wśród właściwości fizycznych/chemiczny można dalej wyrózniać właściwości takie jak właściwości: termiczne, strukturalne - związane z wytrzymałością mechaniczną, **elektryczne (dielektryczne)** - wiążące się ze zjawiskiem przewodnictwa elektrycznego
+Wśród właściwości fizycznych/chemiczny można dalej wyróżniać właściwości takie jak właściwości: termiczne, strukturalne - związane z wytrzymałością mechaniczną, **elektryczne (dielektryczne)** - wiążące się ze zjawiskiem przewodnictwa elektrycznego
 
 Wśród elektrycznych właściwości możemy wymienić różne współczynniki materiałowe:
 * rezystywność materiałów
@@ -27,6 +27,9 @@ Wśród elektrycznych właściwości możemy wymienić różne współczynniki m
 
 `rysunek przedstawiający szerokość pasm dla przewodnika, półprzzewodnika i izolatora. Dla przewodnika pasmo podstawowe i przewodnictwa (walencyjne) szerokie, pasmo zabronione wąskie. Dla półprzewodnika wszystkie pasma podobnie szerokie. Dla izolatora pasmo zabronione szersze od pozostałych.`
 
+
+![[Pasted image 20230211230856.png]]
+
 Szerokości pasma przewodnictwa dla różnych typów materiałów
 |Typ|Szerokoś pasma [eV]|
 |-|-|
@@ -37,11 +40,11 @@ Szerokości pasma przewodnictwa dla różnych typów materiałów
 Pasmo podstawowe: zakres energii elektronów walencyjnych związanych z jądrem atomowym.
 Pasmo przewodnictwa: zakres energii elektronów walencyjnych, uwolnionych od jąder i będące swobodnymi nośnikami ładunku elektrycznego w ciele stałym
 
-`Dziki wzór na energię elektronu w temperaturze pokojowej W=kT, gdzie k to stała boltzmana a T to temperatura - wniosek w temperaturze pokojowej nie może występować przewodnistwo elektronowe w półprzewodnikach i dielektrykach`
+Dziki wzór na energię elektronu w temperaturze pokojowej W=kT, gdzie k to stała Boltzmanna a T to temperatura - wniosek w temperaturze pokojowej nie może występować przewodnictwo elektronowe w półprzewodnikach i dielektrykach
 
-Do materiałów izolacynych (dielektryków) zaliczamy materiały o dużej przerwie energetycznej i w całości zajętym paśmie podstawowym.
+Do materiałów izolacyjnych (dielektryków) zaliczamy materiały o dużej przerwie energetycznej i w całości zajętym paśmie podstawowym.
 
-Przewodnictwo rzeczywistych izolatorów wiąże się z przewodnictwem typu jonowego, zawartością zanieczyszczeń oraz z nieregularnościami struktury krystalicznej
+Przewodnictwo rzeczywistych izolatorów wiąże się z przewodnictwem typu jonowego, zawartością zanieczyszczeń oraz z nieregularnościami struktury krystalicznej.
 
 W materiałach nośniki ładunku są w stałym losowym ruchu. Po wprowadzeniu materiału w pole elektryczne, ruch staję się uporządkowany i rozpoczyna się przepływ prądu - prądu przewodnictwa (prądu upływu \[skrośny lub powierzchniowy\]).
 

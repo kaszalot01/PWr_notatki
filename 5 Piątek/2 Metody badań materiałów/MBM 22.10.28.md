@@ -3,7 +3,9 @@ Pospolite galwanometry do $10^{-9} A/dz$
 
 Z tego powodu do pomiaru małych prądów stosuje się **elektrometry**.
 
-Elektrometr - miliwoltomierz mierzący spadek napięcia na zamontowanym na wejściu rezystorze wzorcowym $R_N$ `schemat w zeszycie`
+Elektrometr - miliwoltomierz mierzący spadek napięcia na zamontowanym na wejściu rezystorze wzorcowym $R_N$ 
+
+![[Pasted image 20230212154854.png]]
 
 Warunki doboru $R_N$:
 
@@ -12,7 +14,9 @@ Warunki doboru $R_N$:
 - liniowa charakterystyka prądowo-napięciowa 
 - wysoka wartość oporu  $10^8-10^{12}\ [\Omega]$ 
 
-Elektrometry przeznaczone do pomiaru bardzo wysokich rezystancji nazywa się *teraomometrem*. Ma on wbudowane źródło napięcia pomiarowego. `schemat w zeszycie`
+Elektrometry przeznaczone do pomiaru bardzo wysokich rezystancji nazywa się *teraomometrem*. Ma on wbudowane źródło napięcia pomiarowego.
+
+![[Pasted image 20230212154913.png]]
 
 $$R_x=\frac{U_0 \cdot R_N}{U_{wyj}}$$ 
 Czynniki zewnętrzne:
@@ -22,16 +26,23 @@ Czynniki zewnętrzne:
 - czas 
 - wilgotność
 
-Prawo Ohma jest dobrze spełnione przez metale, gorzej dla półprzewodników i dielektryków. Powyżej pewnego krytycznego/granicznego napięcia charakterystyka odbiega od liniowości. `wykres w zeszycie`
+Prawo Ohma jest dobrze spełnione przez metale, gorzej dla półprzewodników i dielektryków. Powyżej pewnego krytycznego/granicznego napięcia charakterystyka odbiega od liniowości. 
+
+![[Pasted image 20230212154929.png]]
 
 W przypadku dielektryków o nieliniowości **nie świadczy napięcie** tylko natężenie pola elektrycznego. Charakterystyka jest linowa kiedy pole jest jednorodne. Pole jest jednorodne jeżeli dla różnych napięć pomiarowych rezystancja jest taka sama. 
 
-Zależność rezystywności skrośne kwarcu od temperatur `w zesycie`:
+Zależność rezystywności skrośne kwarcu od temperatur:
+
+![[Pasted image 20230212154943.png]]
+
 A - kwarc bezpostaciowy
 B - krystaliczny prostopadle do głównej osi kryst.
 C - krystaliczny równolegle do głównej osi kryst.
 
-Zmiany w czasie `wykres w zeszycie` 
+Zmiany w czasie 
+
+![[Pasted image 20230212154953.png]]
 
 Dla czasów długich: stała, po długim czasie spada (starzenie)
 Dla czasów krótkich: rośnie w pierwszych 60s (prąd polaryzacyjny), potem stała
@@ -68,16 +79,20 @@ Rezystywność powierzchniowa - podsumowanie
 - w przeciwieństwie do metalu, gdzie koncentracja elektronów jest stałą, w półprzewodnikach zależy ona bardzo silnie od temperatury
 - przy wzroście temperatury zachodzą w półprzewodniku dwa procesy oddziałujące na wartość konduktywności: zmniejszanie się ruchliwości i bardzo silny wzrost koncentracji nośników
 
-`Zależnośc rezystywności czystego germanu od teperatury - w zeszycie` - spada 
+`Zależnośc rezystywności czystego germanu od teperatury  - spada`
 
-Konduktywność przewodnika samoistnego w temperaturze pokojowej jest mała.
+![[Pasted image 20230212155112.png]]
+
+Konduktywność półprzewodnika samoistnego w temperaturze pokojowej jest mała.
 Trzeba domieszkować.
 
 Konduktywność półprzewodnika
 $$\gamma = \gamma_s + \gamma_d $$
 gdzie $\gamma_s$ to konduktywność samoistna a $\gamma_d$ to konduktywność niesamoistna (pochodząca od domieszek)
 
-Konduktywność półprzewodników domieszkowych od temperatury `w zeszycie`- obszar I - rośnie, II- maleje, III - rośnie.
+Konduktywność półprzewodników domieszkowych od temperatury - obszar I - rośnie, II- maleje, III - rośnie.
+
+![[Pasted image 20230212155127.png]]
 
 |Obszar| konduktywność| dlaczego| główny udział|
 |-|-|-|-|
@@ -87,25 +102,25 @@ Konduktywność półprzewodników domieszkowych od temperatury `w zeszycie`- ob
 
 ## Przenikalność elektryczna
 
-Zachowanie dielektrykó pod wpływem zwenętrznego pola elektrycznego zależy od ich:
+Zachowanie dielektryków pod wpływem zewnętrznego pola elektrycznego zależy od ich:
 
-- właściwości związanych z transportem nośnikó ładunku
-- właściwości związancyhc ze zjawiskami polaryzacji
+- właściwości związanych z transportem nośników ładunku
+- właściwości związanych ze zjawiskami polaryzacji
 
-Właśniwości te są wzajemnie zależne i alężaąd od wielu czynników zewnętrznych takich jak:
+Właściwości te są wzajemnie zależne i zależą od wielu czynników zewnętrznych takich jak:
 
 - natężenie pola elektrycznego
-- zalęność pola elektrycznego do czasu (stałe, zmenne, impoulsowe)
-- temepratura
+- zależność pola elektrycznego do czasu (stałe, zmienne, impulsowe)
+- temperatura
 - działanie promieniowania elektromagnetycznego
 
-Dielektryki - przerw energetyczna jest na tyle duża, że w normalnych warunkach liczba elektronó zdolnych znaeźć sie w paśnie przewodnictwa jest bardzo duża
+Dielektryki - przerwa energetyczna jest na tyle duża, że w normalnych warunkach liczba elektronów zdolnych znaleźć się w paśmie przewodnictwa jest bardzo mała.
 
 Dielektryk - zbiór dipoli i ładunków swobodnych
 
 Polaryzacja elektryczna $P$ - makroskopowy moment dipolowy
 Indukcja elektryczna $D=\varepsilon E$ 
 
-Polaryzacja dielektryka - zjawisko polegające na utworzeniu dipoli elektrycznych lub orientacji już istniejących dipoli jako reakcja na przyłożone pole elktryczne
+Polaryzacja dielektryka - zjawisko polegające na utworzeniu dipoli elektrycznych lub orientacji już istniejących dipoli jako reakcja na przyłożone pole elektryczne.
 
 Zdolność do polaryzacji jest główną właściwością dielektryków.
