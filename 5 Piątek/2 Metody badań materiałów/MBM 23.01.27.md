@@ -14,7 +14,9 @@ Generacja ma charakter lokalny, gdyż związana jest ze średnicą padającej wi
 
 `Model rozpraszania wiązki świetlnej w ciele stałym - wiązka pada na powierzchnię, pod powierzchnią zaznaoczono "obszar generacji" w kształcie kropli`
 
-`Schemat powstawania prądu OBIC - w zeszycie`
+`Schemat powstawania prądu OBIC`
+
+![[Pasted image 20230212234516.png]]
 
 Indukowanie prądu zachodzi w wyniku separacji swobodnych nośników ładunku generowanych pod wpływem bombardowania próbki fotonami
 
@@ -38,7 +40,7 @@ Do podstawowych zalet metody OBIC można zaliczyć:
 - fakt że propagacja wiązki światła i pomiary odbywają się w powietrzu (co jest zaletą w stosunku do szeroko stosowanych metod elektronowiązkowych wymagających wysokiej próżni)
 - subtelniejszy charakter oddziaływania "lekkich fotonów" na badaną powierzchnię - chyba chodzi o to że taka wiązka np. elektronów to może lokalnie coś zniszczyć w próbce 
 
-`schemat metody, powidział żeby nie przerysowywać`
+Schemat metody:
 
 Jedna strona schematu:
 
@@ -70,11 +72,13 @@ Rodzaje badanych materiałów:
 
 Trzy sposoby pomiaru rozkładu prądu $I_{OBIC}$ w linii wzdłuż kierunku skanowania wiązką świetlną próbki ze złączem p-n (lub m-s):
 
-- rozkład prądu indukowanego w złączu mierzony między kontaktami A, B `rysunek`
+- rozkład prądu indukowanego w złączu mierzony między kontaktami A, B 
 
-	Gdy wiązka światłą W zbliża się do granicy złącza p-n, cześć nośników generowanych w jej pobliżu dyfunduje w obszar złącza, gdzie zostaje rozpreparowana.
-	
-	Indukowany prąd będzie wzrastał ekspotencjalnie w miarę zbliżania się do samego złącza, a następnie aż do kolejnej granicy złącza.
+![[Pasted image 20230212234609.png]]
+
+Gdy wiązka światłą W zbliża się do granicy złącza p-n, cześć nośników generowanych w jej pobliżu dyfunduje w obszar złącza, gdzie zostaje rozpreparowana.
+
+Indukowany prąd będzie wzrastał ekspotencjalnie w miarę zbliżania się do samego złącza, a następnie aż do kolejnej granicy złącza.
 
 - 2 rozkład został skipnięty "żeby się nie mieszało"
 

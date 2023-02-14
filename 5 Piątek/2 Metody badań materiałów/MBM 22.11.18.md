@@ -8,7 +8,7 @@
  - $\varepsilon_w$ zawsze maleje w funkcji częstotliwości, ponieważ niektóre rodzaje polaryzacji nie nadążają za częstą zmianą prądu
  - przenikalność elektryczna jest wykładnikiem zjawisk polaryzacyjnych zachodzących w materiale dielektrycznym
  
- ## Stratność dielektryczna
+## Stratność dielektryczna
 
 Prąd strat występuje nie tylko w wyniku ruchu ładunków elektrycznych, lecz jest głównie związany ze zjawiskami polaryzacyjnymi, prowadzącymi do pochłaniania energii przez dielektryk.
 
@@ -26,13 +26,17 @@ W bilansie energetycznym w obwodach prądu stałego, starty energii związane ze
 
 Jeśli napięcie jest sinusoidalnie zmienne, wówczas proces ładowania i rozładowania będzie się powtarzać okresowo i starty związane z prądem polaryzacji nie mogą być pominięte.
 
-`Ważne wykresy wskazowe dla skłądowych prądu w dielektrykach - w zeszycie od kompozytów`
+`Ważne wykresy wskazowe dla skłądowych prądu w dielektrykach`
+
+![[Pasted image 20230212211353.png]]
 
 Współczynnik strat dielektrycznych $tg \delta$ - cecha materiałów, nie zależy od prądów i napięć w kondensatorze, ani od jego kształtów i wymiarów. Jest to miara zdolności zamiany energii pola EM na ciepło. Charakteryzuje zdolność dielektryka do rozpraszania energii pola EM.
 
 Kondensator rzeczywisty można modelować za pomocą kondensatora i opornika połączonych równolegle albo szeregowo. Większość rzeczywistych kondensatorów lepiej modelować układem równoległym.
 
-`Ważne wyprowadzenie wzoru na tg(delta) w układzie równoległym - w zzeszycie. W domu wyprowadzić wzór dla ukłądu szeregowego.`
+`Ważne wyprowadzenie wzoru na tg(delta) w układzie równoległym`
+
+![[Pasted image 20230212211704.png]]
 
 W dielektryku niepolarnym modelowanym równoległym układem zastępczym wartość oporu określa tylko rezystywność skrośną. ($R_{v}=\rho_{v} \cdot \frac{l}{S}$)
 
@@ -50,7 +54,9 @@ W dielektrykach występują straty:
 
 - przewodnościowe (w dielektrykach niepolarnych)
 - polaryzacyjne (nomen-omen)
-- jonizacyjne - występują w dielektrykach niejednorodnych zawierających wtrącenia gazowe, np. ceramice. Występują w przemiennym polu elektrycznym. `Wykres zależnosći od U w zeszycie`
+- jonizacyjne - występują w dielektrykach niejednorodnych zawierających wtrącenia gazowe, np. ceramice. Występują w przemiennym polu elektrycznym. `Wykres zależnosći`
+
+![[Pasted image 20230212211842.png]]
 
 W dielektrykach i układach rzeczywistych występuje zwykle jednocześnie straty kilku rodzajów. Stosunek wzajemny strat różnych rodzajów, **związany z budową i jakością dielektryku**, zmienia się wraz ze zmianą częstotliwości i temperatury.
 

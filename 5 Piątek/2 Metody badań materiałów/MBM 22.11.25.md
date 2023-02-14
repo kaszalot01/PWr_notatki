@@ -46,12 +46,12 @@ Wytrzymałość elektryczna zależy od:
 
 > uwaga trudne słowo - prawo Paschena
 
-Zgodnie z matematycznym ujęciem  prawa Paschena napięcie przebicia dla danego gazu, dla danego materiału elektord, w danej temepratrze jest funkcją $p\cdot d$ gdzie p to jest ciśnienie a d to odległość międzyelektrodowa. Graficznym ujęciem są krzywe (charakterystyki) Paschena. Dla różnych gazów kształt tych charakterystyk jest zbliżony.  
+Zgodnie z matematycznym ujęciem  prawa Paschena napięcie przebicia dla danego gazu, dla danego materiału elektrod, w danej temperaturze jest funkcją $p\cdot d$ gdzie p to jest ciśnienie a d to odległość międzyelektrodowa. Graficznym ujęciem są krzywe (charakterystyki) Paschena. Dla różnych gazów kształt tych charakterystyk jest zbliżony.  
 
 ## Elektrety
 
 Elektretem nazywamy dielektryk, który wytwarza w swoim otoczeniu trwałe, zewnętrzne pole elektryczne. Źródłem w elektrecie są nagromadzone w nim ładunki elektryczne lub wytworzony w dielektryku i "zamrożony" stan polaryzacji. 
-Zjawisko gromadzenia trwałego ładunku elektrycznego w dielektrykach daje duże możliwości ich praktycznych zastosowań. Możliwości zastosowania elektrtów związane są z czasem życia ładunku elektrycznego (ostatnie niepewne, zmieniła slajd)
+Zjawisko gromadzenia trwałego ładunku elektrycznego w dielektrykach daje duże możliwości ich praktycznych zastosowań. Możliwości zastosowania elektretów związane są z czasem życia ładunku elektrycznego (ostatnie niepewne, zmieniła slajd)
 
 Metody wytwarzania elektretów
 

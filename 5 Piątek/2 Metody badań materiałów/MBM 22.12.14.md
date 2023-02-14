@@ -1,5 +1,3 @@
-`nowy zeszyt, żółty, do niemieckiego z gimnazjum`
-
 ## SEM c.d.
 
 Przygotowanie próbki:
@@ -21,7 +19,9 @@ Rekonstrukcja obrazu powierzchni próbki jest możliwa, gdy stosunek sygnału do
 $$\frac{S}{N}>5$$
 W modzie TOPO detektory ustawiane nisko nad próbką, pod kątem $<30^o$ do podłoża. 
 W modzie COMPO ustawiane wysoko, pod kątem $>60^o$
-`rysunek`
+
+![[Pasted image 20221220221344.png]]
+
 W rzeczywistości algorytmy są dużo bardziej skomplikowane.
 
 Czynniki wpływające na sygnał EWR:

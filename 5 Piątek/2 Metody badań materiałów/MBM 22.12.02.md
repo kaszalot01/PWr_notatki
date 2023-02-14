@@ -1,13 +1,14 @@
-
-
 ## Z ostatniego wykładu
 
 Elektret - dielektryk, który wytwarza stałe pole elektryczne.
 
-`Próbowałem przepisać "podkręcony schemat" z ostatniego wykładu, zmieniła slajd zanim przepisałem - cośtam jest w zeszycie`
+`Próbowałem przepisać "podkręcony schemat" z ostatniego wykładu, zmieniła slajd zanim przepisałem`
+
+![[Pasted image 20230212224833.png]]
 
 ## Dalej o elektretach
-Zalety metody ładowania monoenergetycznymi elektronami, z badawczego punktu widzenia, polegająca na tym, że w dielektryku można zgromadzić kontrolowane gęstości ładunku jednego znaku na głębokości ściśle określonej zasięgiem elektronów. Dla takich dobrze zdefiniowanych elektretów można...
+
+Zalety metody ładowania monoenergetycznymi elektronami, z badawczego punktu widzenia, polegająca na tym, że w dielektryku można zgromadzić kontrolowane gęstości ładunku jednego znaku na głębokości ściśle określonej zasięgiem elektronów. Dla takich dobrze zdefiniowanych elektretów można badać procesy zmiany przestrzennego rozkładu ładunku oraz jego kontrolowany zanik. `
 
 Stanowisko elektrowiązkowe - strumień elektronów -> soczewki -> próbka
 
@@ -15,27 +16,37 @@ Charakterystyki średniego położenia ładunku elektrycznego w materiale
 
 `dwa wykresy nieliniowo monotonicznie rosnące, położenie w mikrometrach w funkcji energii wiązki elektronów`
 
-Rozkład ładunku elektrycznego w folii PE `w zeszycie`
+![[Pasted image 20230212214131.png]]
+
+Rozkład ładunku elektrycznego w folii PE
+
+![[Pasted image 20230212213936.png]]
 
 
 Pomiar gęstości powierzchniowej ładunku
 Metoda kompensacyjna (metoda głowicy wibracyjnej) układ działa na zasadzie kompensacji własnego pola elektretu przez sztucznie wprowadzone pole zewnętrzne.
 
-Elektroda pomiarowa (wibracyjna) wibruje w polu elektretu, który wytwarza stałe pole elektretu, oraz w polu wprowadzanym przez elektrodę kompensacyjną. Sygnał jest wzmacniany i prowadzany do oscyloskopu. `schemat 1 w zeszycie`
+Elektroda pomiarowa (wibracyjna) wibruje w polu elektretu, który wytwarza stałe pole elektretu, oraz w polu wprowadzanym przez elektrodę kompensacyjną. Sygnał jest wzmacniany i prowadzany do oscyloskopu.
+
+![[Pasted image 20230212214041.png]]
 
 Gęstość prądu:
 
 $$ q_s = \varepsilon_w \varepsilon_0 \frac{U_K}{d}$$
 
 gdzie d to grubość próbki
-Metoda indukcji elektrostatycznej `schemat 2 w zeszycie
+Metoda indukcji elektrostatycznej 
 
-Jeżeli płytkę elektretową umieścić między dwiema metalowymi elektrodami to na zasadzie indukcji elektrostatycznej, w elektrodach zostanie wyindukowany ładunek różnoimienny. `rysunek w zeszycie`
+![[Pasted image 20230212214023.png]]
+
+Jeżeli płytkę elektretową umieścić między dwiema metalowymi elektrodami to na zasadzie indukcji elektrostatycznej, w elektrodach zostanie wyindukowany ładunek różnoimienny. 
+
+![[Pasted image 20230212214303.png]]
 
 1. Zamykamy wyłącznik żeby odprowadzić ładunek z górnej części górnej elektrody (na rysunku dodatni) do ziemi
 2. Odsuwamy elektrodę od próbki i otwieramy włącznik. Pozostałego (ujemnego na rysunku) ładunku już nic nie "trzyma" i płynie do kondensatora. Mierzymy napięcie i gęstość wyznaczamy ze wzoru: $q_s=\frac{C_N \cdot U}{S}$ gdzie S to pole powierzchni elektrody
 
-W nowoczesnych elektretach polimerowych, o wartości wykonanego elementu decyduje zwykle homoładunek i jego stabilność w czasie. Pojęcie czasu życia elektretu można więc utożsamić z ... `przełączyła slajd`
+W nowoczesnych elektretach polimerowych, o wartości wykonanego elementu decyduje zwykle homoładunek i jego stabilność w czasie. Pojęcie czasu życia elektretu można więc utożsamić z czasem relaksacji homoładuknu w temperaturze pokojowej.
 
 Matematyczny model oceny wypadkowego czasu życia elektretu oparty jest na równaniu Arrheniusa:
 
@@ -70,13 +81,14 @@ Zalety filtrów z ładunkiem elektrycznym:
 - łatwa eksploatacja
 - niski koszt produkcji
 
-`zdjęcia mikroskopowe filtrów zwłoknin elektretowych - może ktoś ma, pewnie nie ważne`
 
 Materiały do bezpośredniego kontaktu z krwią
 
-Powierzchnię śródbłonka pokrywa tzw. glikokaliks - warstwa glikoprotein i glikozoaminoglikanów, których 80% stanowi siarczan heparyny. Są to nośniki ujemnych ładunków, które ... `przełączyła slajd`
+Powierzchnię śródbłonka pokrywa tzw. glikokaliks - warstwa glikoprotein i glikozoaminoglikanów, których 80% stanowi siarczan heparyny. Są to nośniki ujemnych ładunków, które nadają wewnętrznej powierzchni naczyń ujemny potencjał elektryczny.
 
-Uznając znaczenie ładunku elektrycznego w procesie tworzenia zakrzepów przyjęto, że powierzchnia materiału, przeznaczonego do kontaktu z krwią, powinna być nosicielem ujemnego ładunku elektrostatycznego -> efekt elektretowy.
+Cząsteczki białka i elementy upostaciowione krwi są również nosicielami ujemnego ładunku elektrostatycznego.
+
+Uznając znaczenie ładunku elektrycznego w procesie tworzenia zakrzepów przyjęto, że powierzchnia materiału, przeznaczonego do kontaktu z krwią, powinna być nosicielem ujemnego ładunku elektrostatycznego. Implantacja ładunku elektrycznego -> efekt elektretowy.
 
 Dziana poliestrowa proteza naczyń krwionośnych "Dallon"
 
@@ -86,64 +98,68 @@ Sposoby zapobiegania elektryzacji:
 - antystatyki - substancje, które eliminują lub zmniejszają elektryzowanie się ciał stałych.
 - wprowadzanie włókien metalicznych, stosowanie napełniaczy przewodzących (np. sadzy)
 
-Antystatyk może być prowadzany:
+Antystatyki może być prowadzany:
 - zewnętrznie poprzez nanoszenie na powierzchnie wodnych lub alkoholowych roztworów
 - wewnętrznie - dodatek domieszek (związki azotu, fosforu i siarki)
 
 
 ## Materiały magnetyczne
 
-Wszystkie znane pierwiasktki, związki chemiczne i materiały moą zostać sklasyfikowane na podstawie ich włąsności magnetycznych, Każne cciało umieszczoen w polu magnetyczncyh magnesuje isę
+Wszystkie znane pierwiastki, związki chemiczne i materiały mogą zostać sklasyfikowane na podstawie ich własności magnetycznych. Każde ciało umieszczone w polu magnetycznym magnesuje się
 
-Miarą stopnia namagesowania jest magnetyczacjia (albo namagnesowanie)
+Miarą stopnia namagnesowania jest magnetyzacja (albo namagnesowanie)
 
-Megnetyczacja jest to moment magnetycznyc przyapdającn na jednostkę objętcości
+Magnetyzacja jest to moment magnetyczny przypadający na jednostkę objętości
 
-Właściwości magnetyczne materiału charakteryzują podatnośc magnetyczna, któa określa ziwzaek między namagnesoaenim i natężeniem pola megntycznego
+Właściwości magnetyczne materiału charakteryzują podatność magnetyczna, która określa związek między namagnesowaniem i natężeniem pola magnetycznego
 
-$$\vec{M}=\Chi \vec{H}$$ 
+$$\vec{M}=\chi \vec{H}$$ 
 Zależnie od podatności magnetycznej, wszystkie materiały można podzielić na trzy rodzaje:
 
-- diamagnetyki - mała, ujemne wartość podatności magentycznej $\Chi \in (0.1, 10)\cdot 10^{-6}$ 
-- paramagetyki $\Chi \in (0,1)$
-- ferromagnetyki $\Chi >1$ 
+- diamagnetyki - mała, ujemne wartość podatności magnetycznej $\chi \in (0.1, 10)\cdot 10^{-6}$ 
+- paramagnetyki $\chi \in (0,1)$
+- ferromagnetyki $\chi >1$ 
 
 W teorii pola elektromagnetycznego indukcję magnetyczną B definiuje sie jako:
 
 $B= \mu _0 H + \mu_0 M$
-$B= \mu_0 H + \mu_0 \Chi H = \mu_0 (1+ \Chi)H$
+$B= \mu_0 H + \mu_0 \chi H = \mu_0 (1+ \chi)H$
 
-$\mu_w=1+\Chi$
+$\mu_w=1+\chi$
 
 $B=\mu_0 \mu_w H$
 
 Diamagnetyki - gazy szlachetne, niektóre metale (cynk, złoto, rtęć), niektóre niemetale (krzem, fosfor, siarka), związki organiczne (alkohol)
 
-Paramagnetyki: niektóre pierwastki (glin, platyna, palla, chrom) oraz ich sole, powiertze, gazowy..
+Paramagnetyki: niektóre pierwiastki (glin, platyna, palla, chrom) oraz ich sole, powietrze, gazowy tlenek azotu, ciekły i stały tlen
 
-Ferromagentyki - żelazo, nikiel, kobalt
+Ferromagnetyki - żelazo, nikiel, kobalt, gadolin i ich stopy, stopy chromu
 
 > ważne - $\mu _w$ może być <1
 
-Diamagnetyki - wszytkie elektrony spaorowane, atom nie ma zewnętrznego momengu magnetycznego. Po umieszczeniu d-a w zewnętrzym polu magentycznym łądunki dążą do częściowego ekranowania wnętrza ciała przez przyłozonym polem
+Diamagnetyki - wszystkie elektrony sparowane, atom nie ma zewnętrznego momentu magnetycznego. Po umieszczeniu d-a w zewnętrznym polu magnetycznym ładunki dążą do częściowego ekranowania wnętrza ciała przez przyłożonym polem
 
-Diamagnetyki magentyzujją się w abrdzo słąbym stopniu i w kierunku przeciwnym do keirunku działania zewnętrzengo pola magentycznego
+Diamagnetyki magnetyzują się w bardzo słabym stopniu i w kierunku przeciwnym do kierunku działania zewnętrznego pola magnetycznego
 
-Ten rodzaj magentyzacji jest proporcjonalny do zewnętrznego pola magnetycznegp i jest niezalęzny od tempratury
+Ten rodzaj magnetyzacji jest proporcjonalny do zewnętrznego pola magnetycznego i jest niezależny od temperatury
 
-Paramagnetyki - posiadają co najniej jeden niesparowany elektron, co skutkuje zenętrznym momentem magentycznym dla danego atomu. Przy braku uporządkowania  wypadkowy moment magentyczny jest zerowy.
+Paramagnetyki - posiadają co najmniej jeden niesparowany elektron, co skutkuje zewnętrznym momentem magnetycznym dla danego atomu. Przy braku uporządkowania wypadkowy moment magnetyczny jest zerowy.
 
-Gdy umieścimy paramagnetyk w zewnętrznym polu magnetycznym, materiał magnetyczuje się w nieznacznym stopnuk w kieurnku zgdonym z kierunkeim działąnia zewnętrznego pola magnetycznego.
+Gdy umieścimy paramagnetyk w zewnętrznym polu magnetycznym, materiał magnetyzuje się w nieznacznym stopniu w kierunku zgodnym z kierunkiem działania zewnętrznego pola magnetycznego.
 
 Magnetyzacja proporcjonalna do zewnętrznego pola i odwrotnie proporcjonalna do temperatury
 
-Ferromagnetyki - jedynie w postaci ciał stałych (pozostałe mogły mieć inne stany skupienia) W stanie ciekłym i gazowym ferromagnetyki zachowują sie jak paramagnetyki.
+Ferromagnetyki - jedynie w postaci ciał stałych (pozostałe mogły mieć inne stany skupienia) W stanie ciekłym i gazowym ferromagnetyki zachowują się jak paramagnetyki.
 
-Ferromagnetyki - silne właściwości magnetyczne. Każdy atom wytwarza własne pole magnetyczne. Atomy ustawiają się tak aby pole magnetyczne cząstek było zgodne z p.m. sąsiadów. Obszary tego samego kierunku nazywamy domenami. Pole magnetyczne domen mogą być usatwione w dowolnym kierunku. Przy przyłożeniu zewnętrznego pola domeny ustawiają się w jego kierunku. Domeny nie wracają do ustawienia chaotycznego po ustaniu zewnętrznego p.m. - pozostałość magnetyczna. Ten magnetyzm nie jest porporcjonalny do zewnętrznego pola i jest dwrotnie proporcjonalny do różnicy tempratury bezwzględnej i tempratury krytycznej (punku Curie) $T-\theta$ 
+Ferromagnetyki - silne właściwości magnetyczne. Każdy atom wytwarza własne pole magnetyczne. Atomy ustawiają się tak aby pole magnetyczne cząstek było zgodne z p.m. sąsiadów. Obszary tego samego kierunku nazywamy domenami. Pole magnetyczne domen mogą być ustawione w dowolnym kierunku. Przy przyłożeniu zewnętrznego pola domeny ustawiają się w jego kierunku. Domeny nie wracają do ustawienia chaotycznego po ustaniu zewnętrznego p.m. - pozostałość magnetyczna. Ten magnetyzm nie jest proporcjonalny do zewnętrznego pola i jest odwrotnie proporcjonalny do różnicy temperatury bezwzględnej i temperatury krytycznej (punku Curie) $T-\theta$ 
 
-Pętla histerezy magnetycznej `próba rysunku w zeszycie`
+Pętla histerezy magnetycznej
 
-Materiały miękkie i twarde `w zeszycie`
+![[Pasted image 20230212214403.png]]
+
+Materiały miękkie i twarde 
+
+![[Pasted image 20230212214500.png]]
 
 Materiały miękkie - natężenie koercji $H_c< 1000A/m$
 Materiały twarde - $H_c >10 kA/m$

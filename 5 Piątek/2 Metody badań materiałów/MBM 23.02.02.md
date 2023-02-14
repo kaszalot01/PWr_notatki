@@ -1,12 +1,18 @@
 ## Pomiary optyczne
 
-`rysunek co się dzieje ze światłem przy przejściu z przez cienką warstwę na podłożu - każdy go zna`
+`rysunek co się dzieje ze światłem przy przejściu z przez cienką warstwę na podłożu`
+
+![[Pasted image 20230212234920.png]]
 
 `charakterystyka transmisji światła cienkiej warstwy TiO2`
 
+![[Pasted image 20230212234948.png]]
+
 Współczynnik kierunkowej transmisji światła 
 
-`jakieś układy co nie przepisałem`
+![[Pasted image 20230212235025.png]]
+
+![[Pasted image 20230212235041.png]]
 
 Sfera integracyjna
 
@@ -16,7 +22,7 @@ Odbicie od powłok zależy od mikro- i makroskopowych właściwości ich powierz
 
 Jeżeli na powierzchni powłoki występują nierówności, których rozmiary są znacznie mniejsze od długości fali światła padającego, to następuje tzw. kierunkowe (zwierciadlane) odbicie światła.
 
-Gdy nierówności są porównywalne z długością fali, odbicie może mieć charakter dyfuzyjny. Wówczas nie można...
+Gdy nierówności są porównywalne z długością fali, odbicie może mieć charakter dyfuzyjny. Wówczas nie można wyróżnić określonego kierunku światła odbitego.
 
 - Parametry wyznaczane na podstawie charakterystyk transmisji i odbicia światła:
 - Wyznaczanie średniego poziomu transmisji metodą obwiedni
@@ -53,7 +59,9 @@ Przykłady zastosowań powierzchni hydro- i superhydrofobowe:
 - soczewki okularowe
 - farby
 
-`scheamty układów do pomiarów zwilżania`
+Układ do pomiarów zwilżania
+
+![[Pasted image 20230212235524.png]]
 
 Podstawowe elementy układu:
 

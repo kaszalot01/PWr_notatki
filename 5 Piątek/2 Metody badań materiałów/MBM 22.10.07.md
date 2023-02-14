@@ -31,6 +31,7 @@ Wśród elektrycznych właściwości możemy wymienić różne współczynniki m
 ![[Pasted image 20230211230856.png]]
 
 Szerokości pasma przewodnictwa dla różnych typów materiałów
+
 |Typ|Szerokoś pasma [eV]|
 |-|-|
 |Przewodniki| < 0.1 |
