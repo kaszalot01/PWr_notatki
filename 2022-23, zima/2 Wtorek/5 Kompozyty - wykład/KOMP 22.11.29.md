@@ -1,0 +1,1 @@
+Byłem ale notowałem w zeszycie

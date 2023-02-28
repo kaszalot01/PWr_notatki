@@ -1,2 +1,0 @@
-dr inż. Aleksandra Korbut
-

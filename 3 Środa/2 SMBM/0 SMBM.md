@@ -1,1 +1,0 @@
-[[Widmo elektronowe]]
