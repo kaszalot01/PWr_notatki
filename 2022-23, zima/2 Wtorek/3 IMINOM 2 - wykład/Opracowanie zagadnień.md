@@ -38,6 +38,7 @@
 19. Charakterystyka procesu wulkanizacji kauczuków dienowych i wpływ przebiegu tego procesu na właściwości gumy. 
 20. Wpływ masy cząsteczkowej i polidyspersyjności na właściwości polimeru. 
 21. Wpływ rodzaju połączeń międzyłańcuchowych na właściwości gumy. 
+    ![[Pasted image 20230208210423.png]]
 22. Przykłady polimerów polarnych i niepolarnych. 
 23. Mechanizm polimeryzacji rodnikowej. 
 24. Charakterystyka poliaddycji i polikondensacji. 
@@ -325,7 +326,7 @@ Proces wytwarzania włókien syntetycznych
 			- szczoteczki do zębów
 			- liny cumownicze
 			- spadochrony
-- Włókna aramidowe
+- włókna aramidowe
 	- budowa - polimery, które w łańcuchu głównym posiadają ugrupowania aromatyczne (im więcej, tym większa odporność mechaniczna, termiczna i pożarowa, ale gorsza rozpuszczalność)
 	- właściwości
 		- Wytrzymałość na rozrywanie
@@ -362,7 +363,53 @@ Proces wytwarzania włókien syntetycznych
 			- tergal (płótna żaglowe)
 		- liny
 
-#### 8. Jak się umie 7 to nie trzeba 8
+#### 8. Przykłady polimerów włóknotwórczych otrzymywanych w wyniku poliaddycji (wzór, właściwości, zastosowanie)
+- włókna poliuretanowe
+	- budowa - produkt poliaddycji izocyjanianów z alkoholami wielowodorotlenowymi, ugrupowanie uretanowe $-O-CO-NH-$ 
+	- właściwości
+		- bardzo duże wydłużenie przy zerwaniu (500-1000%)
+		- wysoka wytrzymałość na zerwanie
+		- wysoka sprężystość
+		- odporność na utlenianie, wodę morską i środki chemiczne
+	- zastosowania
+		- skóra ekologiczna
+		- pianki
+		- podeszwy do butów
+- włókna akrylowe
+	- budowa - poliakrylonitryl (PAN) - ![[Pasted image 20230208003536.png]]
+	- właściwości
+		- wytrzymałość na rozciąganie i ściskanie
+		- łatwość barwienia
+		- niski komfort cieplny
+		- słaba oddychalność
+		- fatalna chłonność
+		- skłonność do mechacenia i szarzenia
+		- elektryzowalność
+		- odporność na działanie temperatury do 170$^oC$ 
+	- zastosowania -zamiennik wełny 
+		- czapki
+		- swetry
+		- tkaniny obiciowe
+		- dywany
+- włókna węglowe
+	- budowa - PAN poddany pirolizie, struktury węglowe podobne do grafitu
+	- właściwości - patrz 9.
+	- zastosowania - patrz 9.
+- włókna polipropylenowe
+	- budowa - ?
+	- właściwości
+		- obojętne chemicznie
+		- odporne na działanie kwasów i zasad
+	- właściwości (beton z dodatkiem włókien PP)
+		- eliminacja rys skurczowych
+		- odporność na czynniki pogodowe
+		- odporność udarowa
+		- odporność korozyjna
+	- zastosowanie
+		- dodatek do betonu
+			- siatki przeciwskurczowe
+			- elementy pomocnicze podtrzymujące zbrojenie
+
 
 #### 9. Włókna węglowe (otrzymywanie, właściwości, zastosowanie) 
 

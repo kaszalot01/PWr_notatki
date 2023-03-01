@@ -22,7 +22,7 @@ WDS - wavelength-dispersive X-ray spectroscopy - do pierwiastków lekkich, dług
 
 > Jak kupujesz hafn to przyjeżdżają smutni panowie
 
-`Pytanie na kolokwium: na czym polega EDS, naszkicuj widmo (jakieśtam piki, powiedzieć, że odpowiadją atomom)`
+> Pytanie na kolokwium: na czym polega EDS, naszkicuj widmo (jakieśtam piki, powiedzieć, że odpowiadją atomom)
 
 TEM  - operuje na wiązce elektronów, większa rozdzielczość (teoretycznie ~1pm)
 

@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "3310022f5670370c",
+    "id": "3b18299d176b0774",
     "type": "split",
     "children": [
       {
-        "id": "1b062344a4ca9a51",
+        "id": "1ffb8fc977fc32d9",
         "type": "tabs",
         "children": [
           {
-            "id": "6ee8d9eed0d192a4",
+            "id": "8acaa6829059e138",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-23, zima/1 Poniedziałek/1 Optyka materiałów/OM 22.11.14.md",
+                "file": "2022-23, lato/BM 23.03.01.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bde1d0f5e51b2316",
+    "id": "abf4bb9a83be85fc",
     "type": "split",
     "children": [
       {
-        "id": "584807d12a4b442b",
+        "id": "167f17e3f71485e5",
         "type": "tabs",
         "children": [
           {
-            "id": "06900611ae0b1b77",
+            "id": "5b30dc10d84aeff9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "b52ce0860bc08a8c",
+            "id": "f52b2bed6e7ca2a3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "3b24bf505a850da5",
+            "id": "36016086399344a0",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "c2ba2b438649d8ee",
+    "id": "d36fe6df3b58d39a",
     "type": "split",
     "children": [
       {
-        "id": "4f8c5911efda4e42",
+        "id": "6d566d7ad911db3f",
         "type": "tabs",
         "children": [
           {
-            "id": "d9237d180837e669",
+            "id": "e7eaecd0314b5e9a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-23, zima/1 Poniedziałek/1 Optyka materiałów/OM 22.11.14.md",
+                "file": "2022-23, lato/BM 23.03.01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "be056c0374db78ac",
+            "id": "9170e634ae9b5b44",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-23, zima/1 Poniedziałek/1 Optyka materiałów/OM 22.11.14.md",
+                "file": "2022-23, lato/BM 23.03.01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c95983bba4c00240",
+            "id": "8cb04d693ce689f9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "f62e5d78ebb9df8a",
+            "id": "5b9cf65a45f1a8c6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-23, zima/1 Poniedziałek/1 Optyka materiałów/OM 22.11.14.md"
+                "file": "2022-23, lato/BM 23.03.01.md"
               }
             }
           }
@@ -147,22 +147,9 @@
       "publish:Opublikuj zmiany": false
     }
   },
-  "active": "6ee8d9eed0d192a4",
+  "active": "8acaa6829059e138",
   "lastOpenFiles": [
-    "2022-23, zima/1 Poniedziałek/1 Optyka materiałów/OM 22.10.17.md",
-    "2022-23, lato/PMC 23.02.28.md",
-    "2022-23, lato/Catastrophes caused by corrosion.pdf",
-    "2022-23, lato/Niepotwierdzony 352827.crdownload",
-    "2022-23, lato/KZR 23.02.28.md",
-    "2022-23, zima/5 Piątek/2 Metody badań materiałów/MBM 23.02.02.md",
-    "2022-23, zima/5 Piątek/2 Metody badań materiałów/0 Metody badań materiałów.md",
-    "2022-23, zima/0 Opublikowane/Mały modelarz - na kolokwium z kompozytów.pdf",
-    "2022-23, zima/2 Wtorek/3 IMINOM 2 - wykład/0 IMINOM 2 - wykład.md",
-    "2022-23, zima/2 Wtorek/3 IMINOM 2 - wykład/IMINOM 22.10.11.md",
-    "2022-23, zima/2 Wtorek/3 IMINOM 2 - wykład/IMINOM 23.01.24.md",
-    "2022-23, zima/0 Opublikowane/IMINOM_opracowanie_zagadnien_cz1.pdf",
-    "2022-23, zima/4 Czwartek/1 Nanokompozyty/0 Opracowanie zagadnień (pierwsze 6 wykładów).md",
-    "2022-23, zima/4 Czwartek/1 Nanokompozyty/NK 22.10.27.md",
-    "2022-23, zima/4 Czwartek/1 Nanokompozyty/NK 22.11.10.md"
+    "2022-23, lato/PMCs 23.03.01.md",
+    "2022-23, lato/BM 23.03.01.md"
   ]
 }

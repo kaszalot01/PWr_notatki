@@ -9,6 +9,8 @@ W STM stosowane są dwa mody pomiarowe:
 
 `rysunek STM w zeszycie (ważne: napięcie polaryzacyjne)`
 
+![[Pasted image 20230212234212.png]]
+
 Wady metody STM:
 
 - możliwość wykonywania pomiarów tylko dla materiałów przewodzących
@@ -20,11 +22,20 @@ Ostrza są wolframowe. Robi się je  metodą wytrawiania.
 AFM - mikroskop sił atomowych - pozwala badać powierzchnie materiałów dielektrycznych. Ostrze o wyglądzie piramidy z kwadratem w podstawie. 
 
 `rysunek AFM (ważne: element piezoelektryczny)`
+
+![[Pasted image 20230212234228.png]]
+
 `wykresy siła-odległość`
+
+![[Pasted image 20230212234237.png]]
+
+![[Pasted image 20230212234245.png]]
 
 mod kontaktowy, przerywanego kontaktu, bezkontaktowy
 
 `inny schamte AFM (laser)`
+
+![[Pasted image 20230212234301.png]]
 
 Pomiary o wysokiej rozdzielczości wykonywane są najczęściej w ultra wysokiej próżni (UHV)
 
@@ -38,7 +49,7 @@ Mody pracy:
 - stałoprądowy - belka nie jest wprowadzona w wibracje
 	- mod kontaktowy - stosowany jest do powierzchni atomowo gładkich oraz chropowatych a jego wadą jest możliwość uszkodzenia powierzchni próbki.
 - zmiennoprądowe - belka wibruje z określoną częstotliwością
-	- mod przerywanego kontaktu (chwilowokontaktowy) - małe jest ryzyko uszkodzenia powierzchni próbki i może być stosowany do tak delikatnych próbek, ja knp. białka
+	- mod przerywanego kontaktu (chwilowokontaktowy) - małe jest ryzyko uszkodzenia powierzchni próbki i może być stosowany do tak delikatnych próbek, jak np. białka
 	- mod bezkontaktowy - korzystamy kiedy próbka jest silnie reaktywna i może reagować z krzemem w igle
 
 Zastosowania AFM:
