@@ -1,9 +1,3 @@
-## Organizacyjne
-
-Blicharski (?) inżynieria materiałowa 
-18.04.23 - zaliczenie 1. części
-20.06.23 - zaliczenie 2. części, poprawa 1. części
-
 ## Wykład
 
 Najpierw ludzie znajdywali metale szlachetne (bo nie umieli przerabiać rud) - one nie korodują więc nie było problemu. Jak zaczęto wytapiać żelazo to odkryto korozję. 
@@ -44,4 +38,4 @@ Korozja jest procesem samorzutnym
 
 Termodynamika a kinetyka - podatność a szybkość - czasem coś jest podatne na korozję ale zachodzi ona zbyt wolno, żeby ją zauważyć
 
-Szereg napięciowy metali - pokazuje podatność na korozję (ALE pasywacja)
+Szereg napięciowy metali - pokazuje podatność na korozję a nie szybkość (bo pasywacja)
