@@ -33,13 +33,17 @@ Przesiąkliwość $\frac{V_m}{Ft}$
 
 **<ważne!>**
 
-Wodoszczelność betonu
+Wodoszczelność betonu\
+
+![[Pasted image 20230312152431.png]]
 
 wskaźnik ciśnienia = wysokość słupa wody odniesiona do grubości ściany
 
 $D_p=\frac{H}{g}$
 
 Jeśli grubość ściany się zmienia to wybieramy największy wskaźnik ciśnienia
+
+![[Pasted image 20230312152500.png]]
 
 Na podstawie wskaźnika odczytujemy z tabeli stopień wodoszczelności
 
@@ -62,6 +66,7 @@ Wartości dla materiałów ceramicznych:
 	- cegły do 22%
 
 **<ważne!>**
+![[Pasted image 20230312152538.png]]
 
 Wartości dla betonów:
 
@@ -85,6 +90,7 @@ Zastosowanie betonów ciężkich - reaktory jądrowa, ekranowanie elektroniki pr
 - rozszerzalność cieplna - 10e-6, zbliżona do stali - dzięki temu można robić żelbet
 - konsystencja - robimy "babko, babko udaj się" mokrym betonem, stożek Abramsa, babka trochę opada/rozpływa się i mierzymy ile jest niżej. Opadnięty stożek powinien być w miarę symetryczny.  
 - stopień napowietrzenia - jak jest środowisko nieprzyjazne (nieprzyjazność wyznaczają klasy) to trzeba napowietrzać bo coś tam z zamrażaniem i rozmrażaniem. Badamy jakimś magicznym garnkiem - wypłukujemy powietrze wodą i coś pompujemy i magicznie dostajemy wynik.
+![[Pasted image 20230312152639.png]]
 
 Podstawowe właściwości mechaniczne
 
@@ -94,6 +100,7 @@ Podstawowe właściwości mechaniczne
 - wytrzymałość na rozciąganie przy rozłupywaniu (próbki walcowe lub sześcienne)
 - odkształcalność - moduł Younga $E\ [GPa]$
 - pełzanie - przyrost odkształceń przy stałym naprężeniu - zagadnienie ważne dla betonów. Współczynnik pełzania stosunek odkształcenia pełzania do odkształcenia sprężystego $\frac{\varepsilon_{peł}}{\varepsilon_{elast}}$ 
+![[Pasted image 20230312152655.png]]
 - kruchość - $k=\frac{f_t}{f_c}$ 
 
 > "nowy budynek pęka bo jest nowy"
@@ -107,10 +114,14 @@ Wytrzymałość na ściskanie cegły pełnej:
 4. próba ściskania
 5. normalizacja do odpowiednich wymiarów (współczynnik delta, tabelka)
 
+![[Pasted image 20230312152957.png]]
+
 $f_b=\eta_{W} \delta f_b$
-współczynniki (wilgotności i wymiarów)
+współczynniki (wilgotności i wymiarów \[por. pkt 5\])
 
 **<ważne!>**
+
+![[Pasted image 20230312152732.png]]
 
 Zaprawa cementowa:
 
@@ -127,6 +138,8 @@ Zaprawę możemy sobie badać:
 
 **<ważne!>**
 
+![[Pasted image 20230312152716.png]]
+
 Beton:
 
 - kruszywo
@@ -141,6 +154,8 @@ Cement to jest biały proszek. Cement z wodą to jest zaczyn. Zaczyn z drobnym k
 
 Przygotowanie próbek:
 
+![[Pasted image 20230312152804.png]]
+
 - próbki sześcienne - łatwo zrobić, forma z tworzywa sztucznego
 - próbki walcowe - dają wyniki bliższe rzeczywistym wynikom dla konstrukcji. formy metalowe, ciężko robić próbki.
 
@@ -153,6 +168,9 @@ Najlepszy technicznie dla walca jest mechanizm jak się robią dwa stożki (odpr
 
 
 **<ważne!>**
+
+![[Pasted image 20230312152820.png]]
+
 `slajd z gwiazdką, nieprzepisywalny`
 **</ważne!>**
 
@@ -161,6 +179,8 @@ Próbki można też pobrać z konstrukcji - odwiert na mokro
 Metody nieniszczące konstrukcji betonowych - badanie młotkiem Schmidta - coś z odbiciem
 
 **<ważne!>**
+
+![[Pasted image 20230312152833.png]]
 `slajd`
 **</ważne!>**
 
@@ -169,5 +189,8 @@ Badanie modułu Younga - ściskanie z ekstensometrem, obciążenie cykliczne.
 Mrozoodporność - wskaźniki określają ile lat wytrzyma konstrukcja- jak narażony na kapilarne podciągania to + 50 lat
 
 **<ważne!>**
+![[Pasted image 20230312152909.png]]
+
+![[Pasted image 20230312152850.png]]
 Badanie mrozoodporności - cyklicznie zamrażamy i rozmrażamy 6 próbek (6 kolejnych mokrych jest próbą kontrolną). Mierzymy ubytek masy i ubytek wytrzymałości. 
 **</ważne!>**
