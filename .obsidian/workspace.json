@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6012bf657c612a7b",
+            "id": "e8fc2a20f217b448",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-23, lato/5 Piątek/MCH/MCH 23.03.10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74ae7fe8ec750012",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-23, lato/3 Środa/2 BM/BM 23.03.08.md",
+                "file": "2022-23, lato/1 Poniedziałek/2 TP/TP 23.03.13.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-23, lato/5 Piątek/MCH/MCH 23.03.10.md",
+                "file": "2022-23, lato/1 Poniedziałek/2 TP/TP 23.03.13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-23, lato/5 Piątek/MCH/MCH 23.03.10.md",
+                "file": "2022-23, lato/1 Poniedziałek/2 TP/TP 23.03.13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-23, lato/5 Piątek/MCH/MCH 23.03.10.md"
+                "file": "2022-23, lato/1 Poniedziałek/2 TP/TP 23.03.13.md"
               }
             }
           }
@@ -159,10 +147,19 @@
       "publish:Opublikuj zmiany": false
     }
   },
-  "active": "6012bf657c612a7b",
+  "active": "e8fc2a20f217b448",
   "lastOpenFiles": [
-    "2022-23, lato/5 Piątek/MCH/0 MCH.md",
+    "2022-23, lato/1 Poniedziałek/2 TP/Pasted image 20230313110411.png",
+    "2022-23, lato/1 Poniedziałek/2 TP/TP 23.03.13.md",
+    "2022-23, lato/1 Poniedziałek/2 TP/0 TP.md",
+    "2022-23, lato/1 Poniedziałek/2 TP/TP 23.03.06.md",
+    "2022-23, lato/1 Poniedziałek/1 MCCB/MCCB 23.03.13.md",
+    "2022-23, lato/1 Poniedziałek/1 MCCB/Pasted image 20230313073637.png",
+    "2022-23, lato/1 Poniedziałek/1 MCCB/0 MCCB.md",
+    "2022-23, lato/1 Poniedziałek/1 MCCB/MCCB 23.03.06.md",
+    "2022-23, lato/3 Środa/1 PMCs/PMCs 23.03.01.md",
     "2022-23, lato/5 Piątek/MCH/MCH 23.03.10.md",
+    "2022-23, lato/5 Piątek/MCH/0 MCH.md",
     "2022-23, lato/3 Środa/2 BM/BM 23.03.08.md",
     "2022-23, lato/3 Środa/2 BM/0 BM.md",
     "2022-23, lato/4 Czwartek/2 MCHl/MCHl 23.03.09.md",
@@ -180,20 +177,12 @@
     "2022-23, lato/2 Wtorek/1 KZR/KZR 23.03.07.md",
     "2022-23, lato/2 Wtorek/1 KZR/0 KZR.md",
     "2022-23, lato/2 Wtorek/1 KZR/KZR 23.02.28.md",
-    "2022-23, lato/3 Środa/1 PMCs/PMCs 23.03.01.md",
-    "2022-23, lato/1 Poniedziałek/2 TP/TP 23.03.06.md",
-    "2022-23, lato/1 Poniedziałek/1 MCCB/MCCB 23.03.06.md",
     "2022-23, lato/1 Poniedziałek/2 TP",
     "2022-23, lato/1 Poniedziałek/1 MCCB/bioorganic.pwr.edu.pl.md",
     "2022-23, lato/1 Poniedziałek/1 MCCB/bioogranic.pwr.edu.pl.md",
     "2022-23, lato/1 Poniedziałek/1 MCCB",
-    "2022-23, lato/4 Czwartek/1 PMCl/PMCl 23.03.02.md",
     "2022-23, lato/1 Poniedziałek",
     "2022-23, lato/4 Czwartek/1 PMCl/Pasted image 20230302100447.png",
-    "2022-23, zima/2 Wtorek/5 Kompozyty - wykład/KOMP 22.11.22.md",
-    "2022-23, zima/2 Wtorek/5 Kompozyty - wykład/KOMP 22.11.15.md",
-    "2022-23, zima/2 Wtorek/5 Kompozyty - wykład/KOMP 22.10.25.md",
-    "2022-23, zima/2 Wtorek/5 Kompozyty - wykład/KOMP 22.10.18.md",
     "2022-23, lato/5 Piątek/MCH",
     "2022-23, lato/5 Piątek",
     "2022-23, lato/4 Czwartek/1 PMCl",
