@@ -22,8 +22,10 @@ infomine.com
 edumine.com
 
 Mój termin 10.05.23
+*Manganowe konkrecje oceaniczne - nowe źródła surowcowe metali*
 
 ## Część korozyjna:
 
 Mój termin 15.03.23
 płyta dopalająca jotul c22
+
