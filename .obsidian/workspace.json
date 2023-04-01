@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-23, lato/3 Środa/3 MM/0 MM.md",
+                "file": "2022-23, lato/2 Wtorek/2 PMC/PCM 23.03.07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ae1370a4337e111",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rezerwat/Master day.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-23, lato/3 Środa/3 MM/0 MM.md",
+                "file": "Rezerwat/Master day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-23, lato/3 Środa/3 MM/0 MM.md",
+                "file": "Rezerwat/Master day.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-23, lato/3 Środa/3 MM/0 MM.md"
+                "file": "Rezerwat/Master day.md"
               }
             }
           }
@@ -147,11 +160,27 @@
       "publish:Opublikuj zmiany": false
     }
   },
-  "active": "b20bddedea0a2575",
+  "active": "4ae1370a4337e111",
   "lastOpenFiles": [
+    "Rezerwat/Pasted image 20230328152520.png",
+    "Rezerwat/Pasted image 20230328152258.png",
+    "Rezerwat/Pasted image 20230328151457.png",
+    "Rezerwat/Pasted image 20230328141045.png",
+    "Rezerwat/Pasted image 20230328140946.png",
+    "Rezerwat/Pasted image 20230328140756.png",
+    "Rezerwat/Pasted image 20230328140745.png",
+    "Rezerwat/Pasted image 20230328132245.png",
+    "Rezerwat/Pasted image 20230328132101.png",
+    "Rezerwat/Pasted image 20230328131913.png",
+    "Rezerwat/Pasted image 20230328131735.png",
+    "2022-23, lato/2 Wtorek/2 PMC/PCM 23.03.07.md",
+    "Rezerwat/Master day.md",
+    "2022-23, lato/2 Wtorek/2 PMC/PMC 23.02.28.md",
+    "2022-23, lato/3 Środa/1 PMCs/PMCs 23.03.01.md",
+    "2022-23, lato/4 Czwartek/1 PMCl/PMCl 23.03.02.md",
+    "2022-23, lato/3 Środa/3 MM/0 MM.md",
     "2022-23, lato/3 Środa/3 MM/MM 23.03.08.md",
     "2022-23, lato/3 Środa/3 MM/MM 23.03.01.md",
-    "2022-23, lato/3 Środa/3 MM/0 MM.md",
     "2022-23, lato/3 Środa/3 MM/Dodatek o właściwościach mechanicznych.md",
     "2022-23, lato/1 Poniedziałek/4 MMl/Metaloznawstwo - Przybyłowicz.pdf",
     "2022-23, lato/1 Poniedziałek/4 MMl/Rudolf Haimann- Metaloznawstwo (Materiałoznawstwo).pdf",
@@ -161,28 +190,15 @@
     "2022-23, lato/1 Poniedziałek/1 MCCB/MCCB 23.03.06.md",
     "2022-23, lato/3 Środa/2 BM/BM 23.03.08.md",
     "2022-23, lato/5 Piątek/MCH/MCH 23.03.10.md",
-    "2022-23, lato/5 Piątek/MCH/Pasted image 20230312152957.png",
-    "2022-23, lato/5 Piątek/MCH/Pasted image 20230312152909.png",
-    "2022-23, lato/5 Piątek/MCH/Pasted image 20230312152850.png",
-    "2022-23, lato/5 Piątek/MCH/Pasted image 20230312152833.png",
-    "2022-23, lato/5 Piątek/MCH/Pasted image 20230312152820.png",
-    "2022-23, lato/5 Piątek/MCH/Pasted image 20230312152804.png",
-    "2022-23, lato/5 Piątek/MCH/Pasted image 20230312152732.png",
-    "2022-23, lato/5 Piątek/MCH/Pasted image 20230312152716.png",
-    "2022-23, lato/5 Piątek/MCH/Pasted image 20230312152655.png",
-    "2022-23, lato/5 Piątek/MCH/Pasted image 20230312152639.png",
     "2022-23, lato/5 Piątek/MCH/MCH 23.03.03.md",
     "2022-23, lato/1 Poniedziałek/4 MMl/Dudziński, Widanka, Ćwiczenia laboratoryjne z materiałoznawstwa.pdf",
     "2022-23, lato/1 Poniedziałek/4 MMl",
     "2022-23, lato/4 Czwartek/2 MCHl/MCHl 23.03.09.md",
     "Rezerwat/Bar, rzutki i lasery - rozpustne życie stażysty.md",
-    "2022-23, lato/3 Środa/1 PMCs/PMCs 23.03.01.md",
     "2022-23, lato/5 Piątek/MCH/0 MCH.md",
     "2022-23, lato/3 Środa/2 BM/0 BM.md",
     "2022-23, lato/4 Czwartek/2 MCHl",
     "2022-23, lato/4 Czwartek/PMCl/MC",
-    "2022-23, lato/2 Wtorek/2 PMC/PCM 23.03.07.md",
-    "2022-23, lato/2 Wtorek/2 PMC/PMC 23.02.28.md",
     "2022-23, lato/2 Wtorek/2 PMC/0 PCM.md",
     "2022-23, lato/2 Wtorek/2 PMC/Catastrophes caused by corrosion.pdf",
     "2022-23, lato/2 Wtorek/1 KZR/KZR 23.03.07.md",
@@ -191,8 +207,6 @@
     "2022-23, lato/1 Poniedziałek/2 TP/TP 23.03.06.md",
     "2022-23, lato/1 Poniedziałek/2 TP",
     "2022-23, lato/1 Poniedziałek/1 MCCB/bioorganic.pwr.edu.pl.md",
-    "2022-23, lato/1 Poniedziałek/1 MCCB/bioogranic.pwr.edu.pl.md",
-    "2022-23, lato/4 Czwartek/1 PMCl/PMCl 23.03.02.md",
-    "2022-23, zima/2 Wtorek/5 Kompozyty - wykład/KOMP 22.11.22.md"
+    "2022-23, lato/1 Poniedziałek/1 MCCB/bioogranic.pwr.edu.pl.md"
   ]
 }
