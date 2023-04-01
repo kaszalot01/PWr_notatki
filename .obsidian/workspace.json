@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rezerwat/Master day.md",
+                "file": "Semestr 6/1 Poniedziałek/3 TPl/Notatki - ćw 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b7264b1fb42bff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/K1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rezerwat/Master day.md",
+                "file": "Semestr 6/1 Poniedziałek/3 TPl/Notatki - ćw 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rezerwat/Master day.md",
+                "file": "Semestr 6/1 Poniedziałek/3 TPl/Notatki - ćw 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rezerwat/Master day.md"
+                "file": "Semestr 6/1 Poniedziałek/3 TPl/Notatki - ćw 4.md"
               }
             }
           }
@@ -149,17 +161,23 @@
   },
   "active": "4ae1370a4337e111",
   "lastOpenFiles": [
+    "Semestr 6/1 Poniedziałek/3 TPl/Notatki - ćw 4.pdf",
+    "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/K1.md",
+    "Semestr 6/1 Poniedziałek/3 TPl/Notatki - ćw 4.md",
+    "Semestr 6/1 Poniedziałek/3 TPl/Pasted image 20230402012901.png",
+    "Semestr 6/1 Poniedziałek/3 TPl/Pasted image 20230402012143.png",
+    "Semestr 6/1 Poniedziałek/3 TPl/Pasted image 20230402011602.png",
+    "Semestr 6/1 Poniedziałek/3 TPl/Pasted image 20230402011359.png",
+    "Semestr 6/1 Poniedziałek/3 TPl/Pasted image 20230402002254.png",
+    "Semestr 6/1 Poniedziałek/3 TPl/Pasted image 20230401225322.png",
+    "Semestr 6/1 Poniedziałek/3 TPl/0 TPl.md",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.06.md",
+    "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230313110411.png",
+    "Dodatki/Magisterski dzień otwarty na TU Dresden.md",
+    "Dodatki/Pasted image 20230328152520.png",
+    "Dodatki/Pasted image 20230328152258.png",
+    "Dodatki/Pasted image 20230328151457.png",
     "przeczytaj_mnie.txt",
-    "Semestr 6/5 Piątek/MCH/Pasted image 20230312152957.png",
-    "Semestr 6/5 Piątek/MCH/Pasted image 20230312152909.png",
-    "Semestr 6/5 Piątek/MCH/Pasted image 20230312152833.png",
-    "Semestr 6/5 Piątek/MCH/Pasted image 20230312152850.png",
-    "Semestr 6/5 Piątek/MCH/Pasted image 20230312152820.png",
-    "Semestr 6/5 Piątek/MCH/Pasted image 20230312152804.png",
-    "Semestr 6/5 Piątek/MCH/Pasted image 20230312152732.png",
-    "Semestr 6/5 Piątek/MCH/Pasted image 20230312152716.png",
-    "Semestr 6/5 Piątek/MCH/Pasted image 20230312152655.png",
-    "Semestr 6/5 Piątek/MCH/Pasted image 20230312152639.png",
     "Semestr 6/5 Piątek/MCH/MCH 23.03.10.md",
     "Semestr 6/5 Piątek/MCH/MCH 23.03.03.md",
     "Semestr 6/5 Piątek/MCH/0 MCH.md",
@@ -187,13 +205,7 @@
     "Semestr 6/3 Środa/2 BM/BM 23.03.29.md",
     "Semestr 6/3 Środa/2 BM/BM 23.03.22.md",
     "Semestr 6/3 Środa/2 BM/BM 23.03.15.md",
-    "Semestr 6/3 Środa/2 BM/BM 23.03.08.md",
-    "Semestr 6/3 Środa/2 BM/BM 23.03.01.md",
-    "Semestr 6/3 Środa/2 BM/0 BM.md",
-    "Semestr 6/3 Środa/1 PMCs/PMCs 23.03.01.md",
-    "Semestr 6/3 Środa/1 PMCs/Konspekt prez 1.md",
     "Semestr 6/3 Środa/4 KZRl",
-    "Semestr 6/3 Środa/3 MM",
-    "Semestr 6/3 Środa/2 BM"
+    "Semestr 6/3 Środa/3 MM"
   ]
 }
