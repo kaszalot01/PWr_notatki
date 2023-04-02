@@ -9,11 +9,15 @@
 
 ## Odpowiedzi
 
-1. Masowy wskaźnik szybkości płynięcia, MFR - obok objętościowego wskaźnika szybkości płynięcia (MVF) jedna z wielkości charakteryzujących szybkość płynięcia tworzyw termoplastycznych w procesie przetwórstwa. Wyrażana jest jako liczba gramów tworzywa wytłoczonego:
+1. Definicja i sposób oznaczenia masowego wskaźnika szybkości płynięcia
+	
+	Masowy wskaźnik szybkości płynięcia, MFR - obok objętościowego wskaźnika szybkości płynięcia (MVF) jedna z wielkości charakteryzujących szybkość płynięcia tworzyw termoplastycznych w procesie przetwórstwa. Wyrażana jest jako liczba gramów tworzywa wytłoczonego:
+	
 	- w czasie 10 min
 	- przez dyszę o określonej średnicy
 	- w określonej temperaturze
 	- pod określonym obciążeniem
+	
 	Sposób oznaczania. Po jego uprzednim ogrzaniu (temperaturę utrzymuje się przez 15 min przed badaniem i w jego trakcie), próbkę tworzywa uplastycznienia się w cylindrze plastometru. Przez dyszę wytłacza się pręt, który jest odcinany po upływie określonego czasu (10 min) i ważony. Wartość MFR wyznacza się ze wzoru:
 $$MRF (\theta, m_{nom}) [\frac{g}{10min}]= \frac{t_{ref}[\frac{s}{10min}]m[g]}{t[s]} = \frac{600[\frac{s}{10min}]m[g]}{t[s]}$$
 	gdzie MFR – masowy wskaźnik szybkości płynięcia, 𝜃 – temperatura oznaczania \[ºC\], $m_{nom}$ – nominalne obciążenie \[kg\], m – średnia masa wytłoczonego odcinka tworzywa \[g\], $t_{ref}$ – czas odniesienia, t – czas wypływu wytłoczonego odcinka tworzywa (odstęp czasu odcinania) \[s\].
@@ -21,7 +25,8 @@ $$MRF (\theta, m_{nom}) [\frac{g}{10min}]= \frac{t_{ref}[\frac{s}{10min}]m[g]}{t
 	![[Pasted image 20230401225322.png]]
 
 
-2. Czynniki:
+2. Czynniki wpływające na wartość wskaźnika szybkości płynięcia:
+	
 	- temperatura
 	- obciążenie
 	- kształt i rozmiar dyszy
@@ -29,22 +34,26 @@ $$MRF (\theta, m_{nom}) [\frac{g}{10min}]= \frac{t_{ref}[\frac{s}{10min}]m[g]}{t
 		- średni ciężar cząsteczkowy
 		- stopień usieciowania
 
-	Kształt dyszy, a także temperaturę i obciążenie dla danego tworzywa określa norma. Jeżeli pomiar wykonujemy zgodnie z normą to nie można powiedzieć, że te czynniki wpływają na wartość wskaźnika.
+	Kształt dyszy, a także temperaturę i obciążenie dla danego tworzywa określa norma. Jeżeli pomiar wykonujemy zgodnie z normą to (chyba!) nie można powiedzieć, że te czynniki wpływają na wartość wskaźnika.
 
-3. Wskaźniki szybkości płynięcia służą do szybkiej i praktycznej oceny płynności tworzywa w warunkach technicznych. Wskaźniki charakteryzują średnią prędkość płynięcia przy ustalonych wartościach podstawowych parametrów procesu przetwórstwa - temperatury i ciśnienia.
-	Tzn. (chyba!) jak mamy jakiś proces technologiczny i znamy ciśnienie i temperaturę przetwarzania polimeru w tym procesie to możemy sobie wyznaczyć MFR/MVR dla tej temperatury i dla obciążenia opowiadającego temu ciśnieniu i mieć jakie takie pojęcie o szybkości płynięcia polimeru w aparaturze. 
-
+3. Znaczenie wskaźnika szybkości płynięcia w technologii polimerów
+	
+	Wskaźniki szybkości płynięcia służą do szybkiej i praktycznej oceny płynności tworzywa w warunkach technicznych. Wskaźniki charakteryzują średnią prędkość płynięcia przy ustalonych wartościach podstawowych parametrów procesu przetwórstwa - temperatury i ciśnienia.
+	
+	Tzn. (chyba!) że jak mamy jakiś proces technologiczny i znamy ciśnienie i temperaturę przetwarzania polimeru w tym procesie to możemy sobie wyznaczyć MFR/MVR dla tej temperatury i dla obciążenia opowiadającego temu ciśnieniu i mieć jakie takie pojęcie o szybkości płynięcia polimeru w aparaturze. 
+	
 	Ważny komentarz, który nie pasuje gdzie indziej: im wyższa płynność tworzywa tym mniejsza jego lepkość.
 
-4. Stany:
+4. Stany fizyczne polimerów termoplastycznych - opis:
+	
 	1. szklisty - występuje w nim pewien stopień uporządkowania bliskiego zasięgu sąsiadujących makrocząsteczek lub ich fragmentów. Makrocząsteczki nie są zdolne do przemieszczania się względem siebie. Pod wpływem działania siły zewnętrznej występują bardzo niewielkie, sprężyste odkształcenia. 
-	2. lepkosprężysty (elastyczny) - znaczna ruchliwość segmentów łańcucha. Pod wpływem działania siły zewnętrznej odkształca się sprężyście. Odkształcenia są duże (mały moduł sprężystości). W tym stanie zachodzą zjawiska relaksacji naprężeń oraz odkształceń 
+	2. lepkosprężysty (elastyczny) - występuje znaczna ruchliwość segmentów łańcucha. Pod wpływem działania siły zewnętrznej odkształca się sprężyście. Odkształcenia są duże (mały moduł sprężystości). W tym stanie zachodzą zjawiska relaksacji naprężeń oraz odkształceń 
 	3. plastyczny (lepkociekły) - oddziaływanie siły zewnętrznej odkształca polimer nieodwracalnie, nie wywołując naprężeń. Makrocząsteczki, zmieniające względem siebie położenie, nie mogą być połączone wiązaniami. Ważnym parametrem w przetwórstwie polimerów termoplastycznych jest lepkość w stanie stopionym $\eta$.
 
-5. Temperatury przemian (niekoniecznie) fazowych
+6. Temperatury przemian (niekoniecznie) fazowych
 
 ![[Pasted image 20230402002254.png]]
-Temperatury przemian (które niekoniecznie można nazwać fazowymi ale o jakie inne miałoby chodzić), są średnią temperaturą zakresu, w którym zachodzi zmiana stanu polimeru. 
+Temperatury przemian (które niekoniecznie można nazwać fazowymi ale o jakie inne tu miałoby chodzić), są średnią temperaturą zakresu, w którym zachodzi zmiana stanu polimeru. 
 
 Temperatura zeszklenia, $T_g$
 
