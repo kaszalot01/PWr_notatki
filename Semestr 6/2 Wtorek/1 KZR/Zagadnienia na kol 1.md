@@ -83,16 +83,20 @@ Krystalografia - nauka badająca materię skondensowaną, głównie o budowie tr
 |trójskośny| $1,\bar{1}$ | brak elementów symetrii lub tylko środek symetrii|
 | jednoskośny| $2,m$|oś dwukrotna lub płaszczyzna symetrii|
 |rombowy| $222,22m, \frac{2}{m}\frac{2}{m}\frac{2}{m} (mmm)$| $2 \perp 2 \perp 2$ lub $(m \perp m) \parallel 2$ (kryterium nadrzędne względem pozostałych)|
-|tetragonalny| $4,\bar{4}, \frac{4}{m}, 422,4mm,\frac{4}{m}\frac{4}{m}\frac{4}{m} (\frac{4}{m}mm),\bar{4}2m$|dowolna oś czterokrotna zgodna z osią krystalograficzną Z i nie jest regularny|
+|tetragonalny| $4,\bar{4}, \frac{4}{m}, 422,4mm,\frac{4}{m}\frac{2}{m}\frac{2}{m} (\frac{4}{m}mm),\bar{4}2m$|dowolna oś czterokrotna zgodna z osią krystalograficzną Z i nie jest regularny|
 |trygonalny| $3,\bar{3},32,3m,\bar{3}\frac{2}{m} (\bar{3}m)$|dowolna oś trójkrotna zgodna z osią krystalograficzną Z|
-|heksagonalny| $6, \bar{6}, \frac{6}{m}. 622, 6mm, \frac{6}{m}\frac{6}{m}\frac{6}{m} (\frac{6}{m}mm), \bar{6}2m$|dowolna oś sześciokrotna zgodna z osią krystalograficzną Z |
+|heksagonalny| $6, \bar{6}, \frac{6}{m}. 622, 6mm, \frac{6}{m}\frac{2}{m}\frac{2}{m} (\frac{6}{m}mm), \bar{6}2m$|dowolna oś sześciokrotna zgodna z osią krystalograficzną Z |
 |regularny| $23, \frac{2}{m} \bar{3} (m\bar{3}), 432, 43m, \frac{4}{m}\bar{3}\frac{2}{m} (m\bar{3}m)$| cztery osie trójkrotne w kierunkach przekątnych przestrzennych sześcianu|
 
 ### 3) Proszę wykonać rzut cyklograficzny elementów symetrii oraz rzut stereograficzny ścian: 
 
 #### sześcianu
 
+![[Pasted image 20230403223046.png]]
+
 #### prostopadłościanu o podstawie kwadratowej
+
+![[Pasted image 20230403223057.png]]
 
 Proszę podać układ krystalograficzny i symbol klasy krystalograficznej kryształu o takiej symetrii. 
 
@@ -100,7 +104,12 @@ Proszę podać układ krystalograficzny i symbol klasy krystalograficznej kryszt
 ### 4) Proszę przedstawić na kole projekcji działanie: 
 
 - osi właściwych
+
+**![](https://lh4.googleusercontent.com/xMUu7x53dl3JN946KCUYazZkfGL7hEWh-ct6mthSz3NSKz5_VpThUIOUPc1L5C-Bni9I_8wxbt5oZV6wnvSthqW7T4XeEHTp9liM1U00ZXTEkoUcOsUOM6fQD6hgP_hZcr2nwHsqaqxvGuJCxyorWTs)**
+
 - osi inwersyjnych 
+
+**![](https://lh6.googleusercontent.com/EU7GU6f2Hxdl9hNmEgDlaDxrtoJWX0LTH6UbwXw8TOdk6KYVyA8lidusbftIyvpRkKMX0E4_xn0882VHJJvnK0Q_W0NMPZlPVyKwTqItLWCkNN0jHTB-KaT8JeLYSVQTiE1xXX0tUFzTYaLwI_njPnQ)**
 
 ### 5) Proszę podać zasady tworzenia międzynarodowych symboli grup punktowych (symboli HermannaMauguina) w poszczególnych układach krystalograficznych. 
 
@@ -112,7 +121,7 @@ Proszę podać układ krystalograficzny i symbol klasy krystalograficznej kryszt
 |tetragonalny| 1:Z 2:X/Y 3:dwusieczna kąta między X i Y|
 |regularny| 1:X/Y/Z 2:przekątne sześcianu 3:przekątne ścian sześcianu|
 |trygonalny| 1:Z 2:X/Y/U 3: pusta|
-|heksagonalny| 1:Z 2:X/Y/U $\frac{1}{2} \angle(X,-U)$ itd.|
+|heksagonalny| 1:Z 2:X/Y/U 3:$\frac{1}{2} \angle(X,-U)$ itd.|
 
 
 ### 6) Kryształ posiada oś czterokrotną inwersyjną prostopadłą do koła projekcji oraz oś dwukrotną prostopadłą do tej osi. Należy:
@@ -124,6 +133,8 @@ Proszę podać układ krystalograficzny i symbol klasy krystalograficznej kryszt
 5) określić klasę krystalograficzną kryształu
 6) określić centrosymetryczność kryształu
 
+![[Pasted image 20230403223941.png]]
+
 ### 7) Kryształ posiada oś czterokrotną oraz płaszczyznę symetrii prostopadłe do koła projekcji. Należy: 
 1) zaznaczyć na kole projekcji te elementy symetrii
 2) zaznaczyć na kole projekcji punkty symetrycznie równoważne względem tych elementów symetrii
@@ -131,6 +142,8 @@ Proszę podać układ krystalograficzny i symbol klasy krystalograficznej kryszt
 4) podać układ krystalograficzny, do którego należy kryształ
 5) określić klasę krystalograficzną kryształu
 6) określić centrosymetryczność kryształu
+
+![[Pasted image 20230403223956.png]]
 
 ### 8) Proszę podać zasady skracania pełnych symboli grup punktowych.
 
@@ -206,6 +219,7 @@ b) A, B, C i F. Oś czterokrotna w kierunku Z wyklucza istnienie węzłów tylko
 1) $3_1$ oraz $3_2$
 2) $4_1$, $4_2$ oraz $4_3$
 
+![[Pasted image 20230403224017.png]]
 
 ### 16) Proszę wyjaśnić działanie płaszczyzny poślizgu: 
 
@@ -231,6 +245,8 @@ Każda operacja odbicia w płaszczyźnie poślizgu składa się z dwóch operacj
 5) płaszczyznę c prostopadłą do osi Y i przechodzącą przez początek układu współrzędnych. 
 Proszę podać współrzędne obrazu. 
 
+![[Pasted image 20230403224027.png]]
+![[Pasted image 20230403224033.png]]
 
 ### 18) Czy może istnieć płaszczyzna symetrii: 
 
@@ -283,11 +299,32 @@ Kryształ rzeczywisty nie posiada w całej swej objętości jednej idealnej siec
 ![[Pasted image 20230403010040.png]]
 
 
-7) Proszę podać zasadę konstrukcji sieci odwrotnej: 
-	1) wektorową
-	2) geometryczną
-8) Jaka zależność występuje pomiędzy wartością periodu identyczności w sieci rzeczywistej a wartością periodu w sieci odwrotnej? 
-9) Proszę zaznaczyć na rysunku (lub opisać słownie) kierunek i zwrot osi sieci odwrotnej X*, Y*, Z* w przypadku gdy: 
-	1) osie X, Y i Z są wzajemnie prostopadłe w sieci rzeczywistej kryształu
-	2) oś Z jest prostopadła do osi X oraz Y w sieci rzeczywistej kryształu, a kąt pomiędzy osiami X oraz Y wynosi 120°. 
-10) Jak zorientowana jest prosta sieciowa o symbolu \[321\] znajdująca się w sieci odwrotnej w stosunku do płaszczyzny sieciowej (321) znajdującej się w sieci rzeczywistej?
+### 24) Proszę podać zasadę konstrukcji sieci odwrotnej: 
+1) wektorową
+
+$$\vec{a}^*=\frac{\vec{b} \times \vec{c}}{V}$$
+$$\vec{b}^*=\frac{\vec{c} \times \vec{a}}{V}$$ 
+$$\vec{c}^*=\frac{\vec{a} \times \vec{b}}{V}$$ 
+
+2) geometryczną
+
+Do każdej rodziny płaszczyzn sieciowych w sieci rzeczywistej należy wystawić prostą prostopadłą, na której zaznaczane są węzły w odległości n/d od początku układu współrzędnych w sieci odwrotnej
+
+### 25) Jaka zależność występuje pomiędzy wartością periodu identyczności w sieci rzeczywistej a wartością periodu w sieci odwrotnej? 
+
+$$|\vec{a}^*|=\frac{1}{|\vec{a}| \cdot cos(\vec{a},\vec{a}^*)}$$
+Innymi słowy ich iloczyn skalarny jest równy 1
+
+### 26) Proszę zaznaczyć na rysunku (lub opisać słownie) kierunek i zwrot osi sieci odwrotnej X*, Y*, Z* w przypadku gdy: 
+
+1) osie X, Y i Z są wzajemnie prostopadłe w sieci rzeczywistej kryształu
+2) oś Z jest prostopadła do osi X oraz Y w sieci rzeczywistej kryształu, a kąt pomiędzy osiami X oraz Y wynosi 120°.
+
+Odp.
+
+1) osie X*, Y*, Z* pokrywają się z osiami odpowiednio X,Y,Z (też są wzajemnie prostopadłe)
+2) oś Z* jest prostopadła do osi X* oraz Y*, a kąt pomiędzy osiami X* i Y* wynosi 60°
+
+### 27) Jak zorientowana jest prosta sieciowa o symbolu \[321\] znajdująca się w sieci odwrotnej w stosunku do płaszczyzny sieciowej (321) znajdującej się w sieci rzeczywistej?
+
+Nie wiem, kurwa, prostopadle
