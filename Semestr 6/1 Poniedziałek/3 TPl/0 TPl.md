@@ -14,3 +14,4 @@ sprawozdanie można poprawiać tylko raz, potem jest zaliczone ale 2.0 do średn
 
 Raczej wydrukować instrukcje ale można na telefonie
 
+[[Notatki - ćw 4]]
