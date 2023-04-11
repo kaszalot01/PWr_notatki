@@ -1,0 +1,1 @@
+miałem wyjebane i nie przyszedłem
