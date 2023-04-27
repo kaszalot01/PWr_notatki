@@ -10,5 +10,12 @@ Blicharski (?) inżynieria materiałowa
 [[PMC 23.03.21]]
 [[PMC 23.04.04]]
 
+## Organizacyjne Ochromowicz
 
+Na kolosie nie ma pytań z definicji
 
+Literatura:
+
+Podstawy hydrometalurgii - F Łętkowski
+
+[[PMC 23.04.25]]

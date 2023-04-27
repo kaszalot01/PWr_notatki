@@ -24,6 +24,8 @@ oba kolokwia równoważne
 [[KZR 23.03.07]]
 [[KZR 23.03.14]]
 [[KZR 23.03.21]]
+[[KZR 23.04.18]]
+[[KZR 23.04.25]]
 
 [[Zagadnienia na kol 1]]
 
