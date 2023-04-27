@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 6/3 Środa/3 MM/MM 23.04.05.md",
+                "file": "Semestr 6/3 Środa/4 KZRl/KZRl 23.03.01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c3fdb93b3a835ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestr 6/3 Środa/4 KZRl/KZRl 23.04.26.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 6/3 Środa/3 MM/MM 23.04.05.md",
+                "file": "Semestr 6/3 Środa/4 KZRl/KZRl 23.04.26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 6/3 Środa/3 MM/MM 23.04.05.md",
+                "file": "Semestr 6/3 Środa/4 KZRl/KZRl 23.04.26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 6/3 Środa/3 MM/MM 23.04.05.md"
+                "file": "Semestr 6/3 Środa/4 KZRl/KZRl 23.04.26.md"
               }
             }
           }
@@ -147,53 +160,53 @@
       "publish:Opublikuj zmiany": false
     }
   },
-  "active": "2a7e13d58d04123f",
+  "active": "3c3fdb93b3a835ea",
   "lastOpenFiles": [
-    "Semestr 6/3 Środa/3 MM/0 MM.md",
-    "Semestr 6/3 Środa/3 MM/MM 23.04.05.md",
-    "Semestr 6/3 Środa/2 BM/BM 23.04.05.md",
+    "Semestr 6/2 Wtorek/1 KZR/Bardzo leniwe notatki z krystalo.pdf",
+    "Semestr 6/3 Środa/4 KZRl/Pasted image 20230426011505.png",
+    "Semestr 6/3 Środa/4 KZRl/Pasted image 20230426011447.png",
+    "Semestr 6/3 Środa/4 KZRl/Pasted image 20230426011434.png",
+    "Semestr 6/3 Środa/4 KZRl/Pasted image 20230426010441.png",
+    "Semestr 6/3 Środa/4 KZRl/Pasted image 20230426005734.png",
+    "Semestr 6/3 Środa/4 KZRl/Pasted image 20230426005720.png",
+    "Semestr 6/3 Środa/4 KZRl/Pasted image 20230426003058.png",
+    "Semestr 6/3 Środa/4 KZRl/Pasted image 20230426002959.png",
+    "Semestr 6/3 Środa/4 KZRl/KZRl 23.03.01.md",
+    "Semestr 6/3 Środa/4 KZRl/KZRl 23.04.26.md",
+    "Semestr 6/2 Wtorek/2 PMC/PMC 23.03.21.md",
+    "Semestr 6/2 Wtorek/2 PMC/PMC 23.03.14.md",
+    "Semestr 6/2 Wtorek/2 PMC/PMC 23.03.07.md",
+    "Semestr 6/2 Wtorek/2 PMC/PMC 23.02.28.md",
+    "Semestr 6/2 Wtorek/2 PMC/PMC 23.04.04.md",
+    "Semestr 6/5 Piątek/MCH/0 MCH.md",
+    "Semestr 6/5 Piątek/MCH/MCH 23.03.03.md",
+    "Semestr 6/5 Piątek/MCH/MCH 23.03.10.md",
+    "Semestr 6/2 Wtorek/2 PMC/Anna-Zięty-25_11_2015-PDF.pdf",
     "Semestr 6/3 Środa/3 MM/MM 23.03.29.md",
+    "Semestr 6/3 Środa/3 MM/MM 23.04.05.md",
+    "Semestr 5/2 Wtorek/3 IMINOM 2 - wykład/Opracowanie zagadnień.md",
+    "Semestr 5/2 Wtorek/3 IMINOM 2 - wykład/0 IMINOM 2 - wykład.md",
+    "Semestr 6/2 Wtorek/1 KZR/Zagadnienia na kol 1.md",
+    "Semestr 6/2 Wtorek/1 KZR/Zagadnienia na kol 1.pdf",
+    "Semestr 6/3 Środa/3 MM/0 MM.md",
+    "Semestr 6/3 Środa/2 BM/BM 23.04.05.md",
     "Semestr 6/3 Środa/3 MM/MM 23.03.22.md",
     "Semestr 6/3 Środa/3 MM/Dodatek o właściwościach mechanicznych.md",
     "Semestr 6/3 Środa/3 MM/Dodatek o krystalizacji metali.md",
     "Semestr 6/3 Środa/2 BM/0 BM.md",
     "Semestr 6/1 Poniedziałek/4 MMl/MMl 23.03.06.md",
-    "Semestr 6/2 Wtorek/2 PMC/PMC 23.04.04.md",
-    "Semestr 6/2 Wtorek/2 PMC/PMC 23.03.21.md",
-    "Semestr 6/2 Wtorek/2 PMC/PMC 23.03.14.md",
     "Semestr 6/2 Wtorek/2 PMC/0 PMC.md",
-    "Semestr 6/2 Wtorek/2 PMC/Anna-Zięty-25_11_2015-PDF.pdf",
     "Semestr 6/2 Wtorek/1 KZR/KZR 23.03.21.md",
     "Semestr 6/2 Wtorek/1 KZR/KZR 23.03.14.md",
-    "Semestr 6/2 Wtorek/1 KZR/KZR 23.03.07.md",
-    "Semestr 6/2 Wtorek/1 KZR/KZR 23.02.28.md",
-    "Semestr 6/2 Wtorek/1 KZR/Zagadnienia na kol 1.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.04.03.md",
-    "Semestr 6/1 Poniedziałek/2 TP/0 TP.md",
     "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230403101517.png",
     "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230403100855.png",
-    "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230403100840.png",
-    "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230403100828.png",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.27.md",
-    "Semestr 6/1 Poniedziałek/1 MCCB/MCCB 23.04.03.md",
-    "Semestr 6/1 Poniedziałek/1 MCCB/0 MCCB.md",
-    "Semestr 6/1 Poniedziałek/1 MCCB/MCCB 23.03.27.md",
-    "Semestr 6/1 Poniedziałek/1 MCCB/MCCB 23.03.13.md",
     "przeczytaj_mnie.txt",
     "Nowy dokument tekstowy.txt",
-    "2022-23, lato/2 Wtorek/1 KZR/Zagadnienia na kol 1.md",
     "Semestr 6/3 Środa/3 MM/wykład-2.ppt",
     "Semestr 6/3 Środa/3 MM/wykład-1.ppt",
-    "Semestr 6/5 Piątek/MCH/Pasted image 20230312152957.png",
-    "Semestr 6/5 Piątek/MCH/Pasted image 20230312152909.png",
-    "Semestr 6/5 Piątek/MCH/Pasted image 20230312152850.png",
-    "Semestr 6/5 Piątek/MCH/Pasted image 20230312152804.png",
-    "Semestr 6/5 Piątek/MCH/Pasted image 20230312152732.png",
-    "Semestr 6/5 Piątek/MCH/Pasted image 20230312152833.png",
     "Semestr 6/2 Wtorek/2 PMC/Catastrophes caused by corrosion.pdf",
     "Semestr 6/3 Środa/4 KZRl",
     "Semestr 6/3 Środa/3 MM",
-    "Semestr 6/3 Środa/2 BM",
-    "Semestr 6/3 Środa/1 PMCs"
+    "Semestr 6/3 Środa/2 BM"
   ]
 }
