@@ -86,7 +86,7 @@ Ochrona elektrochemiczna
 
 Diagram Pourbaix - jest kurwa magiczny
 
-W pewnym zakresie pH (-2; 7) - poniżej pewnego poziomu (-0.44V) żelazo będzie w formie metalicznej. (dla wyższych pH granica się obniża\[jest bardziej ujemna\]) - czy w takim razie z punktu widzenia korozji kwaśne jest lepsze od zasadowego? Nie, bo nad granicą dla pH>7 nie ma jonów żelaza tylko $Fe(OH)_2$$ a jeszcze wyżej $Fe_3O_4$ - zachodzi pasywacja. To raczej zasadowe jest lepsze.
+W pewnym zakresie pH (-2; 7) - poniżej pewnego poziomu (-0.44V) żelazo będzie w formie metalicznej. (dla wyższych pH granica się obniża\[jest bardziej ujemna\]) - czy w takim razie z punktu widzenia korozji kwaśne jest lepsze od zasadowego? Nie, bo nad granicą dla pH>7 nie ma jonów żelaza tylko $Fe(OH)_2$ a jeszcze wyżej $Fe_3O_4$ - zachodzi pasywacja. To raczej zasadowe jest lepsze.
 
 Na wykresach Pourbaix - przejście przez poziomą linię jest reakcją elektrochemiczną, a pionową inną przemianę (np. przekroczenie iloczynu rozpuszczalności), dwie linie ukośne odpowiadają za elektrolizę wody odpowiednio na wodór i tlen.
 
