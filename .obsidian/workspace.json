@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 6/2 Wtorek/2 PMC/PMC 23.05.09.md",
+                "file": "Dodatki/PANIC 2023/Wykład Ji-Seon Kim.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 6/2 Wtorek/2 PMC/PMC 23.05.09.md",
+                "file": "Dodatki/PANIC 2023/Wykład Ji-Seon Kim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 6/2 Wtorek/2 PMC/PMC 23.05.09.md",
+                "file": "Dodatki/PANIC 2023/Wykład Ji-Seon Kim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 6/2 Wtorek/2 PMC/PMC 23.05.09.md"
+                "file": "Dodatki/PANIC 2023/Wykład Ji-Seon Kim.md"
               }
             }
           }
@@ -157,8 +157,13 @@
   },
   "active": "4112f7fcfc86f633",
   "lastOpenFiles": [
-    "Semestr 6/2 Wtorek/2 PMC/0 PMC.md",
+    "Dodatki/PANIC 2023/Wykłady Bruna Therriena.md",
+    "Dodatki/PANIC 2023/Wykład Ji-Seon Kim.md",
+    "Dodatki/PANIC 2023/Wykłady Carlosa Marquesa.md",
+    "Semestr 6/3 Środa/3 MM/MM 23.04.26.md",
     "Semestr 6/2 Wtorek/2 PMC/PMC 23.05.09.md",
+    "Dodatki/PANIC 2023",
+    "Semestr 6/2 Wtorek/2 PMC/0 PMC.md",
     "Semestr 6/2 Wtorek/1 KZR/KZR 23.05.09.md",
     "Semestr 6/2 Wtorek/1 KZR/KZR 23.03.21.md",
     "Semestr 6/2 Wtorek/1 KZR/KZR 23.04.18.md",
@@ -180,10 +185,6 @@
     "Semestr 6/1 Poniedziałek/1 MCCB/0 MCCB.md",
     "Semestr 6/2 Wtorek/2 PMC/PMC 23.02.28.md",
     "Dodatki/Magisterski dzień otwarty na TU Dresden.md",
-    "Semestr 6/2 Wtorek/1 KZR/Zagadnienia na kol 1.md",
-    "Semestr 6/3 Środa/3 MM/MM 23.04.26.md",
-    "Semestr 5/2 Wtorek/2 Nanomateriały/NM 23.01.17.md",
-    "Semestr 6/3 Środa/3 MM/0 MM.md",
     "Semestr 6/1 Poniedziałek/4 MMl/Pasted image 20230312151211.png",
     "Semestr 6/2 Wtorek/2 PMC/Anna-Zięty-25_11_2015-PDF.pdf",
     "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230403101517.png",
@@ -201,7 +202,6 @@
     "Semestr 6/5 Piątek/MCH/Pasted image 20230312152732.png",
     "Semestr 6/2 Wtorek/2 PMC/Catastrophes caused by corrosion.pdf",
     "Semestr 6/3 Środa/4 KZRl",
-    "Semestr 6/3 Środa/3 MM",
-    "Semestr 6/3 Środa/2 BM"
+    "Semestr 6/3 Środa/3 MM"
   ]
 }
