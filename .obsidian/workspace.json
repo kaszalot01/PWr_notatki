@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4e0c4dc711e6ccd4",
+        "id": "92bc838c7dcfb3c6",
         "type": "tabs",
         "children": [
           {
-            "id": "4112f7fcfc86f633",
+            "id": "992e5d47f65e3087",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dodatki/PANIC 2023/Wykład Ji-Seon Kim.md",
+                "file": "Semestr 6/3 Środa/4 KZRl/Lab 10,11.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dodatki/PANIC 2023/Wykład Ji-Seon Kim.md",
+                "file": "Semestr 6/3 Środa/4 KZRl/Lab 10,11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dodatki/PANIC 2023/Wykład Ji-Seon Kim.md",
+                "file": "Semestr 6/3 Środa/4 KZRl/Lab 10,11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dodatki/PANIC 2023/Wykład Ji-Seon Kim.md"
+                "file": "Semestr 6/3 Środa/4 KZRl/Lab 10,11.md"
               }
             }
           }
@@ -155,19 +155,22 @@
       "publish:Opublikuj zmiany": false
     }
   },
-  "active": "4112f7fcfc86f633",
+  "active": "992e5d47f65e3087",
   "lastOpenFiles": [
-    "Dodatki/PANIC 2023/Wykłady Bruna Therriena.md",
+    "Semestr 6/2 Wtorek/1 KZR/KZR 23.04.18.md",
+    "Semestr 6/2 Wtorek/1 KZR/KZR 23.04.25.md",
+    "Semestr 6/2 Wtorek/1 KZR/KZR 23.05.09.md",
+    "Semestr 6/3 Środa/4 KZRl/Lab 10,11.md",
+    "Semestr 6/3 Środa/4 KZRl/KZRl 23.03.01.md",
+    "Semestr 6/3 Środa/4 KZRl/KZRl 23.04.26.md",
     "Dodatki/PANIC 2023/Wykład Ji-Seon Kim.md",
+    "Dodatki/PANIC 2023/Wykłady Bruna Therriena.md",
     "Dodatki/PANIC 2023/Wykłady Carlosa Marquesa.md",
     "Semestr 6/3 Środa/3 MM/MM 23.04.26.md",
     "Semestr 6/2 Wtorek/2 PMC/PMC 23.05.09.md",
     "Dodatki/PANIC 2023",
     "Semestr 6/2 Wtorek/2 PMC/0 PMC.md",
-    "Semestr 6/2 Wtorek/1 KZR/KZR 23.05.09.md",
     "Semestr 6/2 Wtorek/1 KZR/KZR 23.03.21.md",
-    "Semestr 6/2 Wtorek/1 KZR/KZR 23.04.18.md",
-    "Semestr 6/2 Wtorek/1 KZR/KZR 23.04.25.md",
     "Semestr 6/2 Wtorek/1 KZR/0 KZR.md",
     "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.27.md",
     "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.20.md",
@@ -182,9 +185,6 @@
     "Semestr 6/1 Poniedziałek/1 MCCB/MCCB 23.03.20.md",
     "Semestr 6/1 Poniedziałek/1 MCCB/MCCB 23.03.27.md",
     "Semestr 6/1 Poniedziałek/1 MCCB/MCCB 23.04.03.md",
-    "Semestr 6/1 Poniedziałek/1 MCCB/0 MCCB.md",
-    "Semestr 6/2 Wtorek/2 PMC/PMC 23.02.28.md",
-    "Dodatki/Magisterski dzień otwarty na TU Dresden.md",
     "Semestr 6/1 Poniedziałek/4 MMl/Pasted image 20230312151211.png",
     "Semestr 6/2 Wtorek/2 PMC/Anna-Zięty-25_11_2015-PDF.pdf",
     "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230403101517.png",
