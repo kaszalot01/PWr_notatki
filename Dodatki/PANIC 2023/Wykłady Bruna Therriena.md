@@ -51,3 +51,50 @@ Interakcja z kwadrupleksowym DNA
 stabilizacja struktury kwadrupleksowej, wstrzymanie replikacj, różne metale (ale i bez metali), ważne żeby były płaskie
 
 Koncepcja scyzoryk - metal i różne pożyteczne ligandy
+
+## Wykład 2
+
+Beton :(
+
+
+## Wykład 3
+
+Chemia koordynacyjna 
+
+- Historia: błękit pruski
+- wiązania kowalencyjne ale metal jest akceptorem pary elektronów
+- geometria, liczba koordynacyjna (2-6)
+- chiralność, izomeryzacja
+
+
+CDSA - samoorganizacja poprzez koordynację 
+
+- można wymusić jakieś kąty (na przykład proste)
+- można zrobić otwór (en.cavity) i go otwierać i zamykać- en.molecular flask, kataliza
+- dzieje się w wodzie
+- można grzać i chłodzić aby polepszyć/naprawić strukturę
+
+Można robić różne kształty
+
+Za pomocą koordynacyjnej klatki (CDSA, MOF) można:
+
+- chronić jakiś związek, żeby nie reagował
+- zamknąć jakiś zły związek w więzieniu
+- przetrzymać jakiś związek, żeby był użyty ponownie
+- zrobić mały reaktor
+- zrobić nośnik leków
+
+Trochę wygląda jak "click-chemistry" - chłop łączy sobie te rutenoareny w struktury, podmieniając ligandy różnymi mostkami i tak buduje te klatki.
+
+Chem. Rec, 2021, 21, 460-468
+
+https://en.wikipedia.org/wiki/Carceplex
+
+VIP - vehicles ...
+
+Zajebjoza
+
+Zrobił jebaną klatkę, która sama była cytotoksyczna, mogła mieć gościa i jeszcze (chyba w porfirynie) miała izotop technetu, który widać na MRI... kosmos
+
+
+
