@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "992e5d47f65e3087",
+            "id": "d92630a0463441f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dodatki/PANIC 2023/Pezki doktorantów.md",
+                "file": "Semestr 6/3 Środa/3 MM/MM 23.05.24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac2f2955ec30c622",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestr 6/3 Środa/3 MM/Opowieść o stalowej barierce na schodach, zewnętrznych, przed budyniem.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dodatki/PANIC 2023/Pezki doktorantów.md",
+                "file": "Semestr 6/3 Środa/3 MM/MM 23.05.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dodatki/PANIC 2023/Pezki doktorantów.md",
+                "file": "Semestr 6/3 Środa/3 MM/MM 23.05.24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dodatki/PANIC 2023/Pezki doktorantów.md"
+                "file": "Semestr 6/3 Środa/3 MM/MM 23.05.24.md"
               }
             }
           }
@@ -155,36 +167,36 @@
       "publish:Opublikuj zmiany": false
     }
   },
-  "active": "992e5d47f65e3087",
+  "active": "d92630a0463441f2",
   "lastOpenFiles": [
+    "Semestr 6/3 Środa/3 MM/Opowieść o stalowej barierce na schodach, zewnętrznych, przed budyniem.md",
+    "Semestr 6/3 Środa/3 MM/MM 23.05.24.md",
+    "Semestr 6/3 Środa/3 MM/0 MM.md",
+    "Semestr 6/3 Środa/3 MM/Dodatek o właściwościach mechanicznych.md",
+    "Semestr 6/2 Wtorek/1 KZR/0 KZR.md",
+    "Semestr 6/2 Wtorek/2 PMC/PMC 23.05.23.md",
+    "Semestr 5/2 Wtorek/5 Kompozyty - wykład/Mały modelarz - na kolokwium z kompozytów.md",
+    "Semestr 6/2 Wtorek/2 PMC/PMC 23.04.25.md",
+    "Semestr 6/2 Wtorek/2 PMC/PMC 23.05.09.md",
+    "Semestr 6/2 Wtorek/2 PMC/0 PMC.md",
+    "Semestr 6/1 Poniedziałek/1 MCCB/MCCB 23.05.22.md",
+    "Semestr 6/1 Poniedziałek/1 MCCB/0 MCCB.md",
+    "Dodatki/PANIC 2023/Pezki doktorantów.md",
     "Dodatki/PANIC 2023/Wykłady Ji-Seon Kim.md",
     "Dodatki/PANIC 2023/Wykłady Neila Robertsona.md",
     "Dodatki/PANIC 2023/Wykłady Bruna Therriena.md",
     "Dodatki/PANIC 2023/Wykłady Carlosa Marquesa.md",
     "Dodatki/PANIC 2023/Wykłady Jean-Charlesa Ribierre'a.md",
     "Semestr 6/3 Środa/4 KZRl/Lab 10,11.md",
-    "Dodatki/PANIC 2023/Pezki doktorantów.md",
     "Semestr 6/2 Wtorek/1 KZR/KZR 23.04.18.md",
     "Semestr 6/2 Wtorek/1 KZR/KZR 23.04.25.md",
     "Semestr 6/2 Wtorek/1 KZR/KZR 23.05.09.md",
     "Semestr 6/3 Środa/4 KZRl/KZRl 23.03.01.md",
     "Semestr 6/3 Środa/4 KZRl/KZRl 23.04.26.md",
     "Semestr 6/3 Środa/3 MM/MM 23.04.26.md",
-    "Semestr 6/2 Wtorek/2 PMC/PMC 23.05.09.md",
     "Dodatki/PANIC 2023",
-    "Semestr 6/2 Wtorek/2 PMC/0 PMC.md",
     "Semestr 6/2 Wtorek/1 KZR/KZR 23.03.21.md",
-    "Semestr 6/2 Wtorek/1 KZR/0 KZR.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.27.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.20.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.13.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.06.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.05.08.md",
     "Semestr 6/1 Poniedziałek/3 TPl/TP3___Polimeryzacja_emulsyjna_styrenu.pdf",
-    "Semestr 6/1 Poniedziałek/2 TP/0 TP.md",
-    "Semestr 6/1 Poniedziałek/1 MCCB/MCCB 23.05.08.md",
-    "Semestr 6/1 Poniedziałek/1 MCCB/MCCB 23.03.13.md",
-    "Semestr 6/1 Poniedziałek/1 MCCB/MCCB 23.03.06.md",
     "Semestr 6/1 Poniedziałek/4 MMl/Pasted image 20230312151211.png",
     "Semestr 6/2 Wtorek/2 PMC/Anna-Zięty-25_11_2015-PDF.pdf",
     "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230403101517.png",
