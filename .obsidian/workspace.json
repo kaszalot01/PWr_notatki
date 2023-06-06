@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "51b3fc33d32bd63a",
+        "id": "fe93b9d4048d382a",
         "type": "tabs",
         "children": [
           {
-            "id": "74f172a5f96ad6c4",
+            "id": "903d8981ba553ff3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 6/2 Wtorek/2 PMC/0 PMC.md",
+                "file": "Semestr 6/3 Środa/3 MM/MM 23.04.05.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2ef8d3e10d2ec5ac",
+            "id": "70fc8046c44e786e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 6/3 Środa/2 BM/BM 23.03.29.md",
+                "file": "Semestr 6/3 Środa/3 MM/Pytania powtórzeniowe.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 6/2 Wtorek/2 PMC/0 PMC.md",
+                "file": "Semestr 6/3 Środa/3 MM/MM 23.04.05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 6/2 Wtorek/2 PMC/0 PMC.md",
+                "file": "Semestr 6/3 Środa/3 MM/MM 23.04.05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 6/2 Wtorek/2 PMC/0 PMC.md"
+                "file": "Semestr 6/3 Środa/3 MM/MM 23.04.05.md"
               }
             }
           }
@@ -167,53 +167,53 @@
       "publish:Opublikuj zmiany": false
     }
   },
-  "active": "74f172a5f96ad6c4",
+  "active": "903d8981ba553ff3",
   "lastOpenFiles": [
-    "Semestr 6/2 Wtorek/2 PMC/PMC 23.06.06.md",
-    "Semestr 6/2 Wtorek/2 PMC/0 PMC.md",
-    "Semestr 6/2 Wtorek/1 KZR/KZR 23.06.06.md",
-    "Semestr 6/3 Środa/2 BM/BM 23.03.29.md",
-    "Semestr 6/2 Wtorek/1 KZR/0 KZR.md",
+    "Semestr 6/3 Środa/3 MM/MM 23.03.29.md",
+    "Semestr 6/3 Środa/3 MM/MM 23.04.05.md",
+    "Semestr 6/3 Środa/3 MM/MM 23.03.22.md",
+    "Semestr 6/3 Środa/3 MM/MM 23.03.15.md",
+    "Semestr 6/3 Środa/3 MM/Pytania powtórzeniowe.md",
+    "Semestr 6/3 Środa/3 MM/MM 23.03.08.md",
+    "Semestr 6/3 Środa/3 MM/MM 23.03.01.md",
+    "Semestr 6/3 Środa/3 MM/MM 23.05.24.md",
+    "Semestr 6/3 Środa/3 MM/MM 23.04.26.md",
+    "Semestr 6/3 Środa/3 MM/MM 23.04.19.md",
+    "Semestr 6/3 Środa/3 MM/MM 23.04.12.md",
+    "Semestr 6/3 Środa/3 MM/Pasted image 20230607000357.png",
+    "Semestr 6/3 Środa/3 MM/Pasted image 20230607000313.png",
+    "Semestr 6/3 Środa/3 MM/Pasted image 20230607000255.png",
+    "Semestr 6/3 Środa/3 MM/Pasted image 20230607000247.png",
+    "Semestr 6/3 Środa/3 MM/Opowieść o stalowej barierce na schodach, zewnętrznych, przed budyniem.md",
+    "Semestr 6/3 Środa/3 MM/0 MM.md",
+    "Semestr 6/3 Środa/3 MM/Dodatek o właściwościach mechanicznych.md",
+    "Semestr 6/3 Środa/3 MM/Dodatek o krystalizacji metali.md",
+    "Semestr 6/3 Środa/2 BM/BM 23.04.26.md",
     "Semestr 6/3 Środa/2 BM/Na kolosa.md",
-    "Semestr 6/3 Środa/2 BM/BM 23.04.05.md",
-    "Semestr 6/3 Środa/2 BM/BM 23.04.12.md",
+    "Semestr 6/3 Środa/2 BM/Biomateriały.pdf",
     "Semestr 6/3 Środa/2 BM/BM 23.04.19.md",
+    "Semestr 6/3 Środa/2 BM/BM 23.04.12.md",
+    "Semestr 6/3 Środa/2 BM/BM 23.04.05.md",
+    "Semestr 6/3 Środa/2 BM/Pasted image 20230606224946.png",
+    "Semestr 6/3 Środa/2 BM/BM 23.03.29.md",
     "Semestr 6/3 Środa/2 BM/BM 23.03.22.md",
+    "Semestr 6/3 Środa/2 BM/Pasted image 20230606220513.png",
+    "Semestr 6/3 Środa/2 BM/Pasted image 20230606214758.png",
+    "Semestr 6/3 Środa/2 BM/Pasted image 20230606214016.png",
+    "Semestr 6/3 Środa/2 BM/Pasted image 20230606213846.png",
     "Semestr 6/3 Środa/2 BM/BM 23.03.15.md",
     "Semestr 6/3 Środa/2 BM/BM 23.03.08.md",
     "Semestr 6/3 Środa/2 BM/BM 23.03.01.md",
-    "Semestr 6/3 Środa/2 BM/BM 23.04.26.md",
+    "Semestr 6/2 Wtorek/2 PMC/PMC 23.06.06.md",
     "Semestr 6/2 Wtorek/1 KZR/Zagadnienia na kol 1.pdf",
-    "Semestr 6/5 Piątek/MCH/MCH 23.06.02.md",
-    "Semestr 6/5 Piątek/MCH/0 MCH.md",
-    "Semestr 6/3 Środa/3 MM/MM 23.04.26.md",
-    "Semestr 6/3 Środa/3 MM/MM 23.04.19.md",
-    "Semestr 6/2 Wtorek/2 PMC/PMC 23.05.30.md",
-    "Semestr 6/2 Wtorek/2 PMC/PMC 23.05.23.md",
-    "Semestr 6/2 Wtorek/1 KZR/KZR 23.05.30.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.05.29.md",
     "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230529094742.png",
-    "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230529094510.png",
-    "Semestr 6/1 Poniedziałek/2 TP/0 TP.md",
-    "Semestr 6/1 Poniedziałek/4 MMl/MMl 23.03.06.md",
-    "Semestr 6/5 Piątek/MCH/MCH 23.03.03.md",
-    "Semestr 6/5 Piątek/MCH/MCH 23.03.10.md",
     "Dodatki/PANIC 2023",
     "Semestr 6/1 Poniedziałek/3 TPl/TP3___Polimeryzacja_emulsyjna_styrenu.pdf",
-    "Semestr 6/1 Poniedziałek/4 MMl/Pasted image 20230312151211.png",
     "Semestr 6/2 Wtorek/2 PMC/Anna-Zięty-25_11_2015-PDF.pdf",
-    "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230403101517.png",
-    "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230403100855.png",
-    "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230403100840.png",
-    "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230403100828.png",
     "przeczytaj_mnie.txt",
     "Nowy dokument tekstowy.txt",
     "Semestr 6/3 Środa/3 MM/wykład-2.ppt",
     "Semestr 6/3 Środa/3 MM/wykład-1.ppt",
-    "Semestr 6/5 Piątek/MCH/Pasted image 20230312152957.png",
-    "Semestr 6/5 Piątek/MCH/Pasted image 20230312152909.png",
-    "Semestr 6/5 Piątek/MCH/Pasted image 20230312152850.png",
-    "Semestr 6/2 Wtorek/2 PMC/Catastrophes caused by corrosion.pdf",
-    "Semestr 6/3 Środa/4 KZRl"
+    "Semestr 6/2 Wtorek/2 PMC/Catastrophes caused by corrosion.pdf"
   ]
 }
