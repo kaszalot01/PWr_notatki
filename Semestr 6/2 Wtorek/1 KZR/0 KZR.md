@@ -28,6 +28,8 @@ oba kolokwia równoważne
 [[KZR 23.04.25]]
 [[KZR 23.05.09]]
 [[KZR 23.05.30]]
+[[KZR 23.06.06]]
+
 
 
 [[Zagadnienia na kol 1]]

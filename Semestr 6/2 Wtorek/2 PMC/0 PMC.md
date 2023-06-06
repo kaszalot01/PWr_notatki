@@ -22,5 +22,9 @@ Podstawy hydrometalurgii - F Łętkowski
 [[PMC 23.05.09]]
 [[PMC 23.05.23]]
 [[PMC 23.05.30]]
+[[PMC 23.06.06]]
 
+Kolokwium 20.06. 13.40-15.00
+Poprawa 26.06
 
+Pytania otwarte, znajomość diagramów Pourbaix i Elinghama (zapisać reakcje redoks), zaproponować technologię przerobu surowca, procesy produkcji wybranych metali (piro, hrydro). Nie będzie pytań z reakcji.  
