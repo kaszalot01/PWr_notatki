@@ -23,6 +23,7 @@ Podstawy hydrometalurgii - F Łętkowski
 [[PMC 23.05.23]]
 [[PMC 23.05.30]]
 [[PMC 23.06.06]]
+[[PMC 23.06.13]]
 
 Kolokwium 20.06. 13.40-15.00
 Poprawa 26.06

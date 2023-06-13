@@ -26,6 +26,8 @@ Z.Witkiewicz, *Podstawy chromatografii i technik elektromigracyjnych*
 [[MCCB 23.04.03]]
 [[MCCB 23.05.08]]
 [[MCCB 23.05.22]]
+[[MCCB 23.06.12]]
+
 
 
 
