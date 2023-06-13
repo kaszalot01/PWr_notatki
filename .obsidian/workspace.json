@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "fe93b9d4048d382a",
+        "id": "0602a6994756adad",
         "type": "tabs",
         "children": [
           {
-            "id": "4b61375aee91b3d1",
+            "id": "3829744f56e623e5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Semestr 6/2 Wtorek/2 PMC/Pasted image 20230321132312.png"
+                "file": "Semestr 6/3 Środa/3 MM/MM 23.03.29.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c668da0a4f292f81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestr 6/3 Środa/3 MM/Pytania powtórzeniowe.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 6/2 Wtorek/2 PMC/Pasted image 20230321132312.png",
+                "file": "Semestr 6/3 Środa/3 MM/Pytania powtórzeniowe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 6/2 Wtorek/2 PMC/Pasted image 20230321132312.png",
+                "file": "Semestr 6/3 Środa/3 MM/Pytania powtórzeniowe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 6/2 Wtorek/2 PMC/Pasted image 20230321132312.png"
+                "file": "Semestr 6/3 Środa/3 MM/Pytania powtórzeniowe.md"
               }
             }
           }
@@ -153,8 +168,15 @@
       "publish:Opublikuj zmiany": false
     }
   },
-  "active": "4b61375aee91b3d1",
+  "active": "c668da0a4f292f81",
   "lastOpenFiles": [
+    "Semestr 6/3 Środa/3 MM/MM 23.03.29.md",
+    "Semestr 6/3 Środa/3 MM/MM 23.03.22.md",
+    "Semestr 6/3 Środa/3 MM/MM 23.03.15.md",
+    "Semestr 6/3 Środa/3 MM/Pytania powtórzeniowe.md",
+    "Semestr 6/3 Środa/3 MM/MM 23.03.08.md",
+    "Semestr 6/3 Środa/3 MM/MM 23.03.01.md",
+    "Semestr 6/2 Wtorek/2 PMC/Pasted image 20230321132312.png",
     "Semestr 6/2 Wtorek/2 PMC/Pasted image 20230314140711.png",
     "Semestr 6/2 Wtorek/2 PMC/Pasted image 20230314140513.png",
     "Semestr 6/2 Wtorek/2 PMC/Pasted image 20230314134520.png",
@@ -180,20 +202,13 @@
     "Semestr 6/3 Środa/2 BM/BM 23.03.15.md",
     "Semestr 6/3 Środa/2 BM/BM 23.03.08.md",
     "Semestr 6/3 Środa/2 BM/BM 23.03.29.md",
-    "Semestr 6/3 Środa/2 BM/BM 23.03.22.md",
-    "Semestr 6/3 Środa/2 BM/BM 23.03.01.md",
     "Semestr 6/3 Środa/2 BM/Biomateriały.pdf",
-    "Semestr 6/3 Środa/2 BM/Na kolosa.md",
-    "Semestr 6/3 Środa/2 BM/BM 23.04.19.md",
-    "Semestr 6/3 Środa/3 MM/MM 23.03.29.md",
     "Semestr 6/3 Środa/3 MM/Pasted image 20230607000357.png",
     "Semestr 6/3 Środa/3 MM/Pasted image 20230607000313.png",
     "Semestr 6/3 Środa/3 MM/Pasted image 20230607000255.png",
     "Semestr 6/3 Środa/3 MM/Pasted image 20230607000247.png",
     "Semestr 6/3 Środa/2 BM/Pasted image 20230606224946.png",
     "Semestr 6/3 Środa/2 BM/Pasted image 20230606220513.png",
-    "Semestr 6/3 Środa/2 BM/Pasted image 20230606214758.png",
-    "Semestr 6/3 Środa/2 BM/Pasted image 20230606214016.png",
     "Semestr 6/2 Wtorek/1 KZR/Zagadnienia na kol 1.pdf",
     "Dodatki/PANIC 2023",
     "Semestr 6/1 Poniedziałek/3 TPl/TP3___Polimeryzacja_emulsyjna_styrenu.pdf",
