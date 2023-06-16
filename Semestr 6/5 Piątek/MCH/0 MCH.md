@@ -11,3 +11,4 @@ Drugą część wykładu prowadzi profesor Trapko (hybrydowe)
 [[MCH 23.03.03]]
 [[MCH 23.03.10]]
 [[MCH 23.06.02]]
+[[MCH 23.06.16]]

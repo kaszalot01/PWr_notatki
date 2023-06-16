@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 6/3 Środa/3 MM/MM 23.03.29.md",
+                "file": "Semestr 6/5 Piątek/MCH/MCH 23.06.16.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,16 +23,13 @@
             "id": "c668da0a4f292f81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Semestr 6/3 Środa/3 MM/Pytania powtórzeniowe.md",
-                "mode": "source",
-                "source": false
+                "file": "Semestr 6/3 Środa/2 BM/Biomateriały.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 6/3 Środa/3 MM/Pytania powtórzeniowe.md",
+                "file": "Semestr 6/5 Piątek/MCH/MCH 23.06.16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 6/3 Środa/3 MM/Pytania powtórzeniowe.md",
+                "file": "Semestr 6/5 Piątek/MCH/MCH 23.06.16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 6/3 Środa/3 MM/Pytania powtórzeniowe.md"
+                "file": "Semestr 6/5 Piątek/MCH/MCH 23.06.16.md"
               }
             }
           }
@@ -168,12 +165,29 @@
       "publish:Opublikuj zmiany": false
     }
   },
-  "active": "c668da0a4f292f81",
+  "active": "3829744f56e623e5",
   "lastOpenFiles": [
+    "Semestr 6/5 Piątek/MCH/0 MCH.md",
+    "Semestr 6/5 Piątek/MCH/MCH 23.06.16.md",
+    "Semestr 6/1 Poniedziałek/1 MCCB/Pasted image 20230313073637.png",
+    "Semestr 6/1 Poniedziałek/1 MCCB/MCCB 23.06.12.md",
+    "Semestr 6/1 Poniedziałek/1 MCCB/MCCB 23.05.22.md",
+    "Semestr 6/1 Poniedziałek/1 MCCB/MCCB 23.04.03.md",
+    "Semestr 6/1 Poniedziałek/1 MCCB/MCCB 23.03.27.md",
+    "Semestr 6/1 Poniedziałek/1 MCCB/MCCB 23.03.20.md",
+    "Semestr 6/1 Poniedziałek/1 MCCB/MCCB 23.03.13.md",
+    "Semestr 6/1 Poniedziałek/1 MCCB/MCCB 23.03.06.md",
+    "Semestr 6/1 Poniedziałek/1 MCCB/0 MCCB.md",
+    "Semestr 6/3 Środa/3 MM/MM 23.05.24.md",
+    "Semestr 6/3 Środa/2 BM/Biomateriały.pdf",
+    "Semestr 6/3 Środa/3 MM/Pytania powtórzeniowe.md",
+    "Semestr 6/3 Środa/3 MM/MM 23.04.26.md",
+    "Semestr 6/3 Środa/3 MM/MM 23.04.19.md",
+    "Semestr 6/3 Środa/3 MM/MM 23.04.05.md",
+    "Semestr 6/3 Środa/3 MM/MM 23.04.12.md",
     "Semestr 6/3 Środa/3 MM/MM 23.03.29.md",
     "Semestr 6/3 Środa/3 MM/MM 23.03.22.md",
     "Semestr 6/3 Środa/3 MM/MM 23.03.15.md",
-    "Semestr 6/3 Środa/3 MM/Pytania powtórzeniowe.md",
     "Semestr 6/3 Środa/3 MM/MM 23.03.08.md",
     "Semestr 6/3 Środa/3 MM/MM 23.03.01.md",
     "Semestr 6/2 Wtorek/2 PMC/Pasted image 20230321132312.png",
@@ -187,28 +201,11 @@
     "Semestr 6/2 Wtorek/2 PMC/PMC 23.05.23.md",
     "Semestr 6/2 Wtorek/2 PMC/PMC 23.05.09.md",
     "Semestr 6/2 Wtorek/2 PMC/PMC 23.04.25.md",
-    "Semestr 6/2 Wtorek/2 PMC/PMC 23.06.13.md",
-    "Semestr 6/2 Wtorek/2 PMC/0 PMC.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.06.12.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.27.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.04.03.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.04.17.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.05.08.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.05.29.md",
-    "Semestr 6/1 Poniedziałek/2 TP/0 TP.md",
-    "Semestr 6/1 Poniedziałek/1 MCCB/MCCB 23.06.12.md",
-    "Semestr 6/1 Poniedziałek/1 MCCB/0 MCCB.md",
-    "Semestr 6/1 Poniedziałek/1 MCCB/MCCB 23.03.06.md",
-    "Semestr 6/3 Środa/2 BM/BM 23.03.15.md",
-    "Semestr 6/3 Środa/2 BM/BM 23.03.08.md",
-    "Semestr 6/3 Środa/2 BM/BM 23.03.29.md",
-    "Semestr 6/3 Środa/2 BM/Biomateriały.pdf",
     "Semestr 6/3 Środa/3 MM/Pasted image 20230607000357.png",
     "Semestr 6/3 Środa/3 MM/Pasted image 20230607000313.png",
     "Semestr 6/3 Środa/3 MM/Pasted image 20230607000255.png",
     "Semestr 6/3 Środa/3 MM/Pasted image 20230607000247.png",
     "Semestr 6/3 Środa/2 BM/Pasted image 20230606224946.png",
-    "Semestr 6/3 Środa/2 BM/Pasted image 20230606220513.png",
     "Semestr 6/2 Wtorek/1 KZR/Zagadnienia na kol 1.pdf",
     "Dodatki/PANIC 2023",
     "Semestr 6/1 Poniedziałek/3 TPl/TP3___Polimeryzacja_emulsyjna_styrenu.pdf",
