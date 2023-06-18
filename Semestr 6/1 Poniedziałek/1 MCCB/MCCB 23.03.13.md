@@ -11,7 +11,7 @@ Chromatografia cieczowa - faza ruchoma jest cieczą. Przykłady:
 
 > uwaga trudne słowo - złoże
 
-Czas martwy - czas przejścia substancji niezatrzymywanych przez kolumnę (jakiś śmieci) - pierwszy mały pik na detektorze.
+Czas martwy - czas przejścia substancji niezatrzymywanych przez kolumnę - pierwszy mały pik na detektorze.
 
 Zadania na kolosa:
 
