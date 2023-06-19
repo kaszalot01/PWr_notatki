@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 6/1 Poniedziałek/1 MCCB/0 MCCB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c668da0a4f292f81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semestr 6/1 Poniedziałek/1 MCCB/Repytania.md",
+                "file": "Semestr 6/1 Poniedziałek/2 TP/TP 23.06.19.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 6/1 Poniedziałek/1 MCCB/0 MCCB.md",
+                "file": "Semestr 6/1 Poniedziałek/2 TP/TP 23.06.19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 6/1 Poniedziałek/1 MCCB/0 MCCB.md",
+                "file": "Semestr 6/1 Poniedziałek/2 TP/TP 23.06.19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 6/1 Poniedziałek/1 MCCB/0 MCCB.md"
+                "file": "Semestr 6/1 Poniedziałek/2 TP/TP 23.06.19.md"
               }
             }
           }
@@ -169,6 +157,19 @@
   },
   "active": "3829744f56e623e5",
   "lastOpenFiles": [
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.06.md",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.13.md",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.20.md",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.27.md",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.04.03.md",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.04.17.md",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.05.29.md",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.06.12.md",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.06.19.md",
+    "Semestr 6/1 Poniedziałek/1 MCCB/0 MCCB.md",
+    "Semestr 6/1 Poniedziałek/1 MCCB/Notatki z wykładów 1-9.md",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.06.14.md",
+    "Semestr 6/1 Poniedziałek/2 TP/0 TP.md",
     "Semestr 5/2 Wtorek/3 IMINOM 2 - wykład/IMINOM 22.11.22.md",
     "Semestr 5/2 Wtorek/3 IMINOM 2 - wykład/IMINOM 22.11.08.md",
     "Semestr 5/2 Wtorek/3 IMINOM 2 - wykład/IMINOM 22.10.25.md",
@@ -181,18 +182,8 @@
     "Semestr 5/2 Wtorek/3 IMINOM 2 - wykład/Opracowanie zagadnień.md",
     "Semestr 5/2 Wtorek/3 IMINOM 2 - wykład/IMINOM 22.10.11.md",
     "Semestr 5/2 Wtorek/3 IMINOM 2 - wykład/0 IMINOM 2 - wykład.md",
-    "Semestr 6/1 Poniedziałek/1 MCCB/Notatki z wykładów 1-9.md",
     "Semestr 6/1 Poniedziałek/1 MCCB/Notatki z wykładów 1-9.pdf",
     "Semestr 6/1 Poniedziałek/1 MCCB/Repytania.md",
-    "Semestr 6/1 Poniedziałek/1 MCCB/MCCB 23.06.12.md",
-    "Semestr 6/1 Poniedziałek/1 MCCB/MCCB 23.05.22.md",
-    "Semestr 6/1 Poniedziałek/1 MCCB/MCCB 23.05.08.md",
-    "Semestr 6/1 Poniedziałek/1 MCCB/MCCB 23.04.03.md",
-    "Semestr 6/1 Poniedziałek/1 MCCB/MCCB 23.03.20.md",
-    "Semestr 6/1 Poniedziałek/1 MCCB/MCCB 23.03.27.md",
-    "Semestr 6/1 Poniedziałek/1 MCCB/MCCB 23.03.13.md",
-    "Semestr 6/1 Poniedziałek/1 MCCB/MCCB 23.03.06.md",
-    "Semestr 6/1 Poniedziałek/1 MCCB/0 MCCB.md",
     "Semestr 6/1 Poniedziałek/1 MCCB/Pasted image 20230618153123.png",
     "Semestr 6/1 Poniedziałek/1 MCCB/Pasted image 20230618152813.png",
     "Semestr 6/1 Poniedziałek/1 MCCB/Pasted image 20230618003226.png",
@@ -203,12 +194,9 @@
     "Semestr 6/1 Poniedziałek/1 MCCB/Pasted image 20230618002912.png",
     "Semestr 6/1 Poniedziałek/1 MCCB/Pasted image 20230618002824.png",
     "Semestr 6/1 Poniedziałek/1 MCCB/Pasted image 20230618002816.png",
-    "Semestr 6/3 Środa/3 MM/MM 23.03.29.md",
     "Semestr 6/1 Poniedziałek/4 MMl/chrom11.pdf",
     "Semestr 6/1 Poniedziałek/4 MMl/Chrom12.pdf",
     "Semestr 6/1 Poniedziałek/4 MMl/Niepotwierdzony 9201.crdownload",
-    "Semestr 6/3 Środa/3 MM/Pytania powtórzeniowe.md",
-    "Semestr 6/3 Środa/3 MM/MM 23.03.22.md",
     "Semestr 6/2 Wtorek/2 PMC/Catastrophes caused by corrosion.pdf",
     "Semestr 6/2 Wtorek/2 PMC/Anna-Zięty-25_11_2015-PDF.pdf",
     "Semestr 6/3 Środa/2 BM/Biomateriały.pdf",

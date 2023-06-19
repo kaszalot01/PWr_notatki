@@ -20,6 +20,8 @@ Henryk Galina - *Fizykochemia polimerów*
 [[TP 23.05.29]]
 [[TP 23.06.12]]
 [[TP 23.06.14]]
+[[TP 23.06.19]]
+
 
 
 
