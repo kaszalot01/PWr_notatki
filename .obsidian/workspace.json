@@ -11,9 +11,11 @@
             "id": "4515511733e3d903",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Semestr 6/5 Piątek/MCH/Wolne murarstwo.pdf"
+                "file": "Semestr 6/1 Poniedziałek/2 TP/smieszny tytul.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -23,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.13.md",
+                "file": "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.27.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 6/5 Piątek/MCH/Wolne murarstwo.pdf",
+                "file": "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 6/5 Piątek/MCH/Wolne murarstwo.pdf",
+                "file": "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 6/5 Piątek/MCH/Wolne murarstwo.pdf"
+                "file": "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.27.md"
               }
             }
           }
@@ -165,14 +168,26 @@
       "publish:Opublikuj zmiany": false
     }
   },
-  "active": "4515511733e3d903",
+  "active": "4b73795303eb832e",
   "lastOpenFiles": [
     "Semestr 6/1 Poniedziałek/2 TP/smieszny tytul.md",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.27.md",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.04.17.md",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.04.03.md",
+    "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230627001030.png",
     "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.13.md",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.20.md",
     "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.06.md",
+    "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230626234212.png",
+    "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230626234042.png",
+    "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230626233427.png",
+    "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230626232943.png",
+    "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230626232848.png",
+    "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230626223756.png",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.05.08.md",
+    "Semestr 6/5 Piątek/MCH/Wolne murarstwo.pdf",
     "Semestr 6/5 Piątek/MCH/MCH 23.03.10.md",
     "Semestr 6/5 Piątek/MCH/Wolne murarstwo.md",
-    "Semestr 6/5 Piątek/MCH/Wolne murarstwo.pdf",
     "Semestr 6/5 Piątek/MCH/MCH 23.06.02.md",
     "Semestr 6/5 Piątek/MCH/MCH 23.03.03.md",
     "Semestr 6/4 Czwartek/2 MCHl/MCHl 23.03.23.md",
@@ -184,11 +199,6 @@
     "Semestr 6/1 Poniedziałek/2 TP/TP 23.06.14.md",
     "Semestr 6/1 Poniedziałek/2 TP/TP 23.06.12.md",
     "Semestr 6/1 Poniedziałek/2 TP/TP 23.05.29.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.05.08.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.04.17.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.04.03.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.27.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.20.md",
     "Semestr 6/2 Wtorek/2 PMC/Koło 2023.md",
     "Semestr 6/2 Wtorek/2 PMC/0 PMC.md",
     "Semestr 6/2 Wtorek/2 PMC/Mały metalurg.md",
@@ -197,15 +207,7 @@
     "Semestr 6/4 Czwartek/1 PMCl/Pasted image 20230302100447.png",
     "Semestr 6/2 Wtorek/2 PMC/PMC 23.06.06.md",
     "Semestr 6/5 Piątek/MCH/MCH 23.06.16.md",
-    "Semestr 6/2 Wtorek/2 PMC/PMC 23.05.30.md",
     "Semestr 6/2 Wtorek/2 PMC/Pasted image 20230620014535.png",
-    "Semestr 6/2 Wtorek/2 PMC/Pasted image 20230620014355.png",
-    "Semestr 6/2 Wtorek/2 PMC/Pasted image 20230620013115.png",
-    "Semestr 6/2 Wtorek/2 PMC/Pasted image 20230620012839.png",
-    "Semestr 6/2 Wtorek/2 PMC/Pasted image 20230620012604.png",
-    "Semestr 6/2 Wtorek/2 PMC/Pasted image 20230620010304.png",
-    "Semestr 6/2 Wtorek/2 PMC/Pasted image 20230620010245.png",
-    "Semestr 6/2 Wtorek/2 PMC/Pasted image 20230620005240.png",
     "Semestr 6/1 Poniedziałek/1 MCCB/Notatki z wykładów 1-9.pdf",
     "Semestr 6/1 Poniedziałek/4 MMl/chrom11.pdf",
     "Semestr 6/1 Poniedziałek/4 MMl/Chrom12.pdf",
