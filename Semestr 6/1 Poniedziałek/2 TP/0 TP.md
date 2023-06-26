@@ -22,6 +22,7 @@ Henryk Galina - *Fizykochemia polimerów*
 [[TP 23.06.14]]
 [[TP 23.06.19]]
 
+[[smieszny tytul]]
 
 
 
