@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3829744f56e623e5",
+            "id": "4515511733e3d903",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 6/2 Wtorek/2 PMC/Mały metalurg.md",
+                "file": "Semestr 6/5 Piątek/MCH/Wolne murarstwo.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4515511733e3d903",
+            "id": "4b73795303eb832e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 6/2 Wtorek/2 PMC/PMC 23.06.06.md",
+                "file": "Semestr 6/5 Piątek/MCH/MCH 23.03.10.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 6/2 Wtorek/2 PMC/Mały metalurg.md",
+                "file": "Semestr 6/5 Piątek/MCH/Wolne murarstwo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 6/2 Wtorek/2 PMC/Mały metalurg.md",
+                "file": "Semestr 6/5 Piątek/MCH/Wolne murarstwo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 6/2 Wtorek/2 PMC/Mały metalurg.md"
+                "file": "Semestr 6/5 Piątek/MCH/Wolne murarstwo.md"
               }
             }
           }
@@ -167,53 +167,53 @@
       "publish:Opublikuj zmiany": false
     }
   },
-  "active": "3829744f56e623e5",
+  "active": "4515511733e3d903",
   "lastOpenFiles": [
-    "Semestr 6/2 Wtorek/2 PMC/Mały metalurg.pdf",
-    "Semestr 6/2 Wtorek/2 PMC/PMC 23.06.06.md",
-    "Semestr 6/2 Wtorek/2 PMC/PMC 23.05.30.md",
-    "Semestr 6/2 Wtorek/2 PMC/PMC 23.05.23.md",
+    "Semestr 6/5 Piątek/MCH/Wolne murarstwo.pdf",
+    "Semestr 6/5 Piątek/MCH/MCH 23.03.10.md",
+    "Semestr 6/5 Piątek/MCH/Wolne murarstwo.md",
+    "Semestr 6/5 Piątek/MCH/MCH 23.06.02.md",
+    "Semestr 6/5 Piątek/MCH/MCH 23.03.03.md",
+    "Semestr 6/4 Czwartek/2 MCHl/MCHl 23.03.23.md",
+    "Semestr 6/4 Czwartek/2 MCHl/MCHl 23.03.16.md",
+    "Semestr 6/4 Czwartek/2 MCHl/MCHl 23.03.09.md",
+    "Semestr 6/5 Piątek/MCH/Pasted image 20230625143733.png",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.06.md",
+    "Semestr 6/1 Poniedziałek/2 TP/0 TP.md",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.06.19.md",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.06.14.md",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.06.12.md",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.05.29.md",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.05.08.md",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.04.17.md",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.04.03.md",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.27.md",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.20.md",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.13.md",
+    "Semestr 6/2 Wtorek/2 PMC/Koło 2023.md",
+    "Semestr 6/2 Wtorek/2 PMC/0 PMC.md",
     "Semestr 6/2 Wtorek/2 PMC/Mały metalurg.md",
+    "Semestr 6/2 Wtorek/2 PMC/Mały metalurg.pdf",
+    "Semestr 6/2 Wtorek/2 PMC/Anna-Zięty-25_11_2015-PDF.pdf",
+    "Semestr 6/4 Czwartek/1 PMCl/Pasted image 20230302100447.png",
+    "Semestr 6/2 Wtorek/2 PMC/PMC 23.06.06.md",
+    "Semestr 6/5 Piątek/MCH/MCH 23.06.16.md",
+    "Semestr 6/2 Wtorek/2 PMC/PMC 23.05.30.md",
     "Semestr 6/2 Wtorek/2 PMC/Pasted image 20230620014535.png",
     "Semestr 6/2 Wtorek/2 PMC/Pasted image 20230620014355.png",
     "Semestr 6/2 Wtorek/2 PMC/Pasted image 20230620013115.png",
     "Semestr 6/2 Wtorek/2 PMC/Pasted image 20230620012839.png",
     "Semestr 6/2 Wtorek/2 PMC/Pasted image 20230620012604.png",
-    "Semestr 6/2 Wtorek/2 PMC/0 PMC.md",
-    "Semestr 6/2 Wtorek/2 PMC/PMC 23.05.09.md",
-    "Semestr 6/2 Wtorek/2 PMC/PMC 23.04.25.md",
-    "Semestr 6/2 Wtorek/2 PMC/PMC 23.06.13.md",
     "Semestr 6/2 Wtorek/2 PMC/Pasted image 20230620010304.png",
     "Semestr 6/2 Wtorek/2 PMC/Pasted image 20230620010245.png",
     "Semestr 6/2 Wtorek/2 PMC/Pasted image 20230620005240.png",
-    "Semestr 6/2 Wtorek/2 PMC/Pasted image 20230620001101.png",
-    "Semestr 6/2 Wtorek/2 PMC/Pasted image 20230619235456.png",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.06.19.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.06.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.13.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.20.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.27.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.04.03.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.04.17.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.05.29.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.06.12.md",
-    "Semestr 6/1 Poniedziałek/1 MCCB/0 MCCB.md",
-    "Semestr 6/1 Poniedziałek/1 MCCB/Notatki z wykładów 1-9.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.06.14.md",
-    "Semestr 6/1 Poniedziałek/2 TP/0 TP.md",
-    "Semestr 5/2 Wtorek/3 IMINOM 2 - wykład/IMINOM 22.11.22.md",
-    "Semestr 5/2 Wtorek/3 IMINOM 2 - wykład/IMINOM 22.11.08.md",
-    "Semestr 5/2 Wtorek/3 IMINOM 2 - wykład/IMINOM 22.10.25.md",
-    "Semestr 5/2 Wtorek/3 IMINOM 2 - wykład/IMINOM 22.11.29.md",
     "Semestr 6/1 Poniedziałek/1 MCCB/Notatki z wykładów 1-9.pdf",
     "Semestr 6/1 Poniedziałek/4 MMl/chrom11.pdf",
     "Semestr 6/1 Poniedziałek/4 MMl/Chrom12.pdf",
     "Semestr 6/1 Poniedziałek/4 MMl/Niepotwierdzony 9201.crdownload",
     "Semestr 6/2 Wtorek/2 PMC/Catastrophes caused by corrosion.pdf",
-    "Semestr 6/2 Wtorek/2 PMC/Anna-Zięty-25_11_2015-PDF.pdf",
     "Semestr 6/3 Środa/2 BM/Biomateriały.pdf",
     "Semestr 6/2 Wtorek/1 KZR/Zagadnienia na kol 1.pdf",
-    "Dodatki/PANIC 2023",
-    "Semestr 6/1 Poniedziałek/3 TPl/TP3___Polimeryzacja_emulsyjna_styrenu.pdf"
+    "Dodatki/PANIC 2023"
   ]
 }

@@ -1,4 +1,4 @@
-	dr inż, Małgorzata Gazińska
+dr inż, Małgorzata Gazińska
 konsultacje pt 7-9, B1 p.301A
 
 egzamin - pytania otwarte
