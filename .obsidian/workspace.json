@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0602a6994756adad",
+        "id": "20734ed8b288e01d",
         "type": "tabs",
         "children": [
           {
-            "id": "4515511733e3d903",
+            "id": "ead864871799f2e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 6/1 Poniedziałek/2 TP/smieszny tytul.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b73795303eb832e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.27.md",
+                "file": "Semestr 7/Biochemia/23.10.27.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.27.md",
+                "file": "Semestr 7/Biochemia/23.10.27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.27.md",
+                "file": "Semestr 7/Biochemia/23.10.27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.27.md"
+                "file": "Semestr 7/Biochemia/23.10.27.md"
               }
             }
           }
@@ -168,52 +155,54 @@
       "publish:Opublikuj zmiany": false
     }
   },
-  "active": "4b73795303eb832e",
+  "active": "ead864871799f2e9",
   "lastOpenFiles": [
+    "Semestr 7/Biochemia/23.10.13.md",
+    "Semestr 7/Biochemia/23.10.20.md",
+    "Semestr 7/Biochemia/23.10.27.md",
+    "Semestr 7/Biochemia/23.10.06.md",
+    "Semestr 7/PPM/23.10.11.md",
+    "Semestr 7/MZT/23.10.27.md",
     "Semestr 6/1 Poniedziałek/2 TP/smieszny tytul.md",
+    "Semestr 7/Anatomia/23.10.25.md",
+    "Semestr 7/Ergonomia/23.10.25.md",
+    "Semestr 7/Anatomia/23.10.18.md",
+    "Semestr 7/Anatomia/23.10.11.md",
+    "Semestr 7/Ergonomia",
+    "Bez nazwy.canvas",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.05.08.md",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.06.14.md",
+    "Semestr 6/1 Poniedziałek/2 TP/TP 23.06.19.md",
+    "Semestr 7/SD/23.10.18.md",
+    "Semestr 7/MZT Lab/ćw 5.md",
+    "Semestr 7/MZT Lab/ćw 5.pdf",
+    "Semestr 7/MZT/23.10.06.md",
+    "Semestr 7/MZT/23.10.13.md",
+    "Semestr 7/MZT/23.10.20.md",
+    "Semestr 7/PPM/Pasted image 20231020114127.png",
+    "Semestr 7/MZT Lab/Pasted image 20231011154210.png",
+    "Semestr 5/5 Piątek/2 Metody badań materiałów/MBM - wykłady.md",
+    "Semestr 5/5 Piątek/2 Metody badań materiałów/MBM - opracowanie.md",
+    "Semestr 7/SD",
+    "Semestr 7/Biochemia/Pasted image 20231013105239.png",
+    "Semestr 7/Biochemia/Pasted image 20231013104157.png",
+    "Semestr 7/Anatomia",
+    "Semestr 7/MZT Lab/Pasted image 20231011153449.png",
+    "Semestr 7/MZT Lab/Pasted image 20231011153413.png",
+    "Semestr 7/MZT Lab/Pasted image 20231011152558.png",
+    "Semestr 7/MZT Lab/Pasted image 20231011152548.png",
+    "Semestr 7/MZT Lab/Pasted image 20231011152438.png",
+    "Semestr 7/MZT Lab/Pasted image 20231011151404.png",
+    "Semestr 7/MZT Lab",
+    "Semestr 7/PPM",
+    "Semestr 7/Biochemia",
+    "Semestr 7/MZT",
+    "Dodatki/Bez nazwy.md",
+    "Dodatki/Magisterski dzień otwarty na TU Dresden.md",
+    "Semestr 7",
     "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.27.md",
     "Semestr 6/1 Poniedziałek/2 TP/TP 23.04.17.md",
     "Semestr 6/1 Poniedziałek/2 TP/TP 23.04.03.md",
-    "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230627001030.png",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.13.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.20.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.06.md",
-    "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230626234212.png",
-    "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230626234042.png",
-    "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230626233427.png",
-    "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230626232943.png",
-    "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230626232848.png",
-    "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230626223756.png",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.05.08.md",
-    "Semestr 6/5 Piątek/MCH/Wolne murarstwo.pdf",
-    "Semestr 6/5 Piątek/MCH/MCH 23.03.10.md",
-    "Semestr 6/5 Piątek/MCH/Wolne murarstwo.md",
-    "Semestr 6/5 Piątek/MCH/MCH 23.06.02.md",
-    "Semestr 6/5 Piątek/MCH/MCH 23.03.03.md",
-    "Semestr 6/4 Czwartek/2 MCHl/MCHl 23.03.23.md",
-    "Semestr 6/4 Czwartek/2 MCHl/MCHl 23.03.16.md",
-    "Semestr 6/4 Czwartek/2 MCHl/MCHl 23.03.09.md",
-    "Semestr 6/5 Piątek/MCH/Pasted image 20230625143733.png",
-    "Semestr 6/1 Poniedziałek/2 TP/0 TP.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.06.19.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.06.14.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.06.12.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.05.29.md",
-    "Semestr 6/2 Wtorek/2 PMC/Koło 2023.md",
-    "Semestr 6/2 Wtorek/2 PMC/0 PMC.md",
-    "Semestr 6/2 Wtorek/2 PMC/Mały metalurg.md",
-    "Semestr 6/2 Wtorek/2 PMC/Mały metalurg.pdf",
-    "Semestr 6/2 Wtorek/2 PMC/Anna-Zięty-25_11_2015-PDF.pdf",
-    "Semestr 6/4 Czwartek/1 PMCl/Pasted image 20230302100447.png",
-    "Semestr 6/2 Wtorek/2 PMC/PMC 23.06.06.md",
-    "Semestr 6/5 Piątek/MCH/MCH 23.06.16.md",
-    "Semestr 6/2 Wtorek/2 PMC/Pasted image 20230620014535.png",
-    "Semestr 6/1 Poniedziałek/1 MCCB/Notatki z wykładów 1-9.pdf",
-    "Semestr 6/1 Poniedziałek/4 MMl/chrom11.pdf",
-    "Semestr 6/1 Poniedziałek/4 MMl/Chrom12.pdf",
-    "Semestr 6/1 Poniedziałek/4 MMl/Niepotwierdzony 9201.crdownload",
-    "Semestr 6/2 Wtorek/2 PMC/Catastrophes caused by corrosion.pdf",
-    "Semestr 6/3 Środa/2 BM/Biomateriały.pdf",
-    "Semestr 6/2 Wtorek/1 KZR/Zagadnienia na kol 1.pdf"
+    "Semestr 6/5 Piątek/MCH/Wolne murarstwo.pdf"
   ]
 }
