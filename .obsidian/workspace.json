@@ -13,6 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Semestr 7/PPM/PPM2.md",
                 "mode": "source",
                 "source": false
@@ -26,6 +27,9 @@
               "type": "markdown",
               "state": {
                 "file": "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/K2.md",
+=======
+                "file": "Dodatki/PWr dni/Droga do inżyniera.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +109,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Semestr 7/PPM/PPM2.md",
+=======
+                "file": "Dodatki/PWr dni/Droga do inżyniera.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +130,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Semestr 7/PPM/PPM2.md",
+=======
+                "file": "Dodatki/PWr dni/Droga do inżyniera.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +157,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Semestr 7/PPM/PPM2.md"
+=======
+                "file": "Dodatki/PWr dni/Droga do inżyniera.md"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -169,6 +185,7 @@
   },
   "active": "242bc727007fc3e8",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Semestr 7/PPM/23.10.11.md",
     "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/K2.md",
     "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/K1.md",
@@ -205,16 +222,57 @@
     "Dodatki/Pasted image 20231120153721.png",
     "Dodatki/Pasted image 20231120153121.png",
     "Dodatki/Pasted image 20231120153053.png",
+=======
+    "Dodatki/PWr dni/Pasted image 20231204140548.png",
+    "Dodatki/PWr dni/Pasted image 20231204140502.png",
+    "Dodatki/PWr dni/Pasted image 20231204140408.png",
+    "Dodatki/PWr dni/Pasted image 20231204140314.png",
+    "Dodatki/PWr dni/Pasted image 20231204140212.png",
+    "Dodatki/PWr dni/Pasted image 20231204140115.png",
+    "Dodatki/PWr dni/Pasted image 20231204135859.png",
+    "Dodatki/PWr dni/Pasted image 20231204135704.png",
+    "Dodatki/PWr dni/Pasted image 20231204135618.png",
+    "Dodatki/PWr dni/Pasted image 20231204135544.png",
+    "Dodatki/PWr dni/Pasted image 20231204135443.png",
+    "Semestr 7/Biochemia/23.10.27.md",
+    "Dodatki/PWr dni/Droga do inżyniera.md",
+    "Dodatki/PWr dni",
+    "Dodatki/Bez nazwy 1.md",
+    "Semestr 7/PPM/23.10.11.md",
+    "Semestr 7/Biochemia/23.10.13.md",
+    "Semestr 7/Biochemia/23.10.20.md",
+    "Semestr 7/Biochemia/23.10.06.md",
+    "Semestr 7/MZT/23.10.27.md",
+    "Semestr 6/1 Poniedziałek/2 TP/smieszny tytul.md",
+    "Semestr 7/Anatomia/23.10.25.md",
+    "Semestr 7/Ergonomia/23.10.25.md",
+    "Semestr 7/Anatomia/23.10.18.md",
+    "Semestr 7/Anatomia/23.10.11.md",
+>>>>>>> Stashed changes
     "Semestr 7/Ergonomia",
     "Bez nazwy.canvas",
     "Semestr 7/MZT Lab/ćw 5.pdf",
+<<<<<<< Updated upstream
+=======
+    "Semestr 7/MZT/23.10.06.md",
+    "Semestr 7/MZT/23.10.13.md",
+    "Semestr 7/MZT/23.10.20.md",
+    "Semestr 5/5 Piątek/2 Metody badań materiałów/MBM - wykłady.md",
+    "Semestr 5/5 Piątek/2 Metody badań materiałów/MBM - opracowanie.md",
+>>>>>>> Stashed changes
     "Semestr 7/SD",
     "Semestr 7/Anatomia",
     "Semestr 7/MZT Lab",
     "Semestr 7/PPM",
     "Semestr 7/Biochemia",
     "Semestr 7/MZT",
+<<<<<<< Updated upstream
     "Semestr 7",
     "Semestr 6/5 Piątek/MCH/Wolne murarstwo.pdf"
+=======
+    "Dodatki/Bez nazwy.md",
+    "Dodatki/Magisterski dzień otwarty na TU Dresden.md",
+    "Semestr 7"
+>>>>>>> Stashed changes
   ]
 }
