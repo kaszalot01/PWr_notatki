@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "20734ed8b288e01d",
+        "id": "f3a3346abaeb3761",
         "type": "tabs",
         "children": [
           {
-            "id": "ead864871799f2e9",
+            "id": "242bc727007fc3e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 7/Biochemia/23.10.27.md",
+                "file": "Semestr 7/PPM/PPM2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35e285cda0ff0380",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/K2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 7/Biochemia/23.10.27.md",
+                "file": "Semestr 7/PPM/PPM2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 7/Biochemia/23.10.27.md",
+                "file": "Semestr 7/PPM/PPM2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 7/Biochemia/23.10.27.md"
+                "file": "Semestr 7/PPM/PPM2.md"
               }
             }
           }
@@ -155,54 +167,54 @@
       "publish:Opublikuj zmiany": false
     }
   },
-  "active": "ead864871799f2e9",
+  "active": "242bc727007fc3e8",
   "lastOpenFiles": [
-    "Semestr 7/Biochemia/23.10.13.md",
-    "Semestr 7/Biochemia/23.10.20.md",
-    "Semestr 7/Biochemia/23.10.27.md",
-    "Semestr 7/Biochemia/23.10.06.md",
     "Semestr 7/PPM/23.10.11.md",
-    "Semestr 7/MZT/23.10.27.md",
-    "Semestr 6/1 Poniedziałek/2 TP/smieszny tytul.md",
-    "Semestr 7/Anatomia/23.10.25.md",
-    "Semestr 7/Ergonomia/23.10.25.md",
-    "Semestr 7/Anatomia/23.10.18.md",
-    "Semestr 7/Anatomia/23.10.11.md",
+    "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/K2.md",
+    "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/K1.md",
+    "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/Załączniki/Pasted image 20221020145102.png",
+    "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/K3.md",
+    "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/K4.md",
+    "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/K5.md",
+    "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/K6.md",
+    "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/Pasted image 20221117234823.png",
+    "Semestr 7/PPM/PPM2.md",
+    "Prezentacja francuski.md",
+    "Semestr 7/Biochemia/23.12.08.md",
+    "Semestr 7/Biochemia/Bez nazwy.md",
+    "Semestr 7/Biochemia/Pasted image 20231208142654.png",
+    "Semestr 7/Biochemia/Pasted image 20231208142602.png",
+    "Dodatki/PANIC 2023/Wykłady Carlosa Marquesa.md",
+    "Dodatki/PANIC 2023/Wykłady Jean-Charlesa Ribierre'a.md",
+    "Dodatki/PANIC 2023/Wykłady Ji-Seon Kim.md",
+    "Dodatki/PANIC 2023/Wykłady Neila Robertsona.md",
+    "Dodatki/PANIC 2023/Wykłady Bruna Therriena.md",
+    "Semestr 7/MZT/23.12.08.md",
+    "Semestr 7/Anatomia/23.12.06.md",
+    "Semestr 7/Anatomia/23.11.22.md",
+    "Dodatki/Zagrożenie wiedzą.md",
+    "Dodatki/Magisterski dzień otwarty na TU Dresden.md",
+    "Dodatki/RUG Master.md",
+    "Semestr 7/Biochemia/23.12.01.md",
+    "Semestr 7/Biochemia/Pasted image 20231201133840.png",
+    "Semestr 7/Biochemia/23.11.24.md",
+    "Semestr 7/Biochemia/Pasted image 20231124142317.png",
+    "Semestr 7/Biochemia/23.11.17.md",
+    "Semestr 7/MZT/23.10.06.md",
+    "Dodatki/Pasted image 20231120154059.png",
+    "Dodatki/Pasted image 20231120153721.png",
+    "Dodatki/Pasted image 20231120153121.png",
+    "Dodatki/Pasted image 20231120153053.png",
     "Semestr 7/Ergonomia",
     "Bez nazwy.canvas",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.05.08.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.06.14.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.06.19.md",
-    "Semestr 7/SD/23.10.18.md",
-    "Semestr 7/MZT Lab/ćw 5.md",
     "Semestr 7/MZT Lab/ćw 5.pdf",
-    "Semestr 7/MZT/23.10.06.md",
-    "Semestr 7/MZT/23.10.13.md",
-    "Semestr 7/MZT/23.10.20.md",
-    "Semestr 7/PPM/Pasted image 20231020114127.png",
-    "Semestr 7/MZT Lab/Pasted image 20231011154210.png",
-    "Semestr 5/5 Piątek/2 Metody badań materiałów/MBM - wykłady.md",
-    "Semestr 5/5 Piątek/2 Metody badań materiałów/MBM - opracowanie.md",
     "Semestr 7/SD",
-    "Semestr 7/Biochemia/Pasted image 20231013105239.png",
-    "Semestr 7/Biochemia/Pasted image 20231013104157.png",
     "Semestr 7/Anatomia",
-    "Semestr 7/MZT Lab/Pasted image 20231011153449.png",
-    "Semestr 7/MZT Lab/Pasted image 20231011153413.png",
-    "Semestr 7/MZT Lab/Pasted image 20231011152558.png",
-    "Semestr 7/MZT Lab/Pasted image 20231011152548.png",
-    "Semestr 7/MZT Lab/Pasted image 20231011152438.png",
-    "Semestr 7/MZT Lab/Pasted image 20231011151404.png",
     "Semestr 7/MZT Lab",
     "Semestr 7/PPM",
     "Semestr 7/Biochemia",
     "Semestr 7/MZT",
-    "Dodatki/Bez nazwy.md",
-    "Dodatki/Magisterski dzień otwarty na TU Dresden.md",
     "Semestr 7",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.03.27.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.04.17.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.04.03.md",
     "Semestr 6/5 Piątek/MCH/Wolne murarstwo.pdf"
   ]
 }
