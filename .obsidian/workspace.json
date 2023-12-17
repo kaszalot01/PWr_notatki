@@ -1,55 +1,64 @@
 {
   "main": {
-    "id": "b67154ffb29c7bbc",
+    "id": "8aa2bf414bcbf37c",
     "type": "split",
     "children": [
       {
-        "id": "f3a3346abaeb3761",
+        "id": "6c916c534d561f65",
         "type": "tabs",
         "children": [
           {
-            "id": "242bc727007fc3e8",
+            "id": "a40866ebd2a17f43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Semestr 7/PPM/PPM2.md",
+                "file": "Semestr 7/MZT/23.12.08.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "35e285cda0ff0380",
+            "id": "b7686642352070f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/K2.md",
-=======
-                "file": "Dodatki/PWr dni/Droga do inżyniera.md",
->>>>>>> Stashed changes
+                "file": "Semestr 7/MZT/Zagadnienia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "198bda5571f09682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestr 5/5 Piątek/2 Metody badań materiałów/MBM - opracowanie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "282c81e63cee2522",
+    "id": "b9611b9e81b394d8",
     "type": "split",
     "children": [
       {
-        "id": "06608fa5c0573773",
+        "id": "4aa80a6fd51071f5",
         "type": "tabs",
         "children": [
           {
-            "id": "f631f5f2208028ed",
+            "id": "834bb1624569e6fd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -59,7 +68,7 @@
             }
           },
           {
-            "id": "e191c4b451cd140d",
+            "id": "e05f716cea6433fd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -74,15 +83,7 @@
             }
           },
           {
-            "id": "2b08642f48883f73",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "0986759a3f644ca4",
+            "id": "dd12ed88535ee642",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,24 +97,20 @@
     "width": 300
   },
   "right": {
-    "id": "643c6ee8a2ceb2f1",
+    "id": "aaa8ceea9da3001b",
     "type": "split",
     "children": [
       {
-        "id": "2985ad8452f11f99",
+        "id": "8cfebdfa07e71fd4",
         "type": "tabs",
         "children": [
           {
-            "id": "fcde9188e7b0da5c",
+            "id": "fcf16f2ca94ba9a9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Semestr 7/PPM/PPM2.md",
-=======
-                "file": "Dodatki/PWr dni/Droga do inżyniera.md",
->>>>>>> Stashed changes
+                "file": "Semestr 7/MZT/Zagadnienia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,23 +122,19 @@
             }
           },
           {
-            "id": "65a999d880f8560a",
+            "id": "2b3c8b5dd104e634",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Semestr 7/PPM/PPM2.md",
-=======
-                "file": "Dodatki/PWr dni/Droga do inżyniera.md",
->>>>>>> Stashed changes
+                "file": "Semestr 7/MZT/Zagadnienia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e1a4d2422d076969",
+            "id": "55056593406d85f7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,16 +145,12 @@
             }
           },
           {
-            "id": "e8a0b0a5f39c14ae",
+            "id": "06c83e03f9c70e38",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Semestr 7/PPM/PPM2.md"
-=======
-                "file": "Dodatki/PWr dni/Droga do inżyniera.md"
->>>>>>> Stashed changes
+                "file": "Semestr 7/MZT/Zagadnienia.md"
               }
             }
           }
@@ -174,105 +163,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:Stwórz nowe płótno": false,
       "switcher:Otwórz okno szybkiej zmiany pliku": false,
       "graph:Otwórz graf": false,
+      "canvas:Stwórz nowe płótno": false,
       "daily-notes:Otwórz dzisiejszą notatkę": false,
       "templates:Wstaw szablon": false,
       "command-palette:Otwórz paletę poleceń": false,
       "publish:Opublikuj zmiany": false
     }
   },
-  "active": "242bc727007fc3e8",
+  "active": "b7686642352070f1",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "Semestr 7/PPM/23.10.11.md",
-    "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/K2.md",
-    "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/K1.md",
-    "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/Załączniki/Pasted image 20221020145102.png",
-    "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/K3.md",
-    "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/K4.md",
-    "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/K5.md",
-    "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/K6.md",
-    "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/Pasted image 20221117234823.png",
-    "Semestr 7/PPM/PPM2.md",
-    "Prezentacja francuski.md",
-    "Semestr 7/Biochemia/23.12.08.md",
-    "Semestr 7/Biochemia/Bez nazwy.md",
-    "Semestr 7/Biochemia/Pasted image 20231208142654.png",
-    "Semestr 7/Biochemia/Pasted image 20231208142602.png",
-    "Dodatki/PANIC 2023/Wykłady Carlosa Marquesa.md",
-    "Dodatki/PANIC 2023/Wykłady Jean-Charlesa Ribierre'a.md",
-    "Dodatki/PANIC 2023/Wykłady Ji-Seon Kim.md",
-    "Dodatki/PANIC 2023/Wykłady Neila Robertsona.md",
-    "Dodatki/PANIC 2023/Wykłady Bruna Therriena.md",
+    "Semestr 7/MZT_opracowanie.pdf",
+    "Semestr 7/MZT/Pasted image 20231215004239.png",
     "Semestr 7/MZT/23.12.08.md",
-    "Semestr 7/Anatomia/23.12.06.md",
-    "Semestr 7/Anatomia/23.11.22.md",
-    "Dodatki/Zagrożenie wiedzą.md",
-    "Dodatki/Magisterski dzień otwarty na TU Dresden.md",
-    "Dodatki/RUG Master.md",
-    "Semestr 7/Biochemia/23.12.01.md",
-    "Semestr 7/Biochemia/Pasted image 20231201133840.png",
-    "Semestr 7/Biochemia/23.11.24.md",
-    "Semestr 7/Biochemia/Pasted image 20231124142317.png",
-    "Semestr 7/Biochemia/23.11.17.md",
-    "Semestr 7/MZT/23.10.06.md",
-    "Dodatki/Pasted image 20231120154059.png",
-    "Dodatki/Pasted image 20231120153721.png",
-    "Dodatki/Pasted image 20231120153121.png",
-    "Dodatki/Pasted image 20231120153053.png",
-=======
-    "Dodatki/PWr dni/Pasted image 20231204140548.png",
-    "Dodatki/PWr dni/Pasted image 20231204140502.png",
-    "Dodatki/PWr dni/Pasted image 20231204140408.png",
-    "Dodatki/PWr dni/Pasted image 20231204140314.png",
-    "Dodatki/PWr dni/Pasted image 20231204140212.png",
-    "Dodatki/PWr dni/Pasted image 20231204140115.png",
-    "Dodatki/PWr dni/Pasted image 20231204135859.png",
-    "Dodatki/PWr dni/Pasted image 20231204135704.png",
-    "Dodatki/PWr dni/Pasted image 20231204135618.png",
-    "Dodatki/PWr dni/Pasted image 20231204135544.png",
-    "Dodatki/PWr dni/Pasted image 20231204135443.png",
-    "Semestr 7/Biochemia/23.10.27.md",
-    "Dodatki/PWr dni/Droga do inżyniera.md",
-    "Dodatki/PWr dni",
-    "Dodatki/Bez nazwy 1.md",
-    "Semestr 7/PPM/23.10.11.md",
-    "Semestr 7/Biochemia/23.10.13.md",
-    "Semestr 7/Biochemia/23.10.20.md",
-    "Semestr 7/Biochemia/23.10.06.md",
-    "Semestr 7/MZT/23.10.27.md",
-    "Semestr 6/1 Poniedziałek/2 TP/smieszny tytul.md",
-    "Semestr 7/Anatomia/23.10.25.md",
-    "Semestr 7/Ergonomia/23.10.25.md",
-    "Semestr 7/Anatomia/23.10.18.md",
-    "Semestr 7/Anatomia/23.10.11.md",
->>>>>>> Stashed changes
-    "Semestr 7/Ergonomia",
-    "Bez nazwy.canvas",
-    "Semestr 7/MZT Lab/ćw 5.pdf",
-<<<<<<< Updated upstream
-=======
-    "Semestr 7/MZT/23.10.06.md",
-    "Semestr 7/MZT/23.10.13.md",
     "Semestr 7/MZT/23.10.20.md",
-    "Semestr 5/5 Piątek/2 Metody badań materiałów/MBM - wykłady.md",
+    "Semestr 7/MZT/Zagadnienia.md",
+    "Semestr 7/MZT/Pasted image 20231215003828.png",
+    "Semestr 7/MZT/Pasted image 20231215003621.png",
+    "Semestr 7/MZT/Pasted image 20231215003601.png",
+    "Semestr 7/MZT/Pasted image 20231215003347.png",
+    "Semestr 7/MZT/Pasted image 20231215002349.png",
+    "Semestr 7/MZT/Pasted image 20231215002325.png",
+    "Semestr 7/MZT/Pasted image 20231215002259.png",
+    "Semestr 7/MZT/Pasted image 20231215000956.png",
+    "Semestr 7/MZT/Pasted image 20231215000911.png",
+    "Semestr 7/MZT/23.10.27.md",
+    "Semestr 7/MZT/23.11.10.md",
+    "Semestr 7/MZT/23.11.24.md",
+    "Semestr 7/MZT/23.10.13.md",
     "Semestr 5/5 Piątek/2 Metody badań materiałów/MBM - opracowanie.md",
->>>>>>> Stashed changes
-    "Semestr 7/SD",
-    "Semestr 7/Anatomia",
-    "Semestr 7/MZT Lab",
-    "Semestr 7/PPM",
-    "Semestr 7/Biochemia",
-    "Semestr 7/MZT",
-<<<<<<< Updated upstream
-    "Semestr 7",
-    "Semestr 6/5 Piątek/MCH/Wolne murarstwo.pdf"
-=======
-    "Dodatki/Bez nazwy.md",
-    "Dodatki/Magisterski dzień otwarty na TU Dresden.md",
-    "Semestr 7"
->>>>>>> Stashed changes
+    "Semestr 7/MZT/23.10.06.md"
   ]
 }
