@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Egzamin dyplomowy/Wtęp.md",
+                "file": "Egzamin dyplomowy/Pytania z obrony 29.01..md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Egzamin dyplomowy/Wtęp.md",
+                "file": "Egzamin dyplomowy/Pytania z obrony 29.01..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Egzamin dyplomowy/Wtęp.md",
+                "file": "Egzamin dyplomowy/Pytania z obrony 29.01..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Egzamin dyplomowy/Wtęp.md"
+                "file": "Egzamin dyplomowy/Pytania z obrony 29.01..md"
               }
             }
           }
@@ -157,8 +157,12 @@
   },
   "active": "957bd96529534de3",
   "lastOpenFiles": [
-    "Semestr 6/3 Środa/2 BM/BM 23.04.05.md",
+    "Egzamin dyplomowy/Zagadnienia.md",
+    "Egzamin dyplomowy/Pytania z obrony 29.01..md",
     "Egzamin dyplomowy/Wtęp.md",
+    "Egzamin dyplomowy/egz-inż-IM-2020-21 (1).pdf",
+    "Egzamin dyplomowy/Zagadnienia-na-Egzamin-IM-kompletne (1).docx",
+    "Semestr 6/3 Środa/2 BM/BM 23.04.05.md",
     "Egzamin dyplomowy",
     "Semestr 6/3 Środa/2 BM/BM 23.03.29.md",
     "Semestr 6/3 Środa/2 BM/BM 23.03.22.md",
@@ -186,8 +190,6 @@
     "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230626234042.png",
     "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230626234212.png",
     "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230627001030.png",
-    "Semestr 6/1 Poniedziałek/2 TP/smieszny tytul.md",
-    "Semestr 6/1 Poniedziałek/2 TP/0 TP.md",
     "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/Załączniki/Pasted image 20221020145102.png",
     "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/Pasted image 20221117234823.png",
     "Semestr 7/Biochemia/Pasted image 20231208142654.png",
@@ -201,8 +203,6 @@
     "Semestr 7/Anatomia",
     "Semestr 7/MZT Lab",
     "Semestr 7/PPM",
-    "Semestr 7/Biochemia",
-    "Semestr 7/MZT",
-    "Semestr 7"
+    "Semestr 7/Biochemia"
   ]
 }
