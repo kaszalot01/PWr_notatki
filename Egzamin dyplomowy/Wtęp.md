@@ -1,0 +1,22 @@
+Kursy, które uważam za istotne:
+
+- chemia materiałów (ew. wybrane zagadnienia z wybieraków takich jak: nanomateriały, wstęp do optyki materiałów )
+- chemia ogólna
+- fizyka 1
+- podstawy chemii nieorganicznej
+- fizyka 2
+- podstawy chemii organicznej
+- inżynieria chemiczna (transport masy, pędu, ciepła)
+- elektronika i elektrotechnika (opór, pojemność, indukcja)
+- analiza instrumentalna (miareczkowania)
+- chemia fizyczna
+- iminom 1
+- SMBM
+- iminom 2
+- MBM
+- materiały węglowe
+- krystalo
+- **PMCIK**
+- **MM**
+- **TP**
+- **MZT**
