@@ -1,3 +1,8 @@
+## Matematyka
+
+Iloczyn skalarny i wektorowy
+Całki i pochodne
+
 ## Chemia ogólna
 
 1. Równanie reakcji chemicznej i jego interpretacja na poziomie cząsteczkowym i makroskopowym. Klasyfikacja reakcji chemicznych według: schematu reakcji, rodzaju reagentów, efektu energetycznego, składu fazowego reagentów, odwracalności reakcji, wymiany elektronów. 
