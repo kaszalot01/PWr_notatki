@@ -106,6 +106,8 @@ Elektroujemność - miara zdolności atomu znajdującego się w cząsteczce do p
 
 ![[Pasted image 20240130214009.png]]
 
+silnie spolaryzowane wiązanie z wodorem + wolna para elektronowa
+
 ![[Pasted image 20240130214203.png]]
 
 ![[Pasted image 20240130214256.png]]
@@ -121,6 +123,74 @@ Elektroujemność - miara zdolności atomu znajdującego się w cząsteczce do p
 ![[Pasted image 20240130222716.png]]
 
 ![[Pasted image 20240130222811.png]]
+
+### Kinetyka i mechanizm reakcji chemicznych. Postęp reakcji chemicznej, szybkość reakcji. Równanie kinetyczne, stała szybkości i rząd reakcji. Zależność szybkości reakcji od temperatury: równanie Arrheniusa. Wykres przebiegu energetycznego reakcji egzo- i endotermicznej.
+
+![[Pasted image 20240131190614.png]]
+![[Pasted image 20240131191126.png]]
+![[Pasted image 20240131191433.png]]
+![[Pasted image 20240131191935.png]]
+
+### Kataliza: typy katalizy, wpływ na kinetykę.
+
+- kataliza homogeniczna
+- kataliza heterogeniczna
+	- chemisorpcja
+
+![[Pasted image 20240131192210.png]]
+
+### Równowaga chemiczna. Reakcje odwracalne, pojęcie równowagi dynamicznej. Stała równowagi. Zależność położenia stanu równowagi od stężenia, temperatury i ciśnienia (reguła przekory). 
+
+![[Pasted image 20240131202910.png]]
+
+Alternatywnie można wyprowadzić z potencjałów chemicznych.
+
+![[Pasted image 20240131204016.png]]
+![[Pasted image 20240131204154.png]]
+
+### Elektrolity: kwasy, zasady i sole. Definicja elektrolitu, Podział na elektrolity mocne i słabe. Dysocjacja kwasów wieloprotonowych. 
+
+![[Pasted image 20240131204656.png]]
+
+![[Pasted image 20240131204858.png]]
+
+Dysocjacja kwasów wieloprotonowych - po jednym wodorze, z różnymi stałymi
+### Równowagi w roztworach wodnych słabych kwasów i zasad. Stała dysocjacji, stopień dysocjacji. Prawo rozcieńczeń Ostwalda. 
+
+Stopień dysocjacji:
+
+$$\alpha=\frac{n_{zdysocjowanych}}{n_{wprowadzonych}} $$
+
+Stała dysocjacji - $K_a$ 
+
+![[Pasted image 20240131205811.png]]
+
+![[Pasted image 20240131205926.png]]
+
+
+### Definicje kwasów i zasad według Arrheniusa, Brønsteda – Löwry’ego, oraz Lewisa (twarde i miękkie kwasy i zasady). Iloczyn jonowy wody i pH. Chemiczne wskaźniki pH roztworu. 
+
+![[Pasted image 20240131205110.png]]
+
+### Hydroliza soli. Stała hydrolizy i jej wyznaczanie ze stałej dysocjacji. Przykłady hydrolizy wieloetapowej w wybranych solach. 
+
+![[Pasted image 20240131211659.png]]
+
+![[Pasted image 20240131211755.png]]
+
+Hydroliza wieloetapowa
+
+![[Pasted image 20240131214754.png]]
+
+### Definicja roztworu buforowego. Przykłady buforów kwaśnych i zasadowych. Zakres buforowania i pojemność buforu. 
+
+![[Pasted image 20240131213906.png]]
+
+![[Pasted image 20240131213947.png]]
+
+![[Pasted image 20240131214419.png]]
+
+Iloczyn rozpuszczalności i jego związek z rozpuszczalnością. Czynniki wpływające na rozpuszczalność osadów.
 
 
 ## Fizyka

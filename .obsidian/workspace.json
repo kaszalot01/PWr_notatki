@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "51191829a2624e40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Egzamin dyplomowy/O Zagadnienia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -157,20 +169,20 @@
   },
   "active": "957bd96529534de3",
   "lastOpenFiles": [
-    "Egzamin dyplomowy/Zagadnienia.md",
-    "Egzamin dyplomowy/Wtęp.md",
+    "Egzamin dyplomowy/O Zagadnienia.md",
     "Egzamin dyplomowy/Odpowiedzi do zagadnień.md",
+    "Egzamin dyplomowy/Pasted image 20240131214754.png",
+    "Egzamin dyplomowy/Pasted image 20240131214419.png",
+    "Egzamin dyplomowy/Pasted image 20240131213947.png",
+    "Egzamin dyplomowy/Pasted image 20240131213906.png",
+    "Egzamin dyplomowy/Pasted image 20240131213701.png",
+    "Egzamin dyplomowy/Pasted image 20240131211755.png",
+    "Egzamin dyplomowy/Pasted image 20240131211659.png",
+    "Egzamin dyplomowy/Pasted image 20240131205926.png",
+    "Egzamin dyplomowy/Pasted image 20240131205811.png",
+    "Egzamin dyplomowy/Pasted image 20240131205110.png",
     "Egzamin dyplomowy/Pytania z obrony 29.01..md",
-    "Egzamin dyplomowy/Pasted image 20240131000142.png",
-    "Egzamin dyplomowy/Pasted image 20240130222811.png",
-    "Egzamin dyplomowy/Pasted image 20240130222716.png",
-    "Egzamin dyplomowy/Pasted image 20240130222635.png",
-    "Egzamin dyplomowy/Pasted image 20240130214256.png",
-    "Egzamin dyplomowy/Pasted image 20240130214203.png",
-    "Egzamin dyplomowy/Pasted image 20240130214009.png",
-    "Egzamin dyplomowy/Pasted image 20240130213734.png",
-    "Egzamin dyplomowy/Pasted image 20240130213631.png",
-    "Egzamin dyplomowy/Pasted image 20240130194412.png",
+    "Egzamin dyplomowy/Wtęp.md",
     "Egzamin dyplomowy/egz-inż-IM-2020-21 (1).pdf",
     "Egzamin dyplomowy/Zagadnienia-na-Egzamin-IM-kompletne (1).docx",
     "Semestr 6/3 Środa/2 BM/BM 23.04.05.md",
