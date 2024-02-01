@@ -104,7 +104,7 @@ Całki i pochodne
 4. Właściwości materiałów inżynierskich: twardość, udarność, zmęczenie, płynięcie.
 5. Właściwości sprężyste ciał stałych.
 
-## Metalurgia i korozja
+## Korozja
 
 1. Korozja międzykrystaliczna, stykowa, wżerowa, selektywna.
 2. Korozja powodowana jednoczesnym działaniem naprężeń i agresywnego środowiska.

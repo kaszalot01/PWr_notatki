@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "8bd5d773581a3822",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestr 5/5 Piątek/2 Metody badań materiałów/MBM 22.10.07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "51191829a2624e40",
             "type": "leaf",
             "state": {
@@ -169,18 +181,25 @@
   },
   "active": "957bd96529534de3",
   "lastOpenFiles": [
+    "Egzamin dyplomowy/Pasted image 20240201154759.png",
+    "Egzamin dyplomowy/Pasted image 20240201154540.png",
+    "Egzamin dyplomowy/Pasted image 20240201154456.png",
+    "Egzamin dyplomowy/Pasted image 20240201154431.png",
+    "Egzamin dyplomowy/Pasted image 20240201152342.png",
+    "Egzamin dyplomowy/Pasted image 20240201152325.png",
+    "Egzamin dyplomowy/Pasted image 20240201152138.png",
+    "Egzamin dyplomowy/Pasted image 20240201152050.png",
     "Egzamin dyplomowy/O Zagadnienia.md",
+    "Semestr 5/5 Piątek/2 Metody badań materiałów/MBM 22.10.07.md",
     "Egzamin dyplomowy/Odpowiedzi do zagadnień.md",
-    "Egzamin dyplomowy/Pasted image 20240131214754.png",
-    "Egzamin dyplomowy/Pasted image 20240131214419.png",
-    "Egzamin dyplomowy/Pasted image 20240131213947.png",
-    "Egzamin dyplomowy/Pasted image 20240131213906.png",
-    "Egzamin dyplomowy/Pasted image 20240131213701.png",
-    "Egzamin dyplomowy/Pasted image 20240131211755.png",
-    "Egzamin dyplomowy/Pasted image 20240131211659.png",
-    "Egzamin dyplomowy/Pasted image 20240131205926.png",
-    "Egzamin dyplomowy/Pasted image 20240131205811.png",
-    "Egzamin dyplomowy/Pasted image 20240131205110.png",
+    "Egzamin dyplomowy/Pasted image 20240201150929.png",
+    "Egzamin dyplomowy/Pasted image 20240201150908.png",
+    "Egzamin dyplomowy/Pasted image 20240201150646.png",
+    "Semestr 6/2 Wtorek/1 KZR/Bardzo leniwe notatki z krystalo.pdf",
+    "Semestr 6/2 Wtorek/1 KZR/KZR 23.06.06.md",
+    "Semestr 6/2 Wtorek/1 KZR/Pytel_Jan_258825.pdf",
+    "Semestr 6/2 Wtorek/1 KZR/Zagadnienia na kol 1.pdf",
+    "Semestr 6/2 Wtorek/1 KZR/Zagadnienia na kol 1.md",
     "Egzamin dyplomowy/Pytania z obrony 29.01..md",
     "Egzamin dyplomowy/Wtęp.md",
     "Egzamin dyplomowy/egz-inż-IM-2020-21 (1).pdf",
@@ -204,16 +223,10 @@
     "Semestr 5/2 Wtorek/2 Nanomateriały/NM 22.12.13.md",
     "Semestr 5/2 Wtorek/2 Nanomateriały/NM 22.12.06.md",
     "Semestr 6/1 Poniedziałek/2 TP/TP 23.04.17.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.05.08.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.05.29.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.06.12.md",
     "Semestr 7/Ergonomia",
     "Bez nazwy.canvas",
     "Semestr 7/MZT Lab/ćw 5.pdf",
     "Semestr 7/SD",
-    "Semestr 7/Anatomia",
-    "Semestr 7/MZT Lab",
-    "Semestr 7/PPM",
-    "Semestr 7/Biochemia"
+    "Semestr 7/Anatomia"
   ]
 }

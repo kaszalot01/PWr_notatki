@@ -48,6 +48,8 @@ Klasyfikacja reakcji chemicznych według:
 
 ![[Pasted image 20240130123845.png]]
 
+![[Pasted image 20240201000326.png]]
+
 
 
 ### Teorie budowy atomu. Model atomu Rutherforda, model Bohra, kwantowy model atomu. Orbital jako funkcja falowa opisująca stan elektronu w atomie. Zakaz Pauliego.
@@ -78,12 +80,6 @@ Pierwsze grupy tworzą tlenki zasadowe (Na2O, MgO), o wysokiej temperaturze topn
 Al tworzy tlenki amfoteryczna, a Si obojętne, wiązanie kowalencyjne, silnie spolaryzowane
 
 Ostatnie grupy tworzą tlenki kwasowe (P4O10, SO3), o niższej temperaturze topnienia, wiązania kowalencyjne.
-
-
-
-
-
-
 
 ### Wiązania chemiczne. Rodzaje wiązań: jonowe, kowalencyjne, metaliczne, koordynacyjne. 
 
@@ -172,6 +168,17 @@ Stała dysocjacji - $K_a$
 
 ![[Pasted image 20240131205110.png]]
 
+![[Pasted image 20240131234243.png]]
+![[Pasted image 20240131234346.png]]
+
+![[Pasted image 20240131234502.png]]
+![[Pasted image 20240131234612.png]]
+
+![[Pasted image 20240131234710.png]]
+
+![[Pasted image 20240131234734.png]]
+
+
 ### Hydroliza soli. Stała hydrolizy i jej wyznaczanie ze stałej dysocjacji. Przykłady hydrolizy wieloetapowej w wybranych solach. 
 
 ![[Pasted image 20240131211659.png]]
@@ -190,9 +197,27 @@ Hydroliza wieloetapowa
 
 ![[Pasted image 20240131214419.png]]
 
-Iloczyn rozpuszczalności i jego związek z rozpuszczalnością. Czynniki wpływające na rozpuszczalność osadów.
+### Iloczyn rozpuszczalności i jego związek z rozpuszczalnością. Czynniki wpływające na rozpuszczalność osadów.
 
+![[Pasted image 20240131231436.png]]
 
+### Związki koordynacyjne - pojęcia podstawowe, nazewnictwo związków koordynacyjnych, izomeria związków koordynacyjnych. Równowagi jonowe w wodnych roztworach związków koordynacyjnych (skumulowane stałe trwałości kompleksów). 
+
+![[Pasted image 20240201152050.png]]
+
+![[Pasted image 20240201152138.png]]
+
+![[Pasted image 20240201152325.png]]
+
+![[Pasted image 20240201152342.png]]
+
+![[Pasted image 20240201154431.png]]
+
+![[Pasted image 20240201154456.png]]
+
+![[Pasted image 20240201154540.png]]
+
+![[Pasted image 20240201154759.png]]  
 ## Fizyka
 
 ### Kinematyka punktu materialnego.
@@ -291,3 +316,53 @@ Falę mogą podlegać:
 
 ### Hydrodynamika płynów – prawa.
 
+## Chemia fizyczna
+
+### Fazy, reguła faz i wykresy fazowe dla materiałów.
+
+![[Pasted image 20240131233455.png]]
+
+![[Pasted image 20240131233509.png]]
+
+### Ogniwa elektrochemiczne, wzór Nernsta.
+
+![[Pasted image 20240201000141.png]]
+
+![[Pasted image 20240201000202.png]]
+
+![[Pasted image 20240201000114.png]]
+
+### Wykres fazowy wody
+
+![[Pasted image 20240131233350.png]]
+
+
+
+## ## Metody badań, materiały zaawansowane
+
+### Jakie informacje można uzyskać o materiałach krystalicznych na podstawie badań krystalograficznych?
+
+![[Pasted image 20240201145359.png]]
+
+![[Pasted image 20240201145416.png]]
+
+### Komórki elementarne i układy krystalograficzne.
+
+
+![[Pasted image 20240201150052.png]]
+
+![[Pasted image 20240201150646.png]]
+
+![[Pasted image 20240201145908.png]]
+
+![[Pasted image 20240201145952.png]]
+
+![[Pasted image 20240201150137.png]]
+
+### Kryterium podziału ciał stałych na przewodniki, półprzewodniki i izolatory.
+
+![[Pasted image 20240201150908.png]]
+
+![[Pasted image 20240201150929.png]]
+
+![[Pasted image 20230211230856.png]]
