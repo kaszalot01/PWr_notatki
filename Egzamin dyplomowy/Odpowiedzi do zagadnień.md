@@ -314,7 +314,83 @@ Falę mogą podlegać:
 
 ### Statyka płynów – prawa.
 
+Ciśnienie płynu na głębokości h:
+
+$p=p_0+\rho g h$
+
+Prawo Pascala - zmiana ciśnienia cieczy jest równa zmianie ciśnienia zewnętrznego (i.e. ciecze są nieściśliwe - por. wzór powyżej)
+
+Prawo Archimedesa - ciało w całości lub częściowo zanurzone w płynie wypierane jest ku górze siłą równa ciężarowi płynu wypartego przez ciało.
+
+$F_w=\rho_{płynu} V_{części\ zanużonej}g$
+
 ### Hydrodynamika płynów – prawa.
+
+Równanie ciągłości
+
+![[Pasted image 20240201181641.png]]
+
+Równanie Bernoulliego
+
+![[Pasted image 20240201181801.png]]
+
+$p_1+\frac{\rho v_1^2}{2}+\rho g h_1=p_2+\frac{\rho v_2^2}{2}+\rho g h_2\ (+ewentualne\ straty)$
+
+
+### Pojęcia gęstości i lepkości.
+
+geśtość
+
+$\rho=\frac{m}{V}$
+
+![[Pasted image 20240201192030.png]]
+
+Prawo lepkości Newtona
+
+$\tau=\mu \frac{du}{dy}$
+$F=A\mu\frac{du}{dy}$ 
+## Pole grawitacyjne.
+
+$g=\frac{F}{m}$
+$F=\frac{Gm_1m_2}{R^2}$
+
+Nie ma chuja, że zapytają o pole grawitacyjne.
+
+### Pole elektryczne – podstawowe wielkości.
+
+$E=\frac{F}{q}$
+$F=\frac{kq_1q_2}{r^2}$
+$k=\frac{1}{4\pi \varepsilon_0}$
+
+### Prawo Gaussa.
+
+Strumień natężenia pola elektrycznego, przenikający przez dowolną powierzchnię zamkniętą w jednorodnym środowisku o bezwzględnej przenikalności elektrycznej $\varepsilon$, jest równy stosunkowi całkowitego ładunku znajdującego się wewnątrz tej powierzchni do wartości tejże przenikalności.
+
+Definicja strumienia:
+
+$\Phi_E=\oint \vec{E} \cdot \vec{dS}$ 
+
+Prawo Gaussa:
+
+$\Phi_E = \frac{q}{\varepsilon_0}$
+
+W przypadkach wysokiej symetrii rozkładu ładunków prawo Gaussa może być użyte do obliczenia natężenia pola E. (ładunek punktowy, drut o znanej gęstości ładunku, płyta o znanej gęstości ładunku)
+
+Dla ładunku punktowego powierzchnią Gaussa jest sfera:
+
+W każdym $dS$:
+
+$\vec{E} \parallel \vec{dS}$
+
+$\Phi_E=\oint \vec{E} \cdot \vec{dS}= E (4\pi r^2)$
+
+Na mocy prawa Gaussa:
+
+$E(4\pi r^2)=\frac{q}{\varepsilon_0}$
+$E=\frac{1}{4\pi\varepsilon_0}\frac{q}{r^2}$
+
+### Prawo Faradaya.
+
 
 ## Chemia fizyczna
 

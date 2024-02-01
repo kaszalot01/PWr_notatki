@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "8bd5d773581a3822",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semestr 5/5 Piątek/2 Metody badań materiałów/MBM 22.10.07.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "51191829a2624e40",
             "type": "leaf",
             "state": {
@@ -43,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Egzamin dyplomowy/Odpowiedzi do zagadnień.md",
+                "file": "Egzamin dyplomowy/O Zagadnienia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Egzamin dyplomowy/Odpowiedzi do zagadnień.md",
+                "file": "Egzamin dyplomowy/O Zagadnienia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Egzamin dyplomowy/Odpowiedzi do zagadnień.md"
+                "file": "Egzamin dyplomowy/O Zagadnienia.md"
               }
             }
           }
@@ -179,8 +168,14 @@
       "publish:Opublikuj zmiany": false
     }
   },
-  "active": "957bd96529534de3",
+  "active": "51191829a2624e40",
   "lastOpenFiles": [
+    "Egzamin dyplomowy/Odpowiedzi do zagadnień.md",
+    "Egzamin dyplomowy/O Zagadnienia.md",
+    "Egzamin dyplomowy/Pasted image 20240201192030.png",
+    "Semestr 5/5 Piątek/2 Metody badań materiałów/MBM 22.10.07.md",
+    "Egzamin dyplomowy/Pasted image 20240201181801.png",
+    "Egzamin dyplomowy/Pasted image 20240201181641.png",
     "Egzamin dyplomowy/Pasted image 20240201154759.png",
     "Egzamin dyplomowy/Pasted image 20240201154540.png",
     "Egzamin dyplomowy/Pasted image 20240201154456.png",
@@ -188,13 +183,6 @@
     "Egzamin dyplomowy/Pasted image 20240201152342.png",
     "Egzamin dyplomowy/Pasted image 20240201152325.png",
     "Egzamin dyplomowy/Pasted image 20240201152138.png",
-    "Egzamin dyplomowy/Pasted image 20240201152050.png",
-    "Egzamin dyplomowy/O Zagadnienia.md",
-    "Semestr 5/5 Piątek/2 Metody badań materiałów/MBM 22.10.07.md",
-    "Egzamin dyplomowy/Odpowiedzi do zagadnień.md",
-    "Egzamin dyplomowy/Pasted image 20240201150929.png",
-    "Egzamin dyplomowy/Pasted image 20240201150908.png",
-    "Egzamin dyplomowy/Pasted image 20240201150646.png",
     "Semestr 6/2 Wtorek/1 KZR/Bardzo leniwe notatki z krystalo.pdf",
     "Semestr 6/2 Wtorek/1 KZR/KZR 23.06.06.md",
     "Semestr 6/2 Wtorek/1 KZR/Pytel_Jan_258825.pdf",
