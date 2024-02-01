@@ -389,9 +389,37 @@ Na mocy prawa Gaussa:
 $E(4\pi r^2)=\frac{q}{\varepsilon_0}$
 $E=\frac{1}{4\pi\varepsilon_0}\frac{q}{r^2}$
 
+
+### Prawo Ohma
+
+Opór przewodnika nie zależy od przyłożonego napięcia.
+Stosunek napięcia do natężenia w obwodach prądu jest stały i równy R.
+
+Nie wszystkie obwody spełniają prawo Ohma - nie spełniają np. lampa próżniowa, termistor, memistor, dioda.
+
+![[Pasted image 20240201231840.png]]
+
+### Siła Lorenza i elektrodynamiczna.
+
+Siła Lorenca - siła działająca na ładunek poruszający się w polu magnetycznym
+
+$F=q \vec{v} \times \vec{B}$
+$|F|= q |v| |B| sin(\theta)$
+
+Siła elektrodynamiczna - siła lorenca działająca na drut długości $l$w którym płynie prąd $I$
+
+$F=I \vec{l} \times \vec{B}$
 ### Prawo Faradaya.
 
+Zmiana strumienia indukcji pola magnetycznego w czasie jest źródłem SEM.
 
+W przypadku pętli/prostokątnego przewodnika strumień indukcji można zmieniać:
+
+- poruszając przewodnikiem
+- zmieniając jego pole
+- zmieniają kąt między normalną powierzchni a wektorem indukcji
+
+$\mathcal{E}=-\frac{d}{dt}\int_S \vec{B} \cdot \vec{dS}$
 ## Chemia fizyczna
 
 ### Fazy, reguła faz i wykresy fazowe dla materiałów.

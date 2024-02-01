@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "21a706e930f28360",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Semestr 7/MZT Lab/ćw 5.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Egzamin dyplomowy/O Zagadnienia.md",
+                "file": "Semestr 7/MZT Lab/ćw 5.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Egzamin dyplomowy/O Zagadnienia.md",
+                "file": "Semestr 7/MZT Lab/ćw 5.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Egzamin dyplomowy/O Zagadnienia.md"
+                "file": "Semestr 7/MZT Lab/ćw 5.pdf"
               }
             }
           }
@@ -168,10 +178,11 @@
       "publish:Opublikuj zmiany": false
     }
   },
-  "active": "51191829a2624e40",
+  "active": "21a706e930f28360",
   "lastOpenFiles": [
-    "Egzamin dyplomowy/Odpowiedzi do zagadnień.md",
     "Egzamin dyplomowy/O Zagadnienia.md",
+    "Egzamin dyplomowy/Odpowiedzi do zagadnień.md",
+    "Egzamin dyplomowy/Pasted image 20240201231840.png",
     "Egzamin dyplomowy/Pasted image 20240201192030.png",
     "Semestr 5/5 Piątek/2 Metody badań materiałów/MBM 22.10.07.md",
     "Egzamin dyplomowy/Pasted image 20240201181801.png",
@@ -182,7 +193,6 @@
     "Egzamin dyplomowy/Pasted image 20240201154431.png",
     "Egzamin dyplomowy/Pasted image 20240201152342.png",
     "Egzamin dyplomowy/Pasted image 20240201152325.png",
-    "Egzamin dyplomowy/Pasted image 20240201152138.png",
     "Semestr 6/2 Wtorek/1 KZR/Bardzo leniwe notatki z krystalo.pdf",
     "Semestr 6/2 Wtorek/1 KZR/KZR 23.06.06.md",
     "Semestr 6/2 Wtorek/1 KZR/Pytel_Jan_258825.pdf",
