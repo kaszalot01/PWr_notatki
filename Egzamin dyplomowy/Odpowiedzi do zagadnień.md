@@ -420,6 +420,12 @@ W przypadku pętli/prostokątnego przewodnika strumień indukcji można zmienia�
 - zmieniają kąt między normalną powierzchni a wektorem indukcji
 
 $\mathcal{E}=-\frac{d}{dt}\int_S \vec{B} \cdot \vec{dS}$
+
+## Falowa natura światła.
+
+![[Pasted image 20240202111130.png]]
+
+
 ## Chemia fizyczna
 
 ### Fazy, reguła faz i wykresy fazowe dla materiałów.
@@ -470,3 +476,21 @@ $\mathcal{E}=-\frac{d}{dt}\int_S \vec{B} \cdot \vec{dS}$
 ![[Pasted image 20240201150929.png]]
 
 ![[Pasted image 20230211230856.png]]
+
+
+### Właściwości światła laserowego.
+
+Unikalne właściwości światła laserowego:
+
+- małą szerokość linii emisyjnej (duża moc w emisyjnym obszarze widma)
+- wiązkę można uznać za:
+	- spolaryzowaną
+	- spójną w czasie i przestrzeni
+	- o bardzo małej rozbieżności
+
+| Właściwość | Zastosowanie |
+| ---- | ---- |
+| spójność | holografia |
+| monochromatyczność | spektroskopia, fizyka, medycyna, fotochemia |
+| kolimacja | spektroskopia, dalmierze, telekomunikacja, płyty CD, DVD |
+| intensywność | militarne, przemysł, medycyna |

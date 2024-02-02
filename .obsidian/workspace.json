@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "51191829a2624e40",
+            "id": "b20f74f162fd75e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,17 +32,43 @@
             }
           },
           {
-            "id": "21a706e930f28360",
+            "id": "6a07794a0b4ffe15",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Semestr 7/MZT Lab/ćw 5.pdf"
+                "file": "Semestr 5/2 Wtorek/2 Nanomateriały/NM 22.10.18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7dde33c006298b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Egzamin dyplomowy/Chemia fizyczna.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a794b8367704d952",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestr 5/1 Poniedziałek/1 Optyka materiałów/OM 22.11.28.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 7/MZT Lab/ćw 5.pdf",
+                "file": "Egzamin dyplomowy/O Zagadnienia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 7/MZT Lab/ćw 5.pdf",
+                "file": "Egzamin dyplomowy/O Zagadnienia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 7/MZT Lab/ćw 5.pdf"
+                "file": "Egzamin dyplomowy/O Zagadnienia.md"
               }
             }
           }
@@ -178,29 +204,44 @@
       "publish:Opublikuj zmiany": false
     }
   },
-  "active": "21a706e930f28360",
+  "active": "b20f74f162fd75e4",
   "lastOpenFiles": [
-    "Egzamin dyplomowy/O Zagadnienia.md",
+    "Egzamin dyplomowy/Chemia fizyczna.md",
+    "Semestr 5/2 Wtorek/2 Nanomateriały/NM 22.10.18.md",
     "Egzamin dyplomowy/Odpowiedzi do zagadnień.md",
-    "Egzamin dyplomowy/Pasted image 20240201231840.png",
-    "Egzamin dyplomowy/Pasted image 20240201192030.png",
+    "Semestr 5/1 Poniedziałek/1 Optyka materiałów/OM 22.11.28.md",
+    "Semestr 5/1 Poniedziałek/1 Optyka materiałów/OM 22.12.05.md",
+    "Semestr 5/1 Poniedziałek/1 Optyka materiałów/OM 22.12.12.md",
+    "Egzamin dyplomowy/O Zagadnienia.md",
+    "Semestr 5/1 Poniedziałek/1 Optyka materiałów/OM 22.11.21.md",
+    "Semestr 5/1 Poniedziałek/1 Optyka materiałów/OM 22.11.14.md",
+    "Semestr 5/1 Poniedziałek/1 Optyka materiałów/OM 22.10.24.md",
+    "Semestr 5/1 Poniedziałek/1 Optyka materiałów/OM 22.10.17.md",
+    "Semestr 5/1 Poniedziałek/1 Optyka materiałów/0 Optyka materiałów.md",
+    "Egzamin dyplomowy/Pytania z obrony 29.01..md",
+    "Semestr 5/2 Wtorek/2 Nanomateriały/NM 22.10.11.md",
+    "Semestr 5/2 Wtorek/2 Nanomateriały/Bez nazwy.md",
+    "Semestr 5/2 Wtorek/2 Nanomateriały/0 Nanomateriały.md",
+    "Semestr 5/5 Piątek/2 Metody badań materiałów/MBM - wykłady.md",
+    "Egzamin dyplomowy/Pasted image 20240202130726.png",
+    "Egzamin dyplomowy/Pasted image 20240202125532.png",
+    "Egzamin dyplomowy/Pasted image 20240202125436.png",
+    "Egzamin dyplomowy/Pasted image 20240202125404.png",
+    "Egzamin dyplomowy/Pasted image 20240202123835.png",
+    "Egzamin dyplomowy/Pasted image 20240202123828.png",
+    "Egzamin dyplomowy/Pasted image 20240202123535.png",
+    "Egzamin dyplomowy/Pasted image 20240202123528.png",
+    "Egzamin dyplomowy/Pasted image 20240202122046.png",
+    "Egzamin dyplomowy/Pasted image 20240202122028.png",
+    "Egzamin dyplomowy/egz-inż-IM-2020-21 (1).pdf",
+    "Semestr 7/MZT Lab/ćw 5.pdf",
     "Semestr 5/5 Piątek/2 Metody badań materiałów/MBM 22.10.07.md",
-    "Egzamin dyplomowy/Pasted image 20240201181801.png",
-    "Egzamin dyplomowy/Pasted image 20240201181641.png",
-    "Egzamin dyplomowy/Pasted image 20240201154759.png",
-    "Egzamin dyplomowy/Pasted image 20240201154540.png",
-    "Egzamin dyplomowy/Pasted image 20240201154456.png",
-    "Egzamin dyplomowy/Pasted image 20240201154431.png",
-    "Egzamin dyplomowy/Pasted image 20240201152342.png",
-    "Egzamin dyplomowy/Pasted image 20240201152325.png",
     "Semestr 6/2 Wtorek/1 KZR/Bardzo leniwe notatki z krystalo.pdf",
     "Semestr 6/2 Wtorek/1 KZR/KZR 23.06.06.md",
     "Semestr 6/2 Wtorek/1 KZR/Pytel_Jan_258825.pdf",
     "Semestr 6/2 Wtorek/1 KZR/Zagadnienia na kol 1.pdf",
     "Semestr 6/2 Wtorek/1 KZR/Zagadnienia na kol 1.md",
-    "Egzamin dyplomowy/Pytania z obrony 29.01..md",
     "Egzamin dyplomowy/Wtęp.md",
-    "Egzamin dyplomowy/egz-inż-IM-2020-21 (1).pdf",
     "Egzamin dyplomowy/Zagadnienia-na-Egzamin-IM-kompletne (1).docx",
     "Semestr 6/3 Środa/2 BM/BM 23.04.05.md",
     "Egzamin dyplomowy",
@@ -208,22 +249,8 @@
     "Semestr 6/3 Środa/2 BM/BM 23.03.22.md",
     "Semestr 6/3 Środa/2 BM/BM 23.03.15.md",
     "Semestr 6/3 Środa/2 BM/BM 23.03.08.md",
-    "Semestr 5/2 Wtorek/2 Nanomateriały/NM 22.10.18.md",
-    "Semestr 5/2 Wtorek/2 Nanomateriały/NM 22.10.11.md",
-    "Semestr 5/2 Wtorek/2 Nanomateriały/NM 22.11.22.md",
-    "Semestr 5/2 Wtorek/2 Nanomateriały/NM 22.11.29.md",
-    "Semestr 5/2 Wtorek/2 Nanomateriały/NM 22.11.15.md",
-    "Semestr 5/2 Wtorek/2 Nanomateriały/NM 22.11.08.md",
-    "Semestr 5/2 Wtorek/2 Nanomateriały/NM 22.10.25.md",
-    "Semestr 5/2 Wtorek/2 Nanomateriały/NM 23.01.17.md",
-    "Semestr 5/2 Wtorek/2 Nanomateriały/NM 23.01.10.md",
-    "Semestr 5/2 Wtorek/2 Nanomateriały/NM 22.12.20.md",
-    "Semestr 5/2 Wtorek/2 Nanomateriały/NM 22.12.13.md",
-    "Semestr 5/2 Wtorek/2 Nanomateriały/NM 22.12.06.md",
-    "Semestr 6/1 Poniedziałek/2 TP/TP 23.04.17.md",
     "Semestr 7/Ergonomia",
     "Bez nazwy.canvas",
-    "Semestr 7/MZT Lab/ćw 5.pdf",
     "Semestr 7/SD",
     "Semestr 7/Anatomia"
   ]
