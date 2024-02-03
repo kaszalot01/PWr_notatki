@@ -301,7 +301,7 @@ sztuczka "sinus kąta=kąt" i kończymy z analogicznym równaniem różniczkowym
 Podłużne (kierunek drgań zgodny z kierunkiem propagacji)
 Poprzeczne (kierunek prostopadły)
 
-$$y=y_msin(kx-\omega t -\varphi)$$
+$$y(x,t)=y_msin(kx-\omega t -\varphi)$$
 $$k=\frac{2\pi}{\lambda}$$
 $$\omega=\frac{2\pi}{T}$$
 Falę mogą podlegać:
@@ -312,6 +312,21 @@ Falę mogą podlegać:
 
 ### Falowa natura światła.
 
+Z równań Maxwell można wyprowadzić funkcje zmiany wektorów pola elektrycznego i magnetycznego od czasu $t$ i pozycji w kierunku rozchodzenia $x$.
+
+$E_y(x,t)=E_m sin(kx-\omega t)$
+$B_z(x,t)=B_m sin (kx- \omega t)$
+
+
+![[Pasted image 20240202111130.png]]
+
+![[Pasted image 20240202202804.png]]
+
+### Fotoefekt
+
+![[Pasted image 20240202203730.png]]
+
+Za tak banalną rzecz dawali Nobla
 ### Statyka płynów – prawa.
 
 Ciśnienie płynu na głębokości h:
@@ -349,7 +364,7 @@ Prawo lepkości Newtona
 
 $\tau=\mu \frac{du}{dy}$
 $F=A\mu\frac{du}{dy}$ 
-## Pole grawitacyjne.
+### Pole grawitacyjne.
 
 $g=\frac{F}{m}$
 $F=\frac{Gm_1m_2}{R^2}$
@@ -406,7 +421,7 @@ Siła Lorenca - siła działająca na ładunek poruszający się w polu magnetyc
 $F=q \vec{v} \times \vec{B}$
 $|F|= q |v| |B| sin(\theta)$
 
-Siła elektrodynamiczna - siła lorenca działająca na drut długości $l$w którym płynie prąd $I$
+Siła elektrodynamiczna - siła lorenca działająca na drut długości $l$, w którym płynie prąd $I$
 
 $F=I \vec{l} \times \vec{B}$
 ### Prawo Faradaya.
@@ -421,9 +436,7 @@ W przypadku pętli/prostokątnego przewodnika strumień indukcji można zmienia�
 
 $\mathcal{E}=-\frac{d}{dt}\int_S \vec{B} \cdot \vec{dS}$
 
-## Falowa natura światła.
 
-![[Pasted image 20240202111130.png]]
 
 
 ## Chemia fizyczna
@@ -458,8 +471,7 @@ $\mathcal{E}=-\frac{d}{dt}\int_S \vec{B} \cdot \vec{dS}$
 
 ### Komórki elementarne i układy krystalograficzne.
 
-
-![[Pasted image 20240201150052.png]]
+PIFABC
 
 ![[Pasted image 20240201150646.png]]
 
@@ -478,7 +490,7 @@ $\mathcal{E}=-\frac{d}{dt}\int_S \vec{B} \cdot \vec{dS}$
 ![[Pasted image 20230211230856.png]]
 
 
-### Właściwości światła laserowego.
+### Właściwości światła laserowego. (+ lasery ogółem)
 
 Unikalne właściwości światła laserowego:
 
@@ -494,3 +506,36 @@ Unikalne właściwości światła laserowego:
 | monochromatyczność | spektroskopia, fizyka, medycyna, fotochemia |
 | kolimacja | spektroskopia, dalmierze, telekomunikacja, płyty CD, DVD |
 | intensywność | militarne, przemysł, medycyna |
+> dodatek - 3-poziomowe i 4-poziomowe lasery https://www.youtube.com/watch?v=OOwXItfSE4g
+
+![[Pasted image 20240202213537.png]]
+
+![[Pasted image 20240202220133.png]]
+
+
+### ### Techniki badawcze nanomateriałów
+
+Wybrane techniki charakteryzacji
+
+|Narzędzie |Zasada działania |Uzyskana informacja|
+|-|-|-|
+|XRD - dyfrakcja rentgenowska| dyfrakcja Bragga |krystalografia, informacja o strukturze|
+|TEM/HRTEM/SEM - transmisyjna/skaningowa mikroskopia elektronowa |wiązka elektronów przenika próbkę lub jest od niej odbita|morfologia - kształt, rozmiar|
+|STM/AFM - mikroskopia sił atomowych |technika wykorzystująca sondę skanującą |obraz powierzchni z rozdzielczością atomową|
+|UV/Vis| struktura elektronowa, przejścia promieniste |widma|
+|TCSPC - time correlated single photon counting| ultraszybka spektroskopia laserowa, kwantowo-mechaniczna natura luminescencji| czas życia luminescencji|
+| DLS - dynamiczne rozpraszanie światła| rozpraszanie światła, ruchy Browna| stopień agregacji, wykres rozkładu wielkości cząstek|
+![[Pasted image 20240202223100.png]]
+
+
+### Właściwości układów koloidalnych.
+
+![[Pasted image 20240203010430.png]]
+
+![[Pasted image 20240203010907.png]]
+
+![[Pasted image 20240203011154.png]]
+
+![[Pasted image 20240203011248.png]]
+
+![[Pasted image 20240203011541.png]]

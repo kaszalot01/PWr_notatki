@@ -51,30 +51,30 @@ Całki i pochodne
 20. Siła Lorenza i elektrodynamiczna.
 ## Chemia fizyczna
 
-1. Absorpcja promieniowania elektromagnetycznego w podczerwieni, świetle widzialnym i nadfiolecie.
-2. Diagram Jabłońskiego.
-3. Diamagnetyzm, paramagnetyzm i ferromagnetyzm.
+1. **Absorpcja promieniowania elektromagnetycznego w podczerwieni, świetle widzialnym i nadfiolecie.**
+2. **Diagram Jabłońskiego.**
+3. **Diamagnetyzm, paramagnetyzm i ferromagnetyzm.**
 4. Entropia: definicja, znaczenie dla odwracalności procesu. 
-5. Fazy, reguła faz i wykresy fazowe dla materiałów.
+5. **Fazy, reguła faz i wykresy fazowe dla materiałów.**
 6. Kalorymetria, krzywe ostygania w układach z eutektykiem.
-7. Kinetyka reakcji: wyznaczanie rzędu reakcji.
-8. Luminescencja i fosforescencja na przykładzie diagramu Jabłońskiego.
-9. Magnetyczne właściwości materii.
-10. Metoda absorpcyjnej krzywej wzorcowej.
-11. Metody spektroskopowe.
-12. Spektroskopia Ir vs. UV-Vis.
-13. Napięcie powierzchniowe i międzyfazowe.
-14. Ogniwa elektrochemiczne, wzór Nernsta.
+7. **Kinetyka reakcji: wyznaczanie rzędu reakcji.**
+8. **Luminescencja i fosforescencja na przykładzie diagramu Jabłońskiego.**
+9. **Magnetyczne właściwości materii.**
+10. **Metoda absorpcyjnej krzywej wzorcowej.**
+11. **Metody spektroskopowe.**
+12. **Spektroskopia Ir vs. UV-Vis.**
+13. **Napięcie powierzchniowe i międzyfazowe.**
+14. **Ogniwa elektrochemiczne, wzór Nernsta.**
 15. Podstawowe funkcje termodynamiczne: U, H, S, F, G.
 16. Podstawy termodynamiczne stabilności materiałów: prawa termodynamiki.
 17. Potencjał chemiczny: definicja i zastosowanie dla stanów równowagi.
-18. Prawo Lamberta-Beera.
+18. **Prawo Lamberta-Beera.**
 19. Przemiany fazowe pierwszego i drugiego rodzaju.
 20. Przewodnictwo elektryczne elektrolitów, ruchliwość jonów.
-21. Reguły zapisu schematów ogniw elektrochemicznych.
+21. **Reguły zapisu schematów ogniw elektrochemicznych.**
 22. Transport ciepła w materiałach.
-23. Współczynnik załamania światła materiałów optycznych.
-24. Wykres fazowy dla wody.
+23. **Współczynnik załamania światła materiałów optycznych.**
+24. **Wykres fazowy dla wody.**
 
 ## Metody badań, materiały zaawansowane
 
