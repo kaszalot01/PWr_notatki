@@ -449,7 +449,9 @@ $\mathcal{E}=-\frac{d}{dt}\int_S \vec{B} \cdot \vec{dS}$
 
 ### Ogniwa elektrochemiczne, wzór Nernsta.
 
-![[Pasted image 20240201000141.png]]
+![[Pasted image 20240203141429.png]]
+
+
 
 ![[Pasted image 20240201000202.png]]
 

@@ -1,6 +1,110 @@
+## Termodynamika
+
+**Energia wewnętrzna** to energia jaką przypisujemy układowi. Może się zmieniać poprzez wykonywanie pracy i wymianę ciepła.
+
+$$\Delta U=Q+W$$
+
+**Pierwsza zasada termodynamiki** - energia wewnętrzna układu izolowanego jest stała.
+
+Praca objętościowa:
+
+![[Pasted image 20240203122528.png]]
+
+$$W=\int -F dz=\int-\frac{F}{A}Adz=\int -p_{ex}dV$$
+
+$$dU=dQ-pdV$$
+
+W stałej objętości ($dV=0$) zmiana energii wewnętrznej jest równa ciepłu. Izolowanym układem, który nie pozwala na zmianę objętości jest bomba kalorymetryczna. Powołując się na pierwszą zasadę termodynamiki, można w niej zmierzyć zmianę energii wewnętrznej jakiegoś procesu (np. reakcja chemiczna podgrzeje wodę w kalorymetrze, wyznaczymy ciepło które zyskała woda, na mocy 1ZTD jest to takie samo ciepło, jakie wygenerowała reakcja)
+
+**Entalpia** - taka miara energii, która jest równa ciepłu kiedy nie zmienia się ciśnienie.
+
+$$H=U+pV$$
+$$dH=dU+d(pV)$$
+$$dH=dU+pdV+Vdp$$
+$$(dU=dQ-pdV)$$
+$$dH=dQ+Vdp$$
+
+Pojemność cieplna
+
+$$C=\frac{dQ}{dT}$$
+Łatwo można zauważyć, że
+
+$$C_{dv=0}=\frac{dU}{dT}$$
+$$C_{dp=0}=\frac{dH}{dT}$$
+
+**Prawo Hessa**
+
+$$\Delta H^{\circleddash}=\Sigma_{produktów}  n \Delta_{tw}H^{\circleddash}-\Sigma_{substratów} n \Delta_{tw}H^{\circleddash}$$
+
+**Entropia** - taka miara, której zmiana określa kierunek samorzutnych procesów. Procesy następują samorzutnie, kiedy ich skutkiem jest wzrost entropii. Zmianę entropii określono następująco. Proces jest odwracalny (myślmy: samorzutny w obie strony) gdy wartość zmiany entropii jest zerowa.
+
+$$dS=\frac{dQ}{T}$$
+
+Zmiana entropii w wybranych procesach
+
+Rozprężanie gazu 
+$$ \Delta S = nRln\frac{V_k}{V_p}$$
+$$V_k>V_p$$
+$$\Delta S >0$$
+
+Zwiększanie temperatury
+
+$$\Delta S = Cln\frac{T_k}{T_p}$$
+Przemiana fazowa
+
+$$d S = \frac{dH}{T}$$
+
+**Druga zasada termodynamiki** - entropia wszechświata ma tendencję do zwiększania się.
+
+Inne sformułowania:
+
+- Zmiana entropii $dS$ dla dowolnego procesu rzeczywistego w układzie odosobnionym spełnia nierówność $dS\geq0$ Równość zachodzi tylko dla procesów odwracalnych.
+- Nie istnieje proces termodynamiczny, którego jedynym wynikiem byłoby pobranie ciepła ze zbiornika o temperaturze niższej i przekazanie go do zbiornika o temperaturze wyższej.
+- Nie jest możliwy proces, którego jedynym skutkiem byłoby pobranie pewnej ilości ciepła ze zbiornika i zamiana go w równoważną ilość pracy.
+- Nie istnieje demon termodynamiczny Maxwella.
+
+Standardowe zmiany entropi procesów można sumować jak standardowe zmiany entalpi, ale standardowa entropia tworzenia pierwiastków nie jest równa 0.
+
+![[Pasted image 20240203133323.png]]
+
+**Entalpia swobodna** - w stałej temperaturze i pod stałym ciśnieniem $$\Delta G=-T \Delta S_{całkowita}$$
+
+Dzięki temu łatwo może służyć do określania samorzutności procesów.
+
+Dodatkowo
+
+$$\Delta_r G=\Delta_r G^\circleddash + RTlnQ$$
+$$Q=\Pi_i (x_i^{\nu_i})$$
+### Potencjał chemiczny
+
+$$\mu_i=\frac{dG}{dn_i}$$
+
+$$\mu_i=\mu_i^\circleddash+RTln(x_i)$$
+
+Dla reakcji:
+
+$N_2+3H_2=2NH_3$
+
+$$dG=-\mu_{N_2}dn-3\mu_{H_2}dn+2\mu_{NH_3}dn$$
+dn - postęp reakcji
+
+W stanie równowagi:
+
+$$\frac{dG}{dn}=0$$
+Szuruburu:
+
+$$ln\frac{x_{NH_3}^2}{x_{N_2}x_{H_2}^3}=jakieś\ stałe$$
+a to już jest prawo działania mas!
+
+
 ### Kinetyka reakcji: wyznaczanie rzędu reakcji.
 
+
+
 ![[Pasted image 20240202122046.png]]
+
+Reakcja: $a+b(+...) \rightarrow c$
+$r=k[a]^{\alpha}[b]^{\beta}...$
 
 Bierzemy nadmiar wszystkich substratów poza jednym - równanie upraszcza się i możemy wyznaczyć rząd dla reagenta w niedomiarze. Potem można zrobić tak samo dla innych reagentów i otrzymamy równanie kinetyczne.
 
@@ -142,3 +246,8 @@ Ferromagnetyki - silne właściwości magnetyczne. Każdy atom wytwarza własne 
 ## Napięcie powierzchniowe i międzyfazowe.
 
 ![[Pasted image 20240203010554.png]]
+
+
+## Transport ciepła w materiałach.
+
+![[Pasted image 20240203135542.png]]
