@@ -8,9 +8,9 @@ Tematy wykładów
 
 Klasyfikacja metod badania materiałów
 
-- wiązki elektronowej (?)
+- wiązki elektronowej 
 	- SEM
-	- TEM (?)
+	- TEM 
 - siły atomowe oraz zjawiska tunelowania
 	- AFM
 	- STM

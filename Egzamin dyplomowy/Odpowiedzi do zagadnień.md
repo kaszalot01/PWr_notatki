@@ -218,6 +218,13 @@ Hydroliza wieloetapowa
 ![[Pasted image 20240201154540.png]]
 
 ![[Pasted image 20240201154759.png]]  
+
+### Izomeria
+
+- konstytucyjna - inny układ wiązań np. propanol/izopropanol
+- konformacyjna
+	- geometryczna/E-Z/cis-trans np. azobenzen, but-2-en
+	- optyczna - cząsteczki lustrzane np. glukoza
 ## Fizyka
 
 ### Kinematyka punktu materialnego.
@@ -268,12 +275,15 @@ $$ a_r=\frac{v^2}{r}=\omega^2r$$
 
 ### Definicje stałej sprężystości, modułu Younga oraz współczynnika Poissona.
 
-https://oze.pwr.edu.pl/kursy/fizykacw/content/start/K-07-03-01-04.html
+
+$$ F=-kx$$
+
 
 stała sprężystości - k
 
-$$ F=-kx$$
 sprężyny łączymy tak jak kondensatory (na odwrót jak oporniki)
+patrz: https://oze.pwr.edu.pl/kursy/fizykacw/content/start/K-07-03-01-04.html
+
 
 ![[Pasted image 20240131000142.png]]
 
@@ -441,6 +451,276 @@ $\mathcal{E}=-\frac{d}{dt}\int_S \vec{B} \cdot \vec{dS}$
 
 ## Chemia fizyczna
 
+### Termodynamika
+
+**Energia wewnętrzna** to energia jaką przypisujemy układowi. Może się zmieniać poprzez wykonywanie pracy i wymianę ciepła.
+
+$$\Delta U=Q+W$$
+
+**Pierwsza zasada termodynamiki** - energia wewnętrzna układu izolowanego jest stała.
+
+Praca objętościowa:
+
+![[Pasted image 20240203122528.png]]
+
+$$W=\int -F dz=\int-\frac{F}{A}Adz=\int -p_{ex}dV$$
+
+$$dU=dQ-pdV$$
+
+W stałej objętości ($dV=0$) zmiana energii wewnętrznej jest równa ciepłu. Izolowanym układem, który nie pozwala na zmianę objętości jest bomba kalorymetryczna. Powołując się na pierwszą zasadę termodynamiki, można w niej zmierzyć zmianę energii wewnętrznej jakiegoś procesu (np. reakcja chemiczna podgrzeje wodę w kalorymetrze, wyznaczymy ciepło które zyskała woda, na mocy 1ZTD jest to takie samo ciepło, jakie wygenerowała reakcja)
+
+**Entalpia** - taka miara energii, która jest równa ciepłu kiedy nie zmienia się ciśnienie.
+
+$$H=U+pV$$
+$$dH=dU+d(pV)$$
+$$dH=dU+pdV+Vdp$$
+$$(dU=dQ-pdV)$$
+$$dH=dQ+Vdp$$
+
+Pojemność cieplna
+
+$$C=\frac{dQ}{dT}$$
+Łatwo można zauważyć, że
+
+$$C_{dv=0}=\frac{dU}{dT}$$
+$$C_{dp=0}=\frac{dH}{dT}$$
+
+**Prawo Hessa**
+
+$$\Delta H^{\circleddash}=\Sigma_{produktów}  n \Delta_{tw}H^{\circleddash}-\Sigma_{substratów} n \Delta_{tw}H^{\circleddash}$$
+
+**Entropia** - taka miara, której zmiana określa kierunek samorzutnych procesów. Procesy następują samorzutnie, kiedy ich skutkiem jest wzrost entropii. Zmianę entropii określono następująco. Proces jest odwracalny (myślmy: samorzutny w obie strony) gdy wartość zmiany entropii jest zerowa.
+
+$$dS=\frac{dQ}{T}$$
+
+Zmiana entropii w wybranych procesach
+
+Rozprężanie gazu 
+$$ \Delta S = nRln\frac{V_k}{V_p}$$
+$$V_k>V_p$$
+$$\Delta S >0$$
+
+Zwiększanie temperatury
+
+$$\Delta S = Cln\frac{T_k}{T_p}$$
+Przemiana fazowa
+
+$$d S = \frac{dH}{T}$$
+
+**Druga zasada termodynamiki** - entropia wszechświata ma tendencję do zwiększania się.
+
+Inne sformułowania:
+
+- Zmiana entropii $dS$ dla dowolnego procesu rzeczywistego w układzie odosobnionym spełnia nierówność $dS\geq0$ Równość zachodzi tylko dla procesów odwracalnych.
+- Nie istnieje proces termodynamiczny, którego jedynym wynikiem byłoby pobranie ciepła ze zbiornika o temperaturze niższej i przekazanie go do zbiornika o temperaturze wyższej.
+- Nie jest możliwy proces, którego jedynym skutkiem byłoby pobranie pewnej ilości ciepła ze zbiornika i zamiana go w równoważną ilość pracy.
+- Nie istnieje demon termodynamiczny Maxwella.
+
+Standardowe zmiany entropi procesów można sumować jak standardowe zmiany entalpi, ale standardowa entropia tworzenia pierwiastków nie jest równa 0.
+
+![[Pasted image 20240203133323.png]]
+
+**Entalpia swobodna** - w stałej temperaturze i pod stałym ciśnieniem $$\Delta G=-T \Delta S_{całkowita}$$
+
+Dzięki temu łatwo może służyć do określania samorzutności procesów.
+
+Dodatkowo
+
+$$\Delta_r G=\Delta_r G^\circleddash + RTlnQ$$
+$$Q=\Pi_i (x_i^{\nu_i})$$
+### Potencjał chemiczny, związek z prawem działania mas
+
+$$\mu_i=\frac{dG}{dn_i}$$
+
+$$\mu_i=\mu_i^\circleddash+RTln(x_i)$$
+
+Dla reakcji:
+
+$N_2+3H_2=2NH_3$
+
+$$dG=-\mu_{N_2}dn-3\mu_{H_2}dn+2\mu_{NH_3}dn$$
+dn - postęp reakcji
+
+W stanie równowagi:
+
+$$\frac{dG}{dn}=0$$
+Szuruburu, pełne wyprowadzenie w Bielańskim:
+
+$$ln\frac{x_{NH_3}^2}{x_{N_2}x_{H_2}^3}=jakieś\ stałe$$
+a to już jest prawo działania mas!
+
+
+
+### Krzywa chłodzenia eutektyki
+
+![[Pasted image 20240204004959.png]]
+
+### Przemiany fazowe pierwszego i drugiego rodzaju
+
+![[Pasted image 20240204005409.png]]
+
+Przykład przemiany pierwszego rodzaju - wrzenie wody: nie ważne ile ciepła dostarczymy, temperatura będzie taka sama (100st. C), a więc pojemność cieplna rośnie ad infinium.
+
+Przykład przemiany drugiego rodzaju - przejście przewodnik-nadprzewodnik w metalach pry b. niskich temperaturach.
+
+### Kinetyka reakcji: wyznaczanie rzędu reakcji.
+
+
+
+![[Pasted image 20240202122046.png]]
+
+Reakcja: $a+b(+...) \rightarrow c$
+$r=k[a]^{\alpha}[b]^{\beta}...$
+
+Bierzemy nadmiar wszystkich substratów poza jednym - równanie upraszcza się i możemy wyznaczyć rząd dla reagenta w niedomiarze. Potem można zrobić tak samo dla innych reagentów i otrzymamy równanie kinetyczne.
+
+![[Pasted image 20240202121953.png]]
+
+Jak wyznaczyć rząd reakcji? Mierzyć stężenia w czasie i dopasować krzywą według scałkowanego równania kinetycznego.
+
+Albo najlepiej wyznaczyć zależność log(dc/dt) od log(kc) i wtedy nachylenie będzie równe rzeędowi.
+
+### Światło a materia
+
+![[Pasted image 20240202123528.png]]
+
+![[Pasted image 20240202123535.png]]
+
+### Prawo Lamberta-Beera
+
+![[Pasted image 20240202123828.png]]
+
+![[Pasted image 20240202123835.png]]
+
+### Współczynnik załamania światła materiałów optycznych.
+
+
+![[Pasted image 20240202125404.png]]
+
+
+![[Pasted image 20240202125436.png]]
+
+### Spektroskopia
+
+![[Pasted image 20240202202602.png]]
+
+![[Pasted image 20240202202458.png]]
+
+#### UV-Vis
+
+![[Pasted image 20240202221726.png]]
+
+![[Pasted image 20240202221741.png]]
+
+*dzięki uprzejmości Marka Czyszczonia*
+
+### Spektrofluorymetria
+
+![[Pasted image 20240202222123.png]]
+
+*dzięki uprzejmości Marka Czyszczonia*
+
+![[Pasted image 20240202222352.png]]
+
+![[Pasted image 20240202222423.png]]
+
+### IR
+
+![[Pasted image 20240202223334.png]]
+
+![[Pasted image 20240202223510.png]]
+
+![[Pasted image 20240202223647.png]]
+
+![[Pasted image 20240202224021.png]]
+
+### Raman
+
+![[Pasted image 20240202224209.png]]
+
+![[Pasted image 20240202224238.png]]
+
+> poprawnie mówimy "stołksowskie", nie "sztokesowskie", Stokes był Irlandczykiem
+
+![[Pasted image 20240202224808.png]]
+
+![[Pasted image 20240202224820.png]]
+
+![[Pasted image 20240202224927.png]]
+
+![[Pasted image 20240202225021.png]]
+
+![[Pasted image 20240202225119.png]]
+
+> En.based odpowiedź na pytanie o różnice między IR a ramanem - cena
+
+### UPS, XPS
+
+![[Pasted image 20240202233022.png]]
+
+![[Pasted image 20240202233137.png]]
+
+*dzięki uprzejmości Marka Czyszczonia*
+
+![[Pasted image 20240202233248.png]]
+
+![[Pasted image 20240202233315.png]]
+
+### NMR
+
+Wirujące, dodatnio naładowane jądro atomowe generuje moment magnetyczny.
+
+(Tylko jądra atomowe o nieparzystej liczbie nukleonów ($^1H,\  ^{13}C$) można obserwować w spektroskopii NMR.)
+
+Spin jądrowy kwantuje jądrowy moment magnetyczny (tzn. moment zależy od spinu, a spin przyjmuje dyskretne wartości)
+
+![[Pasted image 20240202235426.png]]
+
+W zewnętrznym polu magnetycznym, obecność momentu magnetycznego jądra powoduje ruch precesyjny wektora momentu pędu jądra (nie ważne co to za wektor, ważne że się kręci). Ruch odbywa się po skwantowanych orbitach, z którymi związane są skwantowane poziomy energii.
+
+Dla wodoru sprawa jest prosta - dwie orbity, dwa poziomy.
+
+![[Pasted image 20240202235815.png]]
+
+![[Pasted image 20240202235936.png]]
+
+
+
+No i rzucamy w próbkę fale EM radiowej częstotliwości która jest spolaryzowana kołowo i dzięki temu częstotliwość się zmienia w czasie (jakoś, don't ask my how), i jak częstotliwości pasują, to energia pasuje do różnicy poziomów i jest rezonans. 
+
+Ale zaraz, zaraz, skoro to zawsze jest wodór, to różnica poziomów powinna być zawsze taka sama - do dupy taka metoda. Otóż nie, bo atomy wodoru są otoczone elektronami w różny sposób, stąd trochę różne energie, a stąd przesunięcie chemiczne. Sąsiednie jądra też wpływają, jak są takie same, to jednak trochę się różnią i stąd multiplety.
+
+![[Pasted image 20240203002406.png]]
+
+![[Pasted image 20240203002720.png]]
+
+
+### Materiały magnetyczne
+
+Diamagnetyki - mają wszystkie elektrony sparowane, atom **nie ma trwałego momentu magnetycznego**. Po umieszczeniu d-a w zewnętrznym polu magnetycznym ładunki dążą do częściowego ekranowania wnętrza ciała przez przyłożonym polem. (Teoria Langevin - magnetyzm robi prąd -> prąd robi magnetyzm przeciwny; jakieś NMRowe zaklęcia typu precesja)
+Diamagnetyki magnetyzują się w bardzo słabym stopniu i w kierunku przeciwnym do kierunku działania zewnętrznego pola magnetycznego
+Ten rodzaj magnetyzacji jest niezależny od temperatury
+
+Paramagnetyki - posiadają co najmniej jeden niesparowany elektron, co skutkuje **trwałym momentem magnetycznym dla danego atomu**. Przy braku uporządkowania **wypadkowy moment magnetyczny jest zerowy**.
+Gdy umieścimy paramagnetyk w zewnętrznym polu magnetycznym, materiał magnetyzuje się w nieznacznym stopniu w kierunku zgodnym z kierunkiem działania zewnętrznego pola magnetycznego.
+Magnetyzacja odwrotnie proporcjonalna do temperatury 
+
+Ferromagnetyki - silne właściwości magnetyczne. Każdy atom wytwarza własne pole magnetyczne. Atomy ustawiają się tak aby pole magnetyczne cząstek było zgodne z p.m. sąsiadów. Obszary tego samego kierunku nazywamy domenami. Pole magnetyczne domen mogą być ustawione w dowolnym kierunku.**Przy przyłożeniu zewnętrznego pola domeny ustawiają się w jego kierunku. Domeny nie wracają do ustawienia chaotycznego po ustaniu zewnętrznego p.m. - pozostałość magnetyczna.** Ten magnetyzm nie jest proporcjonalny do zewnętrznego pola i jest odwrotnie proporcjonalny do różnicy temperatury bezwzględnej i temperatury krytycznej (punku Curie) $T-\theta$. Ferromagnetyki występują jedynie w postaci ciał stałych (pozostałe mogły mieć inne stany skupienia) W stanie ciekłym i gazowym ferromagnetyki zachowują się jak paramagnetyki.
+
+![[Pasted image 20240203004052.png]]
+
+![[Pasted image 20240203005551.png]]
+
+### Napięcie powierzchniowe i międzyfazowe.
+
+![[Pasted image 20240203010554.png]]
+
+
+### Transport ciepła w materiałach.
+
+![[Pasted image 20240203135542.png]]
+
+
 ### Fazy, reguła faz i wykresy fazowe dla materiałów.
 
 ![[Pasted image 20240131233455.png]]
@@ -463,13 +743,175 @@ $\mathcal{E}=-\frac{d}{dt}\int_S \vec{B} \cdot \vec{dS}$
 
 
 
-## ## Metody badań, materiały zaawansowane
+## Metody badań, materiały zaawansowane
+
+### Mikroskopie 
+
+- wiązki elektronowej 
+	- SEM
+	- TEM 
+- siły atomowe oraz zjawiska tunelowania
+	- AFM
+	- STM
+
+#### SEM
+
+Schemat przejścia wiązki elektronów przez próbkę w SEM
+
+![[Pasted image 20221220220259.png]]
+
+![[Pasted image 20240203233002.png]]
+Schemat mikroskopu SEM
+
+![[Pasted image 20221220220456.png]]
+
+![[Pasted image 20240203233037.png]]
+
+
+Możemy mierzyć:
+
+- elektrony wtórne (secondary electrons, SE)
+- elektrony wtórnie rozproszone (back scattered electrons, BSE)
+- promienie x, charakterystyczne dla przeskoku elektronów z powłoki walencyjne na niższą, z której wybito elektron
+
+
+![[Pasted image 20240203233127.png]]
+
+Badana próbka musi spełniać następujące warunki:
+
+- musi mieć odpowiednią konduktywność elektryczną - dielektryki dają dupy
+- powinna mieć wysoki współczynnik emisji wtórnej - nie rozpraszać wiązki
+- musi dać się dobrze zamocować na stoliku - proszki, preparaty biologiczne (próżnia przeszkadza)
+
+Gdy próbka jest nieprzewodząca, należy ją pokryć cienką warstwą (do 90nm) metalu - Au, Pt lub warstwą węgla, historycznie również Cu.
+
+SEMem można mierzyć topografię oraz skład próbki (TOPO/COMPO)
+
+Rozdzielczość - do 3nm
+
+#### TEM vs SEM
+
+TEM  - operuje na wiązce elektronów, większa rozdzielczość
+
+Porównanie SEM/TEM
+
+| |SEM|TEM|
+|-|-|-|
+|typ elektronów| rozproszone, odbite, "skanujące"| przechodzące|
+|napięcie przyspieszające| 1-30kV| 60-300kV|
+|grubość próbki| obojętnie| **<150nm** |
+|informacja| obraz 3D powierzchni| obraz projekcyjny 2D mikrostruktury|
+|max. powiększenie| 1-2 miliony| >50 miliony|
+|pole widzenia| duże| ograniczone|
+|rozdzielczość  | **3nm** | **0.1nm** |
+|formowanie obrazu| elektrony zliczanie przez detektory, komputer wyświetla obraz| bezpośrednie obrazowanie na ekranie fluorescencyjnym lub ekranie komputera z CCD|
+|działanie/obsługa| łatwy w użyciu, względnie mało skomplikowane przygotowanie próbki| pracochłonne przygotowanie próbki, używanie wymaga przeszkolenia|
+|układ optyczny| formowanie wiązki przed próbką, detektory przed próbką (zbierają "odbite") | układ optyczny przez i za próbką, ekran fluorescencyjny za próbką|
+
+Budowa TEM:
+
+- Działo elektronowe - na szczycie kolumny, z wolframu 
+- soczewki elektromagnetyczne
+- próbka - cienka
+- dalszy układ optyczny - dostrajamy wiązkę 
+- ekran fluorescencyjny
+
+Przygotowanie próbek TEM:
+
+- mechaniczne
+	- ultramikrotomia - cięcie diamentowym ostrzem
+	- łamanie, kruszenie, polerowanie mechaniczne
+- mechaniczno-chemiczne
+	- skoncentrowana wiązka jonów (FIB)
+	- trawienie chemiczne
+	- polerowanie elektrochemiczne
+#### STM i AFM
+
+STM - skaningowy mikroskop tunelowy. Służy do badania materiałów przewodzących w nanoskali. Wykorzystuje zjawisko tunelowania elektronów między igłą pomiarową a próbką, po przyłożeniu napięcia rzędu kilku woltów. Igła pomiarowa powinna mieć koniec średnicy rzędu nanometrów (idealnie by było jeden atom ale tak nigdy nie jest). Gdy odległość miedzy igłą a próbką jest od 0.4 do 0.7 nm, to elektron przeskakuje przez barierę potencjału w wyniku tunelowania (emisji polowej).
+
+W STM stosowane są dwa mody pomiarowe:
+
+- mod stałej odległości - stała odległość sondy podczas ruchu w płaszczyźnie XY - rejestruje się zmiany prądu tunelowego między sondą a próbką, który pozwala odwzorować kształt powierzchni. Stosowany jest do płaskiej powierzchni. Daje wysoką rozdzielczość obrazu. Pozwala na dużą szybkość skanowania. 
+- mod stałego prądu - stały prąd między sondą a próbką - odległość między igłą próbką regulowane jest tak, aby zachować stałą wartość prądu - obraz powierzchni próbki powstaje na podstawie zarejestrowanych wychyleń igły skanującej. Pozwala na dobre odwzorowanie topografii powierzchni. Daje małą rozdzielczość poziomą obrazu.
+
+`rysunek STM w zeszycie (ważne: napięcie polaryzacyjne)`
+
+![[Pasted image 20230212234212.png]]
+
+Wady metody STM:
+
+- możliwość wykonywania pomiarów tylko dla materiałów przewodzących
+- wpływ kształtu sondy (igły) skanującej na otrzymywane wyniki
+- duża czułość na wstrząsy mechaniczne i akustyczne (silna zależność wartości prądu tunelowego od odległości między igłą a próbką)
+
+Ostrza są wolframowe. Robi się je  metodą wytrawiania.
+
+AFM - mikroskop sił atomowych - pozwala badać powierzchnie materiałów dielektrycznych. Ostrze o wyglądzie piramidy z kwadratem w podstawie. 
+
+`rysunek AFM (ważne: element piezoelektryczny)`
+
+![[Pasted image 20230212234228.png]]
+
+`wykresy siła-odległość`
+
+![[Pasted image 20230212234237.png]]
+
+![[Pasted image 20230212234245.png]]
+
+mod kontaktowy, przerywanego kontaktu, bezkontaktowy
+
+`inny schamte AFM (laser)`
+
+![[Pasted image 20230212234301.png]]
+
+Pomiary o wysokiej rozdzielczości wykonywane są najczęściej w ultra wysokiej próżni (UHV)
+
+Zalety AFM:
+
+- atomowa zdolność rozdzielcza
+- można badać przewodniki, półprzewodniki i izolatory
+
+Mody pracy:
+
+- stałoprądowy - belka nie jest wprowadzona w wibracje
+	- mod kontaktowy - stosowany jest do powierzchni atomowo gładkich oraz chropowatych a jego wadą jest możliwość uszkodzenia powierzchni próbki.
+- zmiennoprądowe - belka wibruje z określoną częstotliwością
+	- mod przerywanego kontaktu (chwilowokontaktowy) - małe jest ryzyko uszkodzenia powierzchni próbki i może być stosowany do tak delikatnych próbek, jak np. białka
+	- mod bezkontaktowy - korzystamy kiedy próbka jest silnie reaktywna i może reagować z krzemem w igle
+
+Zastosowania AFM:
+
+- do badania żywych preparatów biologicznych w środowisku zbliżonym do naturalnego ( np. w wodzie)
+- do pomiarów topograficznych
+- do badania właściwości mechanicznych próbki takich jak : elastyczność, siła adhezji, tarcie
+
+Artefakty w AFM:
+
+- zmiany geometrii ostrza 
+	- urwanie ostrza
+	- pochwycenie - przyklejenie materiału do ostrza
+	- stępione ostrze
+-  odwzorowanie kształtu ostrza
+	- Zbyt duże ostrze - np. jak jest wąski pik to się robi szeroka piramida
+- jakiś tam dryf. Nie powiedział o nim za wiele
+- kierunek skanowania - jak zmieniamy kierunek skanowania to możemy zobaczyć czy mamy np. artefakt związany ze zbyt dużym ostrzem
+- zakrzywienie ruchu ostrza
+- adsorpcja wody na powierzchni próbki
+### Równanie Braggów
+
+![[Pasted image 20240204003308.png]]
+
+Warunek dla konstruktywnej interferencji
+
+$$n \lambda = 2d sin \theta$$
 
 ### Jakie informacje można uzyskać o materiałach krystalicznych na podstawie badań krystalograficznych?
 
 ![[Pasted image 20240201145359.png]]
 
 ![[Pasted image 20240201145416.png]]
+
+![[Pasted image 20240203011541.png]]
 
 ### Komórki elementarne i układy krystalograficzne.
 
@@ -482,14 +924,6 @@ PIFABC
 ![[Pasted image 20240201145952.png]]
 
 ![[Pasted image 20240201150137.png]]
-
-### Kryterium podziału ciał stałych na przewodniki, półprzewodniki i izolatory.
-
-![[Pasted image 20240201150908.png]]
-
-![[Pasted image 20240201150929.png]]
-
-![[Pasted image 20230211230856.png]]
 
 
 ### Właściwości światła laserowego. (+ lasery ogółem)
@@ -515,7 +949,7 @@ Unikalne właściwości światła laserowego:
 ![[Pasted image 20240202220133.png]]
 
 
-### ### Techniki badawcze nanomateriałów
+### Techniki badawcze nanomateriałów
 
 Wybrane techniki charakteryzacji
 
@@ -530,14 +964,99 @@ Wybrane techniki charakteryzacji
 ![[Pasted image 20240202223100.png]]
 
 
-### Właściwości układów koloidalnych.
+### Układy dyspersyjne
 
 ![[Pasted image 20240203010430.png]]
 
-![[Pasted image 20240203010907.png]]
+### Właściwości mechaniczne:
 
-![[Pasted image 20240203011154.png]]
+- właściwości plastyczne
+	- wydłużenie - A\[mm\]
+	- przewężenie - Z\[mm\]
+	- udarność - KCU lub KCV \[MPa\]
+- właściwości wytrzymałościowe
+	- wytrzymałość na rozciąganie $R_m$ \[MPa\]
+	- granica plastyczność - $R_{0.2}$ lub $R_e$ \[MPa\]
+	- twardość
+		- Brinnella $H_B$
+		- Rockwell $H_{Rc}$
+		- Vicersa $H_{V}$
 
-![[Pasted image 20240203011248.png]]
+#### Udarność
 
-![[Pasted image 20240203011541.png]]
+Udarność jest miarą kruchości materiałów, określaną przez pracę potrzebną do dynamicznego złamania próbki i odnoszoną do wielkości poprzecznego przekroju próbki. Jednostką udarności jest $kJ/m^2$.
+
+Młot Charpy'ego
+![[Pasted image 20221026230110.png]]
+
+Spadający młot łamię beleczkę, zużywając część energii a zebrana zabierakiem wskazówka zaznacza wartość wykonanej pracy.
+
+W metodzie Charp’ego należy przed pomiarem naciąć na beleczce karb zgodnie z normą. **W pomiarze udarności z karbem młot ma uderzyć w powierzchnię przeciwną do karbu** Należy zmierzyć szerokość i grubość próbki. **Grubość próbki liczy się od zagłębienia karbu.**
+
+Udarność z karbem oblicza się wg wzoru:
+$$ a_k=\frac{A_k}{b \cdot t_k} \cdot 10^3\ [\frac{kJ}{m^2}]$$
+gdzie: ak- udarność z karbem; b- szerokość próbki w [mm]; tk- grubość (wysokość) próbki pod karbem, [mm]; Ak- energia zużyta na złamanie próbki z karbem, [kJ].
+
+#### Twardość
+
+Pojęcie twardości w odniesieniu do tworzyw sztucznych określa się za pomocą oporu, jaki stawia materiał, gdy wciska się w jego powierzchnię pionowo odpowiedni wgłębnik, (w przypadku metali, stosując naciski tak wielkie, aby powstało odkształcenie trwałe). Jako wgłębnik stosuje się elementy o znormalizowanych kształtach, np. kulki, stożki lub piramidki.
+
+Metoda Brinella (metoda wciskania kulki) polega na wciskaniu w badane tworzywo stalowej kulki o polerowanej powierzchni o średnicy 5±0,05 mm. Po pewnym czasie ustala się stan równowagi pomiędzy powierzchnią odcisku a obciążeniem wywieranym przez wgłębiającą się kulkę. W takim stanie stosunek siły obciążającej do powierzchni odcisku wgniecionego w danym materiale określa jego twardość:
+
+$$H=\frac{obciążenie}{powierzchnia\ odcisku}=\frac{F_t}{A}\ [\frac{N}{mm^2}]$$
+![[Pasted image 20221026235815.png]]
+
+#### Wytrzymałość na rozciąganie
+
+Próba rozciągania polega na jednoosiowym odkształceniu próbek i zmierzeniu powstających sił. 
+
+Podstawowymi wielkościami mierzonymi podczas próby rozciągania są odkształcenia (wydłużenia ε) oraz siły odkształcające.
+
+Wydłużenie bezwzględne:
+$$\Delta l_x=l_x-l_0\ [mm]$$
+gdzie, $l_0$ - początkowa długość odcinka pomiarowego, $l_x$ - końcowa długość o. p.
+
+Wydłużenie względne to stosunek odkształcenia bezwzględnego do początkowej długości odcinka pomiarowego
+$$\varepsilon = \frac{\Delta l_x}{l_0}\ [\%]$$
+Naprężenie $\sigma$ definiuje się jako stosunek siły odkształcającej do początkowej powierzchni przekroju poprzecznego rozciąganej próbki, zmierzonej przed przyłożeniem obciążenia:
+$$\sigma = \frac{F}{A_0}\ [\frac{N}{m^2}, Pa, MPa]$$
+gdzie $F$ - siła odkształcająca, $A_0$ - powierzchnia początkowego przekroju poprzecznego
+
+W miarę wzrostu odkształcenia maleje powierzchnia poprzecznego przekroju próbki, dlatego też naprężenia wyznaczone na podstawie powyższego wzoru mają **charakter umowny** i nie są tożsame z rzeczywistymi naprężeniami powstającymi w próbce podczas rozciągania. Dla małych odkształceń zaniedbanie to jest nieistotne.
+
+Wytrzymałość na rozciąganie jest maksymalnym naprężeniem jakie materiał przenosi podczas rozciągania:
+$$R_r=\frac{F_r}{A_0}$$
+gdzie $F_r$ - maksymalna siła odkształcająca, $A_0$ - powierzchnia początkowego przekroju poprzecznego (dla próbek o przekroju prostokątnym $A_0=a\cdot b$)
+
+Na wyniki badań wpływ mają:
+
+- sposób przygotowania próbek (defekty strukturalne)
+- kształt i wielkość próbek
+- temperatura i względna wilgotność otoczenia
+- czas trwania próby (szybkość odkształcania lub szybkość wzrostu naprężenia)
+
+Najpełniejszą charakterystykę rozciągania tworzyw daję wykres rozciągania, ilustrujący zależność $\sigma = f ( \varepsilon )$ 
+
+![[Pasted image 20221027133046.png]]
+
+Parametry na wykresie rozciągania:
+
+| parametr | oznaczenie na wykresie |  |
+| ---- | ---- | ---- |
+| granica proporcjonalności | $\sigma_1$ |  |
+| (umowna) granica plastyczności | $\sigma_2$ |  |
+| wydłużenie względne na granicy plastyczności | $\varepsilon_2$ |  |
+| doraźna wytrzymałość na rozciąganie | $\sigma_3$ |  |
+| naprężenie zrywające | $\sigma_4$ |  |
+| wydłużenie względne przy zerwaniu | $\varepsilon_4$ |  |
+
+
+Zaciskanie próbki w uchwytach zrywarki lub maszyny wytrzymałościowej powoduje z reguły drobne uszkodzenia powierzchniowej warstwy tworzywa. Doprowadza to do rozerwania w tych właśnie uszkodzonych miejscach, a wyniki są obarczone znacznymi błędami. W przypadku pomiarów próbek wiosełkowych, uszkodzenie spowodowane szczękami zrywarki nie mają wpływu na wyniki. Zniszczenie próbki następuję z reguły w środkowej, przewężonej części belki, gdzie przekrój jest najmniejszy a naprężenia największe.
+
+
+## Polimeryzacja rodnikowa (nie ma w zagadnieniach ale ja mam w pracy)
+
+![[Pasted image 20240204001614.png]]
+
+![[Pasted image 20240204001639.png]]
+![[Pasted image 20240204001714.png]]

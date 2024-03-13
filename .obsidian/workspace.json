@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "957bd96529534de3",
+            "id": "51eb568355b9d376",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Egzamin dyplomowy/Odpowiedzi do zagadnień.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b20f74f162fd75e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Egzamin dyplomowy/O Zagadnienia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a07794a0b4ffe15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Egzamin dyplomowy/Pytania z obrony 29.01..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7dde33c006298b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Egzamin dyplomowy/Chemia fizyczna.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a794b8367704d952",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semestr 5/2 Wtorek/2 Nanomateriały/NM 22.10.11.md",
+                "file": "Dodatki/Lasery 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Egzamin dyplomowy/O Zagadnienia.md",
+                "file": "Dodatki/Lasery 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Egzamin dyplomowy/O Zagadnienia.md",
+                "file": "Dodatki/Lasery 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Egzamin dyplomowy/O Zagadnienia.md"
+                "file": "Dodatki/Lasery 1.md"
               }
             }
           }
@@ -204,53 +155,54 @@
       "publish:Opublikuj zmiany": false
     }
   },
-  "active": "b20f74f162fd75e4",
+  "active": "51eb568355b9d376",
   "lastOpenFiles": [
-    "Egzamin dyplomowy/Chemia fizyczna.md",
-    "Egzamin dyplomowy/O Zagadnienia.md",
-    "Egzamin dyplomowy/Pytania z obrony 29.01..md",
-    "Egzamin dyplomowy/Odpowiedzi do zagadnień.md",
-    "Egzamin dyplomowy/Pasted image 20240203141429.png",
+    "Dodatki/Pasted image 20240306100003.png",
+    "Dodatki/Pasted image 20240306095244.png",
+    "Dodatki/Bez nazwy 1.md",
+    "Dodatki/Lasery 1.md",
     "Semestr 5/5 Piątek/2 Metody badań materiałów/MBM - wykłady.md",
-    "Egzamin dyplomowy/Pasted image 20240203135542.png",
-    "Semestr 5/2 Wtorek/2 Nanomateriały/NM 22.10.11.md",
-    "Egzamin dyplomowy/Pasted image 20240203133323.png",
-    "Egzamin dyplomowy/Pasted image 20240203133253.png",
-    "Semestr 5/2 Wtorek/2 Nanomateriały/0 Nanomateriały.md",
-    "Semestr 7/MZT/Zagadnienia.md",
-    "Egzamin dyplomowy/Pasted image 20240203122847.png",
-    "Egzamin dyplomowy/Pasted image 20240203122528.png",
-    "Egzamin dyplomowy/Pasted image 20240203011541.png",
-    "Egzamin dyplomowy/Pasted image 20240203011248.png",
-    "Egzamin dyplomowy/Pasted image 20240203011154.png",
-    "Egzamin dyplomowy/Pasted image 20240203010907.png",
-    "Semestr 5/2 Wtorek/2 Nanomateriały/NM 22.10.18.md",
-    "Semestr 5/1 Poniedziałek/1 Optyka materiałów/OM 22.11.28.md",
-    "Semestr 5/1 Poniedziałek/1 Optyka materiałów/OM 22.12.05.md",
-    "Semestr 5/1 Poniedziałek/1 Optyka materiałów/OM 22.12.12.md",
-    "Semestr 5/1 Poniedziałek/1 Optyka materiałów/OM 22.11.21.md",
-    "Semestr 5/1 Poniedziałek/1 Optyka materiałów/OM 22.11.14.md",
-    "Semestr 5/1 Poniedziałek/1 Optyka materiałów/OM 22.10.24.md",
-    "Semestr 5/1 Poniedziałek/1 Optyka materiałów/OM 22.10.17.md",
-    "Semestr 5/1 Poniedziałek/1 Optyka materiałów/0 Optyka materiałów.md",
-    "Semestr 5/2 Wtorek/2 Nanomateriały/Bez nazwy.md",
+    "Dodatki/PANIC 2023/Wykłady Neila Robertsona.md",
+    "Dodatki/PANIC 2023/Wykłady Ji-Seon Kim.md",
+    "Dodatki/PANIC 2023/Wykłady Jean-Charlesa Ribierre'a.md",
+    "Dodatki/PANIC 2023/Wykłady Carlosa Marquesa.md",
+    "Dodatki/PANIC 2023/Wykłady Bruna Therriena.md",
+    "Dodatki/PANIC 2023/Pezki doktorantów.md",
+    "Dodatki/Zagrożenie wiedzą.md",
+    "Dodatki/Magisterski dzień otwarty na TU Dresden.md",
+    "Egzamin dyplomowy/Post scritpum do materiałów do obrony.md",
+    "Egzamin dyplomowy/Pytania z obrony 29.01..md",
+    "Egzamin dyplomowy/Notatka dyplomowa.pdf",
+    "Egzamin dyplomowy/O Zagadnienia.md",
+    "Egzamin dyplomowy/Odpowiedzi do zagadnień.md",
     "Egzamin dyplomowy/egz-inż-IM-2020-21 (1).pdf",
+    "Semestr 7/MZT/Zagadnienia.md",
+    "Egzamin dyplomowy/Chemia fizyczna.md",
+    "Egzamin dyplomowy/Mikroskopie.md",
+    "Egzamin dyplomowy/Pasted image 20240204005409.png",
+    "Egzamin dyplomowy/Pasted image 20240204004959.png",
+    "Egzamin dyplomowy/Odpowiedzi do zagadnień_kompletna.pdf",
+    "Semestr 6/3 Środa/3 MM/Dodatek o właściwościach mechanicznych.md",
+    "Egzamin dyplomowy/Pasted image 20240204003308.png",
+    "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/K3.md",
+    "Egzamin dyplomowy/Post scritpum do materiałów do obrony.pdf",
+    "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/K4.md",
+    "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/K5.md",
+    "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/K6.md",
+    "Semestr 5/5 Piątek/3 Kompozyty - laboratorium/K1.md",
+    "Semestr 6/3 Środa/3 MM/MM 23.03.08.md",
+    "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230313110411.png",
+    "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230403100828.png",
+    "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230403100840.png",
+    "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230403100855.png",
+    "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230403101517.png",
+    "Semestr 6/1 Poniedziałek/2 TP/Pasted image 20230529094510.png",
+    "Semestr 6/1 Poniedziałek/3 TPl/TP3___Polimeryzacja_emulsyjna_styrenu.pdf",
+    "Semestr 6/1 Poniedziałek/3 TPl/TP notatki - ćw 4.pdf",
+    "Semestr 7/MZT_opracowanie.pdf",
+    "Egzamin dyplomowy/Mikroskopie.pdf",
     "Semestr 7/MZT Lab/ćw 5.pdf",
-    "Semestr 5/5 Piątek/2 Metody badań materiałów/MBM 22.10.07.md",
     "Semestr 6/2 Wtorek/1 KZR/Bardzo leniwe notatki z krystalo.pdf",
-    "Semestr 6/2 Wtorek/1 KZR/KZR 23.06.06.md",
-    "Semestr 6/2 Wtorek/1 KZR/Pytel_Jan_258825.pdf",
-    "Semestr 6/2 Wtorek/1 KZR/Zagadnienia na kol 1.pdf",
-    "Semestr 6/2 Wtorek/1 KZR/Zagadnienia na kol 1.md",
-    "Egzamin dyplomowy/Wtęp.md",
-    "Egzamin dyplomowy/Zagadnienia-na-Egzamin-IM-kompletne (1).docx",
-    "Semestr 6/3 Środa/2 BM/BM 23.04.05.md",
-    "Egzamin dyplomowy",
-    "Semestr 6/3 Środa/2 BM/BM 23.03.29.md",
-    "Semestr 6/3 Środa/2 BM/BM 23.03.22.md",
-    "Semestr 7/Ergonomia",
-    "Bez nazwy.canvas",
-    "Semestr 7/SD",
-    "Semestr 7/Anatomia"
+    "Bez nazwy.canvas"
   ]
 }
